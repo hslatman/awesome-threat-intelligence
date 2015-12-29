@@ -57,7 +57,7 @@ A curated list of Awesome Threat Intelligence resources
             <a href="http://csirtgadgets.org/collective-intelligence-framework" target="_blank">CIF</a>
         </td>
         <td>
-            The Collective Intelligence Framework (CIF) allows you to combine known malicious threat information from many sources and use that information for IR, detection and mitigation. Code available on [GitHub](https://github.com/csirtgadgets/massive-octo-spice).
+            The Collective Intelligence Framework (CIF) allows you to combine known malicious threat information from many sources and use that information for IR, detection and mitigation. Code available on <a href="https://github.com/csirtgadgets/massive-octo-spice" target="_blank">GitHub</a>.
         </td>
     </tr>
     <tr>
