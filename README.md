@@ -4,7 +4,7 @@ A curated list of Awesome Threat Intelligence resources
 - [Sources](#sources)
 - [Parsers](#parsers)
 - [Standards](#standards)
-- [Frameworks](#frameworks)
+- [Frameworks](#frameworks-and-platforms)
 - [Research](#research)
 
 
