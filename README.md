@@ -5,12 +5,11 @@ A curated list of Awesome Threat Intelligence resources
 - [Parsers](#parsers)
 - [Standards](#standards)
 - [Frameworks](#frameworks-and-platforms)
+- [Tools](#tools)
 - [Research](#research)
 
 
 ## Sources
-
-## Parsers
 
 ## Standards
 
@@ -62,6 +61,14 @@ A curated list of Awesome Threat Intelligence resources
     </tr>
     <tr>
         <td>
+            <a href="https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation" target="_blank">IntelMQ</a>
+        </td>
+        <td>
+            IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs.    
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.misp-project.org/" target="_blank">MISP</a>
         </td>
         <td>
@@ -94,12 +101,20 @@ A curated list of Awesome Threat Intelligence resources
     </tr>
     <tr>
         <td>
+            <a href="https://www.threatcrowd.org/" target="_blank"ThreatCrowd</a>
+        </td>
+        <td>
+            ThreatCrowd is a system for finding and researching artefacts relating to cyber threats.
+        </td>
+    </tr>  
+    <tr>
+        <td>
             <a href="https://developers.facebook.com/docs/threat-exchange/" target="_blank">ThreatExchange</a>
         </td>
         <td>
-            Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in *beta*.
+            Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in <b>beta</b>.
         </td>
-    </tr>
+    </tr>  
     <tr>
         <td>
             <a href="https://exchange.xforce.ibmcloud.com/" target="_blank">XFE - X-Force Exchange</a>
@@ -109,5 +124,62 @@ A curated list of Awesome Threat Intelligence resources
         </td>
     </tr>
 </table>
+
+
+
+## Tools
+
+<table>
+    <tr>
+        <td>
+            <a href="https://github.com/mlsecproject/combine" target="_blank">Combine</a>
+        </td>
+        <td>
+            Combine gathers Threat Intelligence Feeds from publicly available sources.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.fireeye.com/services/freeware/ioc-editor.html" target="_blank">IOC Editor</a>
+        </td>
+        <td>
+            A free editor for Indicators of Compromise (IOCs).
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/mandiant/ioc_writer" target="_blank">ioc_writer</a>
+        </td>
+        <td>
+            Provides a python library that allows for basic creation and editing of OpenIOC objects.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/jpsenior/threataggregator" target="_blank">threataggregator</a>
+        </td>
+        <td>
+            ThreatAggregrator aggregates security threats from a number of online sources, and outputs to various formats, including CEF, Snort and IPTables rules.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/jiachongzhi/ThreatTracker" target="_blank">ThreatTracker</a>
+        </td>
+        <td>
+            A Python script designed to monitor and generate alerts on given sets of  IOCs indexed by a set of Google Custom Search Engines. 
+        </td>
+    </tr>     
+    <tr>
+        <td>
+            <a href="https://github.com/mlsecproject/tiq-test" target="_blank">tiq-test</a>
+        </td>
+        <td>
+            The Threat Intelligence Quotient (TIQ) Test tool provides visualization and statistical analysis of TI feeds.
+        </td>
+    </tr>
+</table>
+
+
 
 ## Research
