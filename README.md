@@ -2,34 +2,83 @@
 A curated list of Awesome Threat Intelligence resources
 
 - [Sources](#sources)
-- [Parsers](#parsers)
-- [Standards](#standards)
+- [Formats](#formats)
 - [Frameworks](#frameworks-and-platforms)
 - [Tools](#tools)
-- [Research](#research)
+- [Research, Standards & Books](#research)
 
 
 ## Sources
 
-## Standards
+
+
+## Formats
 
 <table>
-  <tr>
-    <td><a href="https://cyboxproject.github.io/" target="_blank">CybOX</a></td>
-    <td>The Cyber Observable eXpression (CybOX) language provides a common structure for representing cyber observables across and among the operational areas of enterprise cyber security that improves the consistency, efficiency, and interoperability of deployed tools and processes, as well as increases overall situational awareness by enabling the potential for detailed automatable sharing, mapping, detection, and analysis heuristics.</td> 
-  </tr>
-  <tr>
-    <td><a href="https://stixproject.github.io/" target="_blank">STIX</a></td>
-    <td>The Structured Threat Information eXpression (STIX) language is a standardized construct to represent cyber threat information. The STIX Language intends to convey the full range of potential cyber threat information and strives to be fully expressive, flexible, extensible, and automatable. </td> 
-  </tr>  
-  <tr>
-    <td><a href="https://taxiiproject.github.io/" target="_blank">TAXII</a></td>
-    <td>The Trusted Automated eXchange of Indicator Information (TAXII) standard defines a set of services and message exchanges that, when implemented,  enable sharing of actionable cyber threat information across organization and product/service boundaries. TAXII defines concepts, protocols, and message exchanges to exchange cyber threat information for the detection, prevention, and mitigation of cyber threats.</td> 
-  </tr>  
-  <tr>
-    <td><a href="https://maecproject.github.io/" target="_blank">MAEC</a></td>
-    <td>The Malware Attribute Enumeration and Characterization (MAEC) projects is aimed at creating and providing a standardized language for sharing structured information about malware based upon attributes such as behaviors, artifacts, and attack patterns.</td> 
-  </tr>
+    <tr>
+        <td>
+            <a href=https://capec.mitre.org/" target="_blank">CAPEC</a>
+        </td>
+        <td>
+            The Common Attack Pattern Enumeration and Classification (CAPEC) is a comprehensive dictionary and classification taxonomy of known attacks that can be used by analysts, developers, testers, and educators to advance community understanding and enhance defenses.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://cyboxproject.github.io/" target="_blank">CybOX</a>
+        </td>
+        <td>
+            The Cyber Observable eXpression (CybOX) language provides a common structure for representing cyber observables across and among the operational areas of enterprise cyber security that improves the consistency, efficiency, and interoperability of deployed tools and processes, as well as increases overall situational awareness by enabling the potential for detailed automatable sharing, mapping, detection, and analysis heuristics.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="http://tools.ietf.org/html/rfc5070" target="_blank">IODEF (RFC5070)</a>
+        </td>
+        <td>
+            The Incident Object Description Exchange Format (IODEF) defines a data representation that provides a framework for sharing information commonly exchanged by Computer Security Incident Response Teams (CSIRTs) about computer security incidents.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="http://tools.ietf.org/html/rfc4765" target="_blank">IDMEF</a>
+        </td>
+        <td>
+            <i>Experimental</i> - The purpose of the Intrusion Detection Message Exchange Format (IDMEF) is to define data formats and exchange procedures for sharing information of interest to intrusion detection and response systems and to the management systems that may need to interact with them.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://maecproject.github.io/" target="_blank">MAEC</a>
+        </td>
+        <td>
+            The Malware Attribute Enumeration and Characterization (MAEC) projects is aimed at creating and providing a standardized language for sharing structured information about malware based upon attributes such as behaviors, artifacts, and attack patterns.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://stixproject.github.io/" target="_blank">STIX</a>
+        </td>
+        <td>
+            The Structured Threat Information eXpression (STIX) language is a standardized construct to represent cyber threat information. The STIX Language intends to convey the full range of potential cyber threat information and strives to be fully expressive, flexible, extensible, and automatable. STIX does not only allow tool-agnostic fields, but also provides so-called <i>test mechanisms</i> that provide means for embedding tool-specific elements, including OpenIOC, Yara and Snort.
+        </td> 
+    </tr>  
+    <tr>
+        <td>
+            <a href="https://taxiiproject.github.io/" target="_blank">TAXII</a>
+        </td>
+        <td>
+            The Trusted Automated eXchange of Indicator Information (TAXII) standard defines a set of services and message exchanges that, when implemented,  enable sharing of actionable cyber threat information across organization and product/service boundaries. TAXII defines concepts, protocols, and message exchanges to exchange cyber threat information for the detection, prevention, and mitigation of cyber threats.
+        </td> 
+    </tr> 
+    <tr>
+        <td>
+            <a href="http://veriscommunity.net/index.html" target="_blank">VERIS</a>
+        </td>
+        <td>
+            The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. In addition to providing a structuref format, VERIS also collects data from the community to report on breaches in the Verizon Data Breach Investigations Report (<a target="_blank" href="http://www.verizonenterprise.com/DBIR/">DBIR</a>) and publishes this database online at <a target="_blank" href="http://vcdb.org/index.html">http://vcdb.org/index.html</a>.
+        </td> 
+    </tr>     
 </table>
 
 ## Frameworks and Platforms
@@ -156,6 +205,14 @@ A curated list of Awesome Threat Intelligence resources
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/STIXProject/openioc-to-stix" target="_blank">openioc-to-stix</a>
+        </td>
+        <td>
+            Generate STIX XML from OpenIOC XML.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/jpsenior/threataggregator" target="_blank">threataggregator</a>
         </td>
         <td>
@@ -182,4 +239,23 @@ A curated list of Awesome Threat Intelligence resources
 
 
 
-## Research
+## <a name="research"></a>Research, Standards & Books
+
+<table>
+    <tr>
+        <td>
+            <a href="https://cryptome.org/2015/09/cti-guide.pdf" target="_blank">Definitive Guide to Cyber Threat Intelligence/a>
+        </td>
+        <td>
+            Describes the elements of cyber threat intelligence and discusses how it is collected, analyzed, and used by a variety of human and technology consumers.Fruther examines how intelligence can improve cybersecurity at tactical, operational, and strategic levels, and how it can help you stop attacks sooner, improve your defenses, and talk more productively about cybersecurity issues with executive management in typical <i>for Dummies</i> style.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://csrc.nist.gov/publications/drafts/800-150/sp800_150_draft.pdf" target="_blank">Guide to Cyber Threat Information Sharing by NIST</a>
+        </td>
+        <td>
+            The Guide to Cyber Threat Information Sharing (NIST Special Publication 800-15, draft) assists organizations in establishing computer security incident response capabilities that leverage the collective knowledge, experience, and abilities of their partners by actively sharing threat intelligence and ongoing coordination. The guide provides guidelines for coordinated incident handling, including producing and consuming data, participating in information sharingcommunities, and protecting incident-related data.
+        </td>
+    </tr>
+</table>
