@@ -41,7 +41,7 @@ A curated list of Awesome Threat Intelligence resources
     </tr>
     <tr>
         <td>
-            <a href="http://tools.ietf.org/html/rfc4765" target="_blank">IDMEF</a>
+            <a href="http://tools.ietf.org/html/rfc4765" target="_blank">IDMEF (RFC4765)</a>
         </td>
         <td>
             <i>Experimental</i> - The purpose of the Intrusion Detection Message Exchange Format (IDMEF) is to define data formats and exchange procedures for sharing information of interest to intrusion detection and response systems and to the management systems that may need to interact with them.
@@ -150,7 +150,7 @@ A curated list of Awesome Threat Intelligence resources
     </tr>
     <tr>
         <td>
-            <a href="https://www.threatcrowd.org/" target="_blank"ThreatCrowd</a>
+            <a href="https://www.threatcrowd.org/" target="_blank">ThreatCrowd</a>
         </td>
         <td>
             ThreatCrowd is a system for finding and researching artefacts relating to cyber threats.
@@ -244,7 +244,7 @@ A curated list of Awesome Threat Intelligence resources
 <table>
     <tr>
         <td>
-            <a href="https://cryptome.org/2015/09/cti-guide.pdf" target="_blank">Definitive Guide to Cyber Threat Intelligence/a>
+            <a href="https://cryptome.org/2015/09/cti-guide.pdf" target="_blank">Definitive Guide to Cyber Threat Intelligence</a>
         </td>
         <td>
             Describes the elements of cyber threat intelligence and discusses how it is collected, analyzed, and used by a variety of human and technology consumers.Fruther examines how intelligence can improve cybersecurity at tactical, operational, and strategic levels, and how it can help you stop attacks sooner, improve your defenses, and talk more productively about cybersecurity issues with executive management in typical <i>for Dummies</i> style.
