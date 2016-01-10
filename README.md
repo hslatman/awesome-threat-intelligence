@@ -134,7 +134,7 @@ A curated list of Awesome Threat Intelligence resources
     </tr>
     <tr>
         <td>
-            <a href="http://www.openioc.org/" target="_blank">OTX - Open Threat Exchange</a>
+            <a href="https://www.alienvault.com/open-threat-exchange" target="_blank">OTX - Open Threat Exchange</a>
         </td>
         <td>
             AlienVault Open Threat Exchange (OTX) provides open access to a global community of threat researchers and security professionals. It delivers community-generated threat data, enables collaborative research, and automates the process of updating your security infrastructure with threat data from any source.
