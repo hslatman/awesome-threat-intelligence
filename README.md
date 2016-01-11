@@ -205,6 +205,14 @@ A curated list of Awesome Threat Intelligence resources
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/johestephan/ibmxforceex.checker.py" target="_blank">ibmxforceex.checker.py</a>
+        </td>
+        <td>
+            Python client for the IBM X-Force Exchange.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/STIXProject/openioc-to-stix" target="_blank">openioc-to-stix</a>
         </td>
         <td>
