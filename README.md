@@ -287,3 +287,9 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
     </tr>
 </table>
+
+
+
+## License
+
+Licensed under [Apache License 2.0](LICENSE)
