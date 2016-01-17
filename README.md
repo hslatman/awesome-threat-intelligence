@@ -14,7 +14,16 @@ Feel free to [contribute](CONTRIBUTING.md).
 
 ## Sources
 
-
+<table>
+    <tr>
+        <td>
+            <a href=https://intel.criticalstack.com/" target="_blank">Critical Stack Intel</a>
+        </td>
+        <td>
+            The free threat intelligence parsed and aggregated by Critical Stack is ready for use in any Bro production system. You can specify which feeds you trust and want to ingest.
+        </td> 
+    </tr> 
+</table>
 
 ## Formats
 
