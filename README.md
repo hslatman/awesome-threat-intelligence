@@ -17,12 +17,20 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
-            <a href=https://intel.criticalstack.com/" target="_blank">Critical Stack Intel</a>
+            <a href="https://intel.criticalstack.com/" target="_blank">Critical Stack Intel</a>
         </td>
         <td>
             The free threat intelligence parsed and aggregated by Critical Stack is ready for use in any Bro production system. You can specify which feeds you trust and want to ingest.
         </td> 
-    </tr> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://intel.deepviz.com/recap_network.php" target="_blank">Deepviz Threat Intel</a>
+        </td>
+        <td>
+            Deepviz offers a sandbox for analyzing malware and has an API available with threat intelligence harvested from the sandbox. 
+        </td> 
+    </tr>     
 </table>
 
 ## Formats
