@@ -281,7 +281,7 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
-            <a href="http://download.microsoft.com/download/8/0/1/801358EC-2A0A-4675-A2E7-96C2E7B93E73/Framework_for_Cybersecurity_Info_Sharing.pdf" target="_blank">APTnotes</a>
+            <a href="http://download.microsoft.com/download/8/0/1/801358EC-2A0A-4675-A2E7-96C2E7B93E73/Framework_for_Cybersecurity_Info_Sharing.pdf" target="_blank">Microsoft Research Paper</a>
         </td>
         <td>
             A framework for cybersecurity information sharing and risk reduction. A high level overview paper by Microsoft.
