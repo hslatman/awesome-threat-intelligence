@@ -281,6 +281,14 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
+            <a href="https://github.com/kbandla/APTnotes" target="_blank">APTnotes</a>
+        </td>
+        <td>
+            A great collection of sources regarding <i>Advanced Persistent Threats</i> (APTs). These reports usually include strategic and tactical knowledge or advice. 
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://cryptome.org/2015/09/cti-guide.pdf" target="_blank">Definitive Guide to Cyber Threat Intelligence</a>
         </td>
         <td>
