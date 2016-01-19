@@ -319,6 +319,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             This report by MWR InfoSecurity clearly describes several diffent types of threat intelligence, including strategic, tactical and operational variations. It also discusses the processes of requirements elicitation, collection, analysis, production and evaluation of threat intelligence. Also included are some quick wins and a maturity model for each of the types of threat intelligence defined by MWR InfoSecurity.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.sans.org/reading-room/whitepapers/analyst/who-039-s-cyberthreat-intelligence-how-35767" target="_blank">Who's Using Cyberthreat Intelligence and How?</a>
+        </td>
+        <td>
+            A whitepaper by the SANS Institute describing the usage of Threat Intelligence including a survey that was performed.
+        </td>
+    </tr>
 </table>
 
 
