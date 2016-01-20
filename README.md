@@ -171,7 +171,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/Lookingglass/opentpx/" target="_blank"Open Threat Partner eXchange</a>
+            <a href="https://github.com/Lookingglass/opentpx/" target="_blank">Open Threat Partner eXchange</a>
         </td>
         <td>
             The Open Threat Partner eXchange (OpenTPX) consists of an open-source format and tools for exchanging machine-readable threat intelligence and network security operations data. It is a JSON-based format that allows sharing of data between connected systems.
