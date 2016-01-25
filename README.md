@@ -33,7 +33,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>  
     <tr>
         <td>
-            <a href="https://intel.deepviz.com/recap_network.php" target="_blank">OpenPhish Feeds</a>
+            <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
         </td>
         <td>
             OpenPhish receives URLs from multiple streams and analyzes them using its proprietary phishing detection algorithms. There are free and commercial offerings available.
