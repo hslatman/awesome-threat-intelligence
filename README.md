@@ -33,9 +33,9 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>  
     <tr>
         <td>
-            <a href="https://intel.deepviz.com/recap_network.php" target="_blank">OpenPhish Feeds</a>
+            <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
         </td>
-        <td>
+        <td>Conf
             OpenPhish receives URLs from multiple streams and analyzes them using its proprietary phishing detection algorithms. There are free and commercial offerings available.
         </td> 
     </tr>     
@@ -105,7 +105,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="http://veriscommunity.net/index.html" target="_blank">VERIS</a>
         </td>
         <td>
-            The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. In addition to providing a structuref format, VERIS also collects data from the community to report on breaches in the Verizon Data Breach Investigations Report (<a target="_blank" href="http://www.verizonenterprise.com/DBIR/">DBIR</a>) and publishes this database online at <a target="_blank" href="http://vcdb.org/index.html">http://vcdb.org/index.html</a>.
+            The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. In addition to providing a structuref format, VERIS also collects data from the community to report on breaches in the Verizon Data Breach Investigations Report (<a target="_blank" href="http://www.verizonenterprise.com/DBIR/">DBIR</a>) and publishes this database online at <a target="_blank" href="http://vcdb.org/index.html">VCDB.org</a>.
         </td> 
     </tr>     
 </table>
