@@ -33,6 +33,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="http://rules.emergingthreats.net/fwrules/" target="_blank">Emerging Threats Firewall Rules</a>
+        </td>
+        <td>
+            A collection of rules for several types of firewalls, including iptables, PF and PIX.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://rules.emergingthreats.net/blockrules/" target="_blank">Emerging Threats IDS Rules</a>
         </td>
         <td>
