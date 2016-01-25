@@ -14,6 +14,10 @@ Feel free to [contribute](CONTRIBUTING.md).
 
 ## Sources
 
+Most of the resources listed below provide lists and/or APIs to obtain (hopefully) up-to-date information with regards to threats.
+Some consider these sources as threat intelligence, opinions differ however. 
+A certain amount of (domain- or business-specific) analysis is necessary to create true threat intelligence.
+
 <table>
     <tr>
         <td>
@@ -30,7 +34,39 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>
             Deepviz offers a sandbox for analyzing malware and has an API available with threat intelligence harvested from the sandbox. 
         </td> 
-    </tr>  
+    </tr>
+    <tr>
+        <td>
+            <a href="http://rules.emergingthreats.net/fwrules/" target="_blank">Emerging Threats Firewall Rules</a>
+        </td>
+        <td>
+            A collection of rules for several types of firewalls, including iptables, PF and PIX.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://rules.emergingthreats.net/blockrules/" target="_blank">Emerging Threats IDS Rules</a>
+        </td>
+        <td>
+            A collection of Snort and Suricata <i>rules</i> files that can be used for alerting or blocking.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
+        </td>
+        <td>
+            I-Blocklist maintains several types of lists containing IP addresses belonging to various categories. Some of these main categories include countries, ISPs and organizations. Other lists include web attacks, TOR, spyware and proxies. Many are free to use, and available in various formats.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.malwaredomains.com/" target="_blank">MalwareDomains.com</a>
+        </td>
+        <td>
+            The DNS-BH project creates and maintains a listing of domains that are known to be used to propagate malware and spyware. These can be used for detection as well as prevention (sinkholing DNS requests).
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
