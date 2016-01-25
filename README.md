@@ -30,7 +30,15 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>
             Deepviz offers a sandbox for analyzing malware and has an API available with threat intelligence harvested from the sandbox. 
         </td> 
-    </tr>  
+    </tr>
+    <tr>
+        <td>
+            <a href="http://rules.emergingthreats.net/blockrules/" target="_blank">Emerging Threats IDS Rules</a>
+        </td>
+        <td>
+            A collection of Snort and Suricata <i>rules</i> files that can be used for alerting or blocking.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://intel.deepviz.com/recap_network.php" target="_blank">OpenPhish Feeds</a>
