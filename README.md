@@ -57,6 +57,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="http://www.malwaredomains.com/" target="_blank">MalwareDomains.com</a>
+        </td>
+        <td>
+            The DNS-BH project creates and maintains a listing of domains that are known to be used to propagate malware and spyware. These can be used for detection as well as prevention (sinkholing DNS requests).
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://intel.deepviz.com/recap_network.php" target="_blank">OpenPhish Feeds</a>
         </td>
         <td>
