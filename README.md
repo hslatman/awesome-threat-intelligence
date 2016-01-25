@@ -14,6 +14,10 @@ Feel free to [contribute](CONTRIBUTING.md).
 
 ## Sources
 
+Most of the resources listed below provide lists and/or APIs to obtain (hopefully) up-to-date information with regards to threats.
+Some consider these sources as threat intelligence, opinions differ however. 
+A certain amount of (domain- or business-specific) analysis is necessary to create true threat intelligence.
+
 <table>
     <tr>
         <td>
