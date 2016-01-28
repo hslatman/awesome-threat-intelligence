@@ -74,7 +74,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>Conf
             OpenPhish receives URLs from multiple streams and analyzes them using its proprietary phishing detection algorithms. There are free and commercial offerings available.
         </td> 
-    </tr>     
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.phishtank.com/developer_info.php" target="_blank">PhishTank</a>
+        </td>
+        <td>Conf
+            PhishTank delivers a list of suspected phishing URLs. Their data comes from human reports, but they also ingest external feeds where possible. It's a free service, but registering for an API key is sometimes necessary.
+        </td> 
+    </tr>      
 </table>
 
 ## Formats
