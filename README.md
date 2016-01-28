@@ -82,7 +82,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>Conf
             PhishTank delivers a list of suspected phishing URLs. Their data comes from human reports, but they also ingest external feeds where possible. It's a free service, but registering for an API key is sometimes necessary.
         </td> 
-    </tr>      
+    </tr>
+    <tr>
+        <td>
+            <a href="https://sslbl.abuse.ch/" target="_blank">SSL Blacklist</a>
+        </td>
+        <td>
+            SSL Blacklist (SSLBL) is a project maintained by abuse.ch. The goal is to provide a list of "bad" SSL certificates identified by abuse.ch to be associated with malware or botnet activities. SSLBL relies on SHA1 fingerprints of malicious SSL certificates and offers various blacklists
+        </td> 
+    </tr>    
 </table>
 
 ## Formats
