@@ -53,6 +53,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://hailataxii.com/" target="_blank">Hail a TAXII</a>
+        </td>
+        <td>
+            Hail a TAXII.com is a repository of Open Source Cyber Threat Intellegence feeds in STIX format. They offer several feeds, including some that are listed here already in a different format, like the Emerging Threats rules and PhishTank feeds. 
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
         </td>
         <td>
