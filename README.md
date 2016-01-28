@@ -53,6 +53,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://hailataxii.com/" target="_blank">Hail a TAXII</a>
+        </td>
+        <td>
+            Hail a TAXII.com is a repository of Open Source Cyber Threat Intellegence feeds in STIX format. They offer several feeds, including some that are listed here already in a different format, like the Emerging Threats rules and PhishTank feeds. 
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
         </td>
         <td>
@@ -74,7 +82,23 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>Conf
             OpenPhish receives URLs from multiple streams and analyzes them using its proprietary phishing detection algorithms. There are free and commercial offerings available.
         </td> 
-    </tr>     
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.phishtank.com/developer_info.php" target="_blank">PhishTank</a>
+        </td>
+        <td>Conf
+            PhishTank delivers a list of suspected phishing URLs. Their data comes from human reports, but they also ingest external feeds where possible. It's a free service, but registering for an API key is sometimes necessary.
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://sslbl.abuse.ch/" target="_blank">SSL Blacklist</a>
+        </td>
+        <td>
+            SSL Blacklist (SSLBL) is a project maintained by abuse.ch. The goal is to provide a list of "bad" SSL certificates identified by abuse.ch to be associated with malware or botnet activities. SSLBL relies on SHA1 fingerprints of malicious SSL certificates and offers various blacklists
+        </td> 
+    </tr>    
 </table>
 
 ## Formats
