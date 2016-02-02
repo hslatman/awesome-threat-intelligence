@@ -231,6 +231,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Intelworks/OpenTAXII" target="_blank">OpenTAXII</a>
+        </td>
+        <td>
+            OpenTAXII is a robust Python implementation of TAXII Services that delivers a rich feature set and a friendly pythonic API built on top of a well designed application.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.alienvault.com/open-threat-exchange" target="_blank">OTX - Open Threat Exchange</a>
         </td>
         <td>
