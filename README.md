@@ -334,6 +334,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/TAXIIProject/libtaxii" target="_blank">libtaxii</a>
+        </td>
+        <td>
+            A Python library for handling TAXII Messages invoking TAXII Services.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/STIXProject/openioc-to-stix" target="_blank">openioc-to-stix</a>
         </td>
         <td>
