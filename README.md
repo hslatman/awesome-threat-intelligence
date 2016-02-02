@@ -231,6 +231,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Intelworks/OpenTAXII" target="_blank">OpenTAXII</a>
+        </td>
+        <td>
+            OpenTAXII is a robust Python implementation of TAXII Services that delivers a rich feature set and a friendly pythonic API built on top of a well designed application.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.alienvault.com/open-threat-exchange" target="_blank">OTX - Open Threat Exchange</a>
         </td>
         <td>
@@ -286,6 +294,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
+            <a href="https://github.com/Intelworks/cabby" target="_blank">cabby</a>
+        </td>
+        <td>
+            A simple Python library for interacting with TAXII servers.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/mlsecproject/combine" target="_blank">Combine</a>
         </td>
         <td>
@@ -314,6 +330,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             Python client for the IBM X-Force Exchange.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/TAXIIProject/libtaxii" target="_blank">libtaxii</a>
+        </td>
+        <td>
+            A Python library for handling TAXII Messages invoking TAXII Services.
         </td>
     </tr>
     <tr>
