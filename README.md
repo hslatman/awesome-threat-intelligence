@@ -294,6 +294,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
+            <a href="https://github.com/Intelworks/cabby" target="_blank">cabby</a>
+        </td>
+        <td>
+            A simple Python library for interacting with TAXII servers.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/mlsecproject/combine" target="_blank">Combine</a>
         </td>
         <td>
