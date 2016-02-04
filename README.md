@@ -350,6 +350,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
+        </td>
+        <td>
+            Allows you to test your TAXII environment by connecting to the provided services and performing the different functions as writtten in the TAXII specifications.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/jpsenior/threataggregator" target="_blank">threataggregator</a>
         </td>
         <td>
