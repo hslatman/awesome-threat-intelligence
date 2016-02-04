@@ -350,6 +350,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
+        </td>
+        <td>
+            Allows you to test your TAXII environment by connecting to the provided services and performing the different functions as writtten in the TAXII specifications.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/jpsenior/threataggregator" target="_blank">threataggregator</a>
         </td>
         <td>
@@ -381,14 +389,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
-            <a href="http://download.microsoft.com/download/8/0/1/801358EC-2A0A-4675-A2E7-96C2E7B93E73/Framework_for_Cybersecurity_Info_Sharing.pdf" target="_blank">Microsoft Research Paper</a>
-        </td>
-        <td>
-            A framework for cybersecurity information sharing and risk reduction. A high level overview paper by Microsoft.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/kbandla/APTnotes" target="_blank">APTnotes</a>
         </td>
         <td>
@@ -409,6 +409,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             The Guide to Cyber Threat Information Sharing (NIST Special Publication 800-15, draft) assists organizations in establishing computer security incident response capabilities that leverage the collective knowledge, experience, and abilities of their partners by actively sharing threat intelligence and ongoing coordination. The guide provides guidelines for coordinated incident handling, including producing and consuming data, participating in information sharingcommunities, and protecting incident-related data.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://download.microsoft.com/download/8/0/1/801358EC-2A0A-4675-A2E7-96C2E7B93E73/Framework_for_Cybersecurity_Info_Sharing.pdf" target="_blank">Microsoft Research Paper</a>
+        </td>
+        <td>
+            A framework for cybersecurity information sharing and risk reduction. A high level overview paper by Microsoft.
         </td>
     </tr>
     <tr>
