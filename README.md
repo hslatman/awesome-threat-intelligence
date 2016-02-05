@@ -175,6 +175,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
+            <a href="https://github.com/csirtgadgets/bearded-avenger" target="_blank">Bearded Avenger</a>
+        </td>
+        <td>
+            The fastest way to consume threat intelligence. Successor to CIF.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://crits.github.io/" target="_blank">CRITS</a>
         </td>
         <td>
