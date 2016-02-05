@@ -183,14 +183,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="http://django-mantis.readthedocs.org/en/latest/" target="_blank">MANTIS</a>
-        </td>
-        <td>
-            The Model-based Analysis of Threat Intelligence Sources (MANTIS) Cyber Threat Intelligence Management Framework supports the management of cyber threat intelligence expressed in various standard languages, like STIX and CybOX. It is *not* ready for large-scale production though.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="http://csirtgadgets.org/collective-intelligence-framework" target="_blank">CIF</a>
         </td>
         <td>
@@ -211,6 +203,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             IOC Bucket is a free community driven platform dedicated to providing the security community a way to share quality threat intelligence in a simple but efficient way. The IOCs are developed by the community, reviewed by the community, and distributed for use by the community. The content will always remain free and available. In addition to searching and uploading IOCs, it also features an online IOC editor.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://django-mantis.readthedocs.org/en/latest/" target="_blank">MANTIS</a>
+        </td>
+        <td>
+            The Model-based Analysis of Threat Intelligence Sources (MANTIS) Cyber Threat Intelligence Management Framework supports the management of cyber threat intelligence expressed in various standard languages, like STIX and CybOX. It is *not* ready for large-scale production though.
         </td>
     </tr>
     <tr>
