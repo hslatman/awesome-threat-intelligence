@@ -175,18 +175,18 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
-            <a href="https://crits.github.io/" target="_blank">CRITS</a>
+            <a href="https://github.com/csirtgadgets/bearded-avenger" target="_blank">Bearded Avenger</a>
         </td>
         <td>
-            CRITS is a platform that provides analysts with the means to conduct collaborative research into malware and threats. It plugs into a centralized intelligence data repository, but can also be used as a private instance.
+            The fastest way to consume threat intelligence. Successor to CIF.
         </td>
     </tr>
     <tr>
         <td>
-            <a href="http://django-mantis.readthedocs.org/en/latest/" target="_blank">MANTIS</a>
+            <a href="https://crits.github.io/" target="_blank">CRITS</a>
         </td>
         <td>
-            The Model-based Analysis of Threat Intelligence Sources (MANTIS) Cyber Threat Intelligence Management Framework supports the management of cyber threat intelligence expressed in various standard languages, like STIX and CybOX. It is *not* ready for large-scale production though.
+            CRITS is a platform that provides analysts with the means to conduct collaborative research into malware and threats. It plugs into a centralized intelligence data repository, but can also be used as a private instance.
         </td>
     </tr>
     <tr>
@@ -211,6 +211,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             IOC Bucket is a free community driven platform dedicated to providing the security community a way to share quality threat intelligence in a simple but efficient way. The IOCs are developed by the community, reviewed by the community, and distributed for use by the community. The content will always remain free and available. In addition to searching and uploading IOCs, it also features an online IOC editor.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://django-mantis.readthedocs.org/en/latest/" target="_blank">MANTIS</a>
+        </td>
+        <td>
+            The Model-based Analysis of Threat Intelligence Sources (MANTIS) Cyber Threat Intelligence Management Framework supports the management of cyber threat intelligence expressed in various standard languages, like STIX and CybOX. It is *not* ready for large-scale production though.
         </td>
     </tr>
     <tr>
