@@ -342,6 +342,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/armbues/ioc_parser" target="_blank">ioc_parser</a>
+        </td>
+        <td>
+            Tool to extract indicators of compromise from security reports in PDF format.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/TAXIIProject/libtaxii" target="_blank">libtaxii</a>
         </td>
         <td>
