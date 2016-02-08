@@ -358,6 +358,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/yahoo/PyIOCe" target="_blank">PyIOCe</a>
+        </td>
+        <td>
+            PyIOCe is an IOC editor written in Python.
+        </td>
+    </tr>    
+    <tr>
+        <td>
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
         </td>
         <td>
