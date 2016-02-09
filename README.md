@@ -282,7 +282,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="https://developers.facebook.com/docs/threat-exchange/" target="_blank">ThreatExchange</a>
         </td>
         <td>
-            Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in <b>beta</b>.
+            Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in <b>beta</b>. Reference code can be found at <a href="https://github.com/facebook/ThreatExchange" target="_blank">GitHub</a>.
         </td>
     </tr>  
     <tr>
