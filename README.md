@@ -395,7 +395,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             A Python script designed to monitor and generate alerts on given sets of  IOCs indexed by a set of Google Custom Search Engines. 
         </td>
-    </tr>     
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Yelp/threat_intel" target="_blank">threat_intel</a>
+        </td>
+        <td>
+            Several APIs for Threat Intelligence integrated in a single package. Included are: OpenDNS Investigate, VirusTotal and ShadowServer.
+        </td>
+    </tr>    
     <tr>
         <td>
             <a href="https://github.com/mlsecproject/tiq-test" target="_blank">tiq-test</a>
