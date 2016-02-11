@@ -299,6 +299,8 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 
 ## Tools
 
+All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly IOC based.
+
 <table>
     <tr>
         <td>
