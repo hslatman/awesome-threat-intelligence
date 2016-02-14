@@ -286,7 +286,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             <a href="https://developers.facebook.com/docs/threat-exchange/" target="_blank">ThreatExchange</a>
         </td>
         <td>
-            Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in <b>beta</b>.
+            Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in <b>beta</b>. Reference code can be found at <a href="https://github.com/facebook/ThreatExchange" target="_blank">GitHub</a>.
         </td>
     </tr>  
     <tr>
@@ -332,6 +332,14 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/armbues/ioc_parser" target="_blank">ioc_parser</a>
+        </td>
+        <td>
+            Tool to extract indicators of compromise from security reports in PDF format.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/mandiant/ioc_writer" target="_blank">ioc_writer</a>
         </td>
         <td>
@@ -364,6 +372,14 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/yahoo/PyIOCe" target="_blank">PyIOCe</a>
+        </td>
+        <td>
+            PyIOCe is an IOC editor written in Python.
+        </td>
+    </tr>    
+    <tr>
+        <td>
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
         </td>
         <td>
@@ -385,7 +401,15 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
         <td>
             A Python script designed to monitor and generate alerts on given sets of  IOCs indexed by a set of Google Custom Search Engines. 
         </td>
-    </tr>     
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Yelp/threat_intel" target="_blank">threat_intel</a>
+        </td>
+        <td>
+            Several APIs for Threat Intelligence integrated in a single package. Included are: OpenDNS Investigate, VirusTotal and ShadowServer.
+        </td>
+    </tr>    
     <tr>
         <td>
             <a href="https://github.com/mlsecproject/tiq-test" target="_blank">tiq-test</a>
