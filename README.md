@@ -103,6 +103,8 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 
 ## Formats
 
+Standardized formats for sharing Threat Intelligence (mostly IOCs).
+
 <table>
     <tr>
         <td>
@@ -171,6 +173,8 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 </table>
 
 ## Frameworks and Platforms
+
+Frameworks, platforms and services for collecting, analyzing, creating and sharing Threat Intelligence.
 
 <table>
     <tr>
@@ -395,6 +399,8 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
 
 
 ## <a name="research"></a>Research, Standards & Books
+
+All kinds of reading material about Threat Intelligence. Includes (scientific) research and whitepapers.
 
 <table>
     <tr>
