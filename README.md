@@ -364,6 +364,14 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/HurricaneLabs/machinae" target="_blank">Machinae</a>
+        </td>
+        <td>
+            Machinae is a tool for collecting intelligence from public sites/feeds about various security-related pieces of data: IP addresses, domain names, URLs, email addresses, file hashes and SSL fingerprints.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/STIXProject/openioc-to-stix" target="_blank">openioc-to-stix</a>
         </td>
         <td>
