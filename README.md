@@ -412,6 +412,14 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/jheise/threatcrowd_api" target="_blank">threatcrowd_api</a>
+        </td>
+        <td>
+            Python Library for ThreatCrowd's API.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/jiachongzhi/ThreatTracker" target="_blank">ThreatTracker</a>
         </td>
         <td>
