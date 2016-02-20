@@ -267,6 +267,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://www.passivetotal.org/" target="_blank">PassiveTotal</a>
+        </td>
+        <td>
+            The PassiveTotal platform offered by RiskIQ is a threat-analysis platform which provides analysts with as much data as possible in order to prevent attacks before they happen. Several types of solutions are offered, as well as integrations (APIs) with other systems.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/tripwire/tardis" target="_blank">TARDIS</a>
         </td>
         <td>
@@ -400,6 +408,14 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
         </td>
         <td>
             ThreatAggregrator aggregates security threats from a number of online sources, and outputs to various formats, including CEF, Snort and IPTables rules.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/jheise/threatcrowd_api" target="_blank">threatcrowd_api</a>
+        </td>
+        <td>
+            Python Library for ThreatCrowd's API.
         </td>
     </tr>
     <tr>
