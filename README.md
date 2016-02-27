@@ -396,6 +396,14 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/paulpc/nyx" target="_blank">nyx</a>
+        </td>
+        <td>
+            The goal of this project is to facilitate distribution of Threat Intelligence artifacts to defensive systems and to enhance the value derrived from both open source and commercial tools.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/STIXProject/openioc-to-stix" target="_blank">openioc-to-stix</a>
         </td>
         <td>
