@@ -396,10 +396,26 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/paulpc/nyx" target="_blank">nyx</a>
+        </td>
+        <td>
+            The goal of this project is to facilitate distribution of Threat Intelligence artifacts to defensive systems and to enhance the value derrived from both open source and commercial tools.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/STIXProject/openioc-to-stix" target="_blank">openioc-to-stix</a>
         </td>
         <td>
             Generate STIX XML from OpenIOC XML.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/mgeide/poortego" target="_blank">poortego</a>
+        </td>
+        <td>
+            Open-source ruby project to handle the storage and linking of open-source intelligence (ala Maltego, but free as in beer and not tied to a specific / proprietary datbase).
         </td>
     </tr>
     <tr>
@@ -432,6 +448,14 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
         </td>
         <td>
             Python Library for ThreatCrowd's API.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/syphon1c/Threatelligence" target="_blank">Threatelligence</a>
+        </td>
+        <td>
+            Threatelligence is a simple cyber threat intelligence feed collector, using Elasticsearch, Kibana and Python to automatically collect intelligence from custom or public sources. Automatically updates feeds and tries to further enhance data for dashboards. Projects seem to be no longer maintained, however.
         </td>
     </tr>
     <tr>
