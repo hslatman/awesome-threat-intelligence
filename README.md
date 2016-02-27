@@ -436,6 +436,14 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/syphon1c/Threatelligence" target="_blank">Threatelligence</a>
+        </td>
+        <td>
+            Threatelligence is a simple cyber threat intelligence feed collector, using Elasticsearch, Kibana and Python to automatically collect intelligence from custom or public sources. Automatically updates feeds and tries to further enhance data for dashboards. Projects seem to be no longer maintained, however.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/jiachongzhi/ThreatTracker" target="_blank">ThreatTracker</a>
         </td>
         <td>
