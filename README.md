@@ -98,7 +98,16 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             SSL Blacklist (SSLBL) is a project maintained by abuse.ch. The goal is to provide a list of "bad" SSL certificates identified by abuse.ch to be associated with malware or botnet activities. SSLBL relies on SHA1 fingerprints of malicious SSL certificates and offers various blacklists
         </td> 
-    </tr>    
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.threatminer.org/" target="_blank">ThreatMiner</a>
+        </td>
+        <td>
+            ThreatMiner has been created to free analysts from data collection and to provide them a portal on which they can carry out their tasks, from reading reports to pivoting and data enrichment.
+            The emphasis of ThreatMiner isn't just about indicators of compromise (IoC) but also to provide analysts with contextual information related to the IoC they are looking at.
+        </td> 
+    </tr>       
 </table>
 
 ## Formats
