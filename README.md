@@ -333,6 +333,14 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/sroberts/cacador" target="_blank">cacador</a>
+        </td>
+        <td>
+            Cacador is a tool written in Go for extracting common indicators of compromise from a block of text.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/mlsecproject/combine" target="_blank">Combine</a>
         </td>
         <td>
