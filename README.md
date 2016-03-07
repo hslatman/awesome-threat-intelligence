@@ -32,7 +32,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="https://www.cymon.io/" target="_blank">Cymon</a>
         </td>
         <td>
-            Cymon is an aggreagtor of indicators from multiple sources with history, so you have a single interface to multiple threat feeds. It also provides an API to search a database along with pretty web intefrace.
+            Cymon is an aggregator of indicators from multiple sources with history, so you have a single interface to multiple threat feeds. It also provides an API to search a database along with a pretty web interface.
         </td> 
     </tr>      
     <tr>
@@ -368,7 +368,7 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
             <a href="https://github.com/exp0se/harbinger" target="_blank">Harbinger Threat Intelligence</a>
         </td>
         <td>
-            Python script that allows to query multiple online threat aggreagators from a single interface.
+            Python script that allows to query multiple online threat aggregators from a single interface.
         </td>
     </tr>
     <tr>
