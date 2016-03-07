@@ -29,6 +29,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.cymon.io/" target="_blank">Cymon</a>
+        </td>
+        <td>
+            Cymon is an aggreagtor of indicators from multiple sources with history, so you have a single interface to multiple threat feeds. It also provides an API to search a database along with pretty web intefrace.
+        </td> 
+    </tr>      
+    <tr>
+        <td>
             <a href="https://intel.deepviz.com/recap_network.php" target="_blank">Deepviz Threat Intel</a>
         </td>
         <td>
@@ -106,14 +114,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             ThreatMiner has been created to free analysts from data collection and to provide them a portal on which they can carry out their tasks, from reading reports to pivoting and data enrichment.
             The emphasis of ThreatMiner isn't just about indicators of compromise (IoC) but also to provide analysts with contextual information related to the IoC they are looking at.
-        </td> 
-    </tr>       
-     <tr>
-        <td>
-            <a href="https://www.cymon.io/" target="_blank">Cymon</a>
-        </td>
-        <td>
-            Cymon is an aggreagtor of indicators from multiple sources with history, so you have a single interface to multiple threat feeds. It also provides an API to search a database along with pretty web intefrace.
         </td> 
     </tr>       
 </table>
@@ -365,6 +365,14 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/exp0se/harbinger" target="_blank">Harbinger Threat Intelligence</a>
+        </td>
+        <td>
+            Python script that allows to query multiple online threat aggreagators from a single interface.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/S03D4-164/Hiryu" target="_blank">Hiryu</a>
         </td>
         <td>
@@ -513,14 +521,6 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
         </td>
         <td>
             The Threat Intelligence Quotient (TIQ) Test tool provides visualization and statistical analysis of TI feeds.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/exp0se/harbinger" target="_blank">Harbinger Threat Intelligence</a>
-        </td>
-        <td>
-            Python script that allows to query multiple online threat aggreagators from a single interface.
         </td>
     </tr>
 </table>
