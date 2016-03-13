@@ -292,14 +292,6 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/defpoint/threat_Note" target="_blank">Threat_Note</a>
-        </td>
-        <td>
-            DPS' Lightweight Investigation Notebook.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/tripwire/tardis" target="_blank">TARDIS</a>
         </td>
         <td>
@@ -321,7 +313,15 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         <td>
             Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in <b>beta</b>. Reference code can be found at <a href="https://github.com/facebook/ThreatExchange" target="_blank">GitHub</a>.
         </td>
-    </tr>  
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/defpoint/threat_Note" target="_blank">Threat_Note</a>
+        </td>
+        <td>
+            DPS' Lightweight Investigation Notebook.
+        </td>
+    </tr>    
     <tr>
         <td>
             <a href="https://exchange.xforce.ibmcloud.com/" target="_blank">XFE - X-Force Exchange</a>
