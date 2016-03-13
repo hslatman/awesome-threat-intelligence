@@ -510,6 +510,14 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/jheise/threatcmd" target="_blank">threatcmd</a>
+        </td>
+        <td>
+            Cli interface to ThreatCrowd.
+        </td>
+    </tr>    
+    <tr>
+        <td>
             <a href="https://github.com/syphon1c/Threatelligence" target="_blank">Threatelligence</a>
         </td>
         <td>
