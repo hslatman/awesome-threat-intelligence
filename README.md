@@ -236,6 +236,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/byt3smith/malstrom" target="_blank">Malstrom</a>
+        </td>
+        <td>
+            Malstrom aims to be a repository for threat tracking and forensic artifacts, but also stores YARA rules and notes for investigation.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://django-mantis.readthedocs.org/en/latest/" target="_blank">MANTIS</a>
         </td>
         <td>
