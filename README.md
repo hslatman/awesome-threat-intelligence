@@ -15,7 +15,7 @@ Feel free to [contribute](CONTRIBUTING.md).
 ## Sources
 
 Most of the resources listed below provide lists and/or APIs to obtain (hopefully) up-to-date information with regards to threats.
-Some consider these sources as threat intelligence, opinions differ however. 
+Some consider these sources as threat intelligence, opinions differ however.
 A certain amount of (domain- or business-specific) analysis is necessary to create true threat intelligence.
 
 <table>
@@ -25,7 +25,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             The free threat intelligence parsed and aggregated by Critical Stack is ready for use in any Bro production system. You can specify which feeds you trust and want to ingest.
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
@@ -33,15 +33,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             Cymon is an aggregator of indicators from multiple sources with history, so you have a single interface to multiple threat feeds. It also provides an API to search a database along with a pretty web interface.
-        </td> 
-    </tr>      
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://intel.deepviz.com/recap_network.php" target="_blank">Deepviz Threat Intel</a>
         </td>
         <td>
-            Deepviz offers a sandbox for analyzing malware and has an API available with threat intelligence harvested from the sandbox. 
-        </td> 
+            Deepviz offers a sandbox for analyzing malware and has an API available with threat intelligence harvested from the sandbox.
+        </td>
     </tr>
     <tr>
         <td>
@@ -64,7 +64,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="http://hailataxii.com/" target="_blank">Hail a TAXII</a>
         </td>
         <td>
-            Hail a TAXII.com is a repository of Open Source Cyber Threat Intellegence feeds in STIX format. They offer several feeds, including some that are listed here already in a different format, like the Emerging Threats rules and PhishTank feeds. 
+            Hail a TAXII.com is a repository of Open Source Cyber Threat Intelligence feeds in STIX format. They offer several feeds, including some that are listed here already in a different format, like the Emerging Threats rules and PhishTank feeds.
         </td>
     </tr>
     <tr>
@@ -87,17 +87,17 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
         </td>
-        <td>Conf
+        <td>
             OpenPhish receives URLs from multiple streams and analyzes them using its proprietary phishing detection algorithms. There are free and commercial offerings available.
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
             <a href="https://www.phishtank.com/developer_info.php" target="_blank">PhishTank</a>
         </td>
-        <td>Conf
+        <td>
             PhishTank delivers a list of suspected phishing URLs. Their data comes from human reports, but they also ingest external feeds where possible. It's a free service, but registering for an API key is sometimes necessary.
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
@@ -105,7 +105,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             SSL Blacklist (SSLBL) is a project maintained by abuse.ch. The goal is to provide a list of "bad" SSL certificates identified by abuse.ch to be associated with malware or botnet activities. SSLBL relies on SHA1 fingerprints of malicious SSL certificates and offers various blacklists
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
@@ -114,8 +114,8 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             ThreatMiner has been created to free analysts from data collection and to provide them a portal on which they can carry out their tasks, from reading reports to pivoting and data enrichment.
             The emphasis of ThreatMiner isn't just about indicators of compromise (IoC) but also to provide analysts with contextual information related to the IoC they are looking at.
-        </td> 
-    </tr>       
+        </td>
+    </tr>
 </table>
 
 ## Formats
@@ -125,11 +125,11 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
 <table>
     <tr>
         <td>
-            <a href=https://capec.mitre.org/" target="_blank">CAPEC</a>
+            <a href="https://capec.mitre.org/" target="_blank">CAPEC</a>
         </td>
         <td>
             The Common Attack Pattern Enumeration and Classification (CAPEC) is a comprehensive dictionary and classification taxonomy of known attacks that can be used by analysts, developers, testers, and educators to advance community understanding and enhance defenses.
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
@@ -137,7 +137,7 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
         </td>
         <td>
             The Cyber Observable eXpression (CybOX) language provides a common structure for representing cyber observables across and among the operational areas of enterprise cyber security that improves the consistency, efficiency, and interoperability of deployed tools and processes, as well as increases overall situational awareness by enabling the potential for detailed automatable sharing, mapping, detection, and analysis heuristics.
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
@@ -145,7 +145,7 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
         </td>
         <td>
             The Incident Object Description Exchange Format (IODEF) defines a data representation that provides a framework for sharing information commonly exchanged by Computer Security Incident Response Teams (CSIRTs) about computer security incidents.
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
@@ -153,7 +153,7 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
         </td>
         <td>
             <i>Experimental</i> - The purpose of the Intrusion Detection Message Exchange Format (IDMEF) is to define data formats and exchange procedures for sharing information of interest to intrusion detection and response systems and to the management systems that may need to interact with them.
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
@@ -161,7 +161,7 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
         </td>
         <td>
             The Malware Attribute Enumeration and Characterization (MAEC) projects is aimed at creating and providing a standardized language for sharing structured information about malware based upon attributes such as behaviors, artifacts, and attack patterns.
-        </td> 
+        </td>
     </tr>
     <tr>
         <td>
@@ -169,24 +169,24 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
         </td>
         <td>
             The Structured Threat Information eXpression (STIX) language is a standardized construct to represent cyber threat information. The STIX Language intends to convey the full range of potential cyber threat information and strives to be fully expressive, flexible, extensible, and automatable. STIX does not only allow tool-agnostic fields, but also provides so-called <i>test mechanisms</i> that provide means for embedding tool-specific elements, including OpenIOC, Yara and Snort.
-        </td> 
-    </tr>  
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://taxiiproject.github.io/" target="_blank">TAXII</a>
         </td>
         <td>
             The Trusted Automated eXchange of Indicator Information (TAXII) standard defines a set of services and message exchanges that, when implemented,  enable sharing of actionable cyber threat information across organization and product/service boundaries. TAXII defines concepts, protocols, and message exchanges to exchange cyber threat information for the detection, prevention, and mitigation of cyber threats.
-        </td> 
-    </tr> 
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="http://veriscommunity.net/index.html" target="_blank">VERIS</a>
         </td>
         <td>
             The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. In addition to providing a structuref format, VERIS also collects data from the community to report on breaches in the Verizon Data Breach Investigations Report (<a target="_blank" href="http://www.verizonenterprise.com/DBIR/">DBIR</a>) and publishes this database online at <a target="_blank" href="http://vcdb.org/index.html">VCDB.org</a>.
-        </td> 
-    </tr>     
+        </td>
+    </tr>
 </table>
 
 ## Frameworks and Platforms
@@ -223,7 +223,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             <a href="https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation" target="_blank">IntelMQ</a>
         </td>
         <td>
-            IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs.    
+            IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs.
         </td>
     </tr>
     <tr>
@@ -255,7 +255,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             <a href="http://www.misp-project.org/" target="_blank">MISP</a>
         </td>
         <td>
-            The Malware Information Sharing Platform (MISP) is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and malware analysis. 
+            The Malware Information Sharing Platform (MISP) is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and malware analysis.
         </td>
     </tr>
     <tr>
@@ -271,7 +271,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             <a href="https://github.com/Intelworks/OpenTAXII" target="_blank">OpenTAXII</a>
         </td>
         <td>
-            OpenTAXII is a robust Python implementation of TAXII Services that delivers a rich feature set and a friendly pythonic API built on top of a well designed application.
+            OpenTAXII is a robust Python implementation of TAXII Services that delivers a rich feature set and a friendly Pythonic API built on top of a well designed application.
         </td>
     </tr>
     <tr>
@@ -313,7 +313,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         <td>
             ThreatCrowd is a system for finding and researching artefacts relating to cyber threats.
         </td>
-    </tr>  
+    </tr>
     <tr>
         <td>
             <a href="https://developers.facebook.com/docs/threat-exchange/" target="_blank">ThreatExchange</a>
@@ -329,7 +329,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         <td>
             DPS' Lightweight Investigation Notebook.
         </td>
-    </tr>    
+    </tr>
     <tr>
         <td>
             <a href="https://exchange.xforce.ibmcloud.com/" target="_blank">XFE - X-Force Exchange</a>
@@ -344,7 +344,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
 
 ## Tools
 
-All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly IOC based.
+All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly IOC based.
 
 <table>
     <tr>
@@ -416,7 +416,7 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
             <a href="https://github.com/mandiant/ioc_writer" target="_blank">ioc_writer</a>
         </td>
         <td>
-            Provides a python library that allows for basic creation and editing of OpenIOC objects.
+            Provides a Python library that allows for basic creation and editing of OpenIOC objects.
         </td>
     </tr>
     <tr>
@@ -491,7 +491,7 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
             QRadio is a tool/framework designed to consolidate cyber threats intelligence sources.
             The goal of the project is to establish a robust modular framework for extraction of intelligence data from vetted sources.
         </td>
-    </tr>     
+    </tr>
     <tr>
         <td>
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
@@ -523,7 +523,7 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
         <td>
             Cli interface to ThreatCrowd.
         </td>
-    </tr>    
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/syphon1c/Threatelligence" target="_blank">Threatelligence</a>
@@ -537,7 +537,7 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
             <a href="https://github.com/jiachongzhi/ThreatTracker" target="_blank">ThreatTracker</a>
         </td>
         <td>
-            A Python script designed to monitor and generate alerts on given sets of  IOCs indexed by a set of Google Custom Search Engines. 
+            A Python script designed to monitor and generate alerts on given sets of  IOCs indexed by a set of Google Custom Search Engines.
         </td>
     </tr>
     <tr>
@@ -547,7 +547,7 @@ All kinds of tools for parsing, creating and editing Theat Intelligence. Mostly 
         <td>
             Several APIs for Threat Intelligence integrated in a single package. Included are: OpenDNS Investigate, VirusTotal and ShadowServer.
         </td>
-    </tr>    
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/mlsecproject/tiq-test" target="_blank">tiq-test</a>
@@ -570,7 +570,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             <a href="https://github.com/kbandla/APTnotes" target="_blank">APTnotes</a>
         </td>
         <td>
-            A great collection of sources regarding <i>Advanced Persistent Threats</i> (APTs). These reports usually include strategic and tactical knowledge or advice. 
+            A great collection of sources regarding <i>Advanced Persistent Threats</i> (APTs). These reports usually include strategic and tactical knowledge or advice.
         </td>
     </tr>
     <tr>
