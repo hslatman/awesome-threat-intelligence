@@ -109,6 +109,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://virusshare.com/" target="_blank">VirusShare</a>
+        </td>
+        <td>
+            VirusShare.com is a repository of malware samples to provide security researchers, incident responders, forensic analysts, and the morbidly curious access to samples of malicious code. Access to the site is granted via invitation only.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.threatminer.org/" target="_blank">ThreatMiner</a>
         </td>
         <td>
