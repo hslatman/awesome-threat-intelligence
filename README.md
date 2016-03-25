@@ -61,6 +61,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://iplists.firehol.org/" target="_blank">FireHOL IP Lists</a>
+        </td>
+        <td>
+            A firewall blacklist composed from IP lists, providing maximum protection with minimum false positives. Suitable for basic protection on all internet facing servers, routers and firewalls.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://hailataxii.com/" target="_blank">Hail a TAXII</a>
         </td>
         <td>
