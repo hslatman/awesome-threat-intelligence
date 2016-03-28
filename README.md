@@ -625,6 +625,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="http://www.lockheedmartin.com/content/dam/lockheed/data/corporate/documents/LM-White-Paper-Intel-Driven-Defense.pdf" target="_blank">Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains</a>
+        </td>
+        <td>
+            The intrusion kill chain as presented in this paper provides one with a structured approach to intrusion analysis, indicator extraction and performing defensive actions.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://download.microsoft.com/download/8/0/1/801358EC-2A0A-4675-A2E7-96C2E7B93E73/Framework_for_Cybersecurity_Info_Sharing.pdf" target="_blank">Microsoft Research Paper</a>
         </td>
         <td>
