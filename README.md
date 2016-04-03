@@ -245,6 +245,17 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://microsoft.com/interflow" target="_blank">Interflow</a>
+        </td>
+        <td>
+            Interflow is a security and threat information exchange platform created by Microsoft for professionals working in cybersecurity.
+            It uses a distributed architecture which enables sharing of security and threat information within and between communities for a collectively stronger ecosystem.
+            Offering multiple configuration options, Interflow allows users to decide what communities to form, what data feeds to consume, and with whom.
+            Interflow is currently in private preview.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.iocbucket.com/" target="_blank">IOC Bucket</a>
         </td>
         <td>
