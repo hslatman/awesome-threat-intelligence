@@ -245,7 +245,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://microsoft.com/interflow" target="_blank">Interflow</a>
+            <a href="https://www.microsoft.com/interflow" target="_blank">Interflow</a>
         </td>
         <td>
             Interflow is a security and threat information exchange platform created by Microsoft for professionals working in cybersecurity.
