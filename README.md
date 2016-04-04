@@ -117,8 +117,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://strongarm.io"
-            target="_blank">Strongarm, by Percipient Networks</a>
+            <a href="https://strongarm.io" target="_blank">Strongarm, by Percipient Networks</a>
         </td>
         <td>
             Strongarm is a DNS blackhole that takes action on indicators of compromise by blocking malware command and control. Strongarm aggregates free indicator feeds, integrates with commercial feeds, utilizes Percipient's IOC feeds, and operates DNS resolvers and APIs for you to use to protect your network and business. Strongarm is free for personal use.
@@ -131,6 +130,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             ThreatMiner has been created to free analysts from data collection and to provide them a portal on which they can carry out their tasks, from reading reports to pivoting and data enrichment.
             The emphasis of ThreatMiner isn't just about indicators of compromise (IoC) but also to provide analysts with contextual information related to the IoC they are looking at.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://virusshare.com/" target="_blank">VirusShare</a>
+        </td>
+        <td>
+            VirusShare.com is a repository of malware samples to provide security researchers, incident responders, forensic analysts, and the morbidly curious access to samples of malicious code. Access to the site is granted via invitation only.
         </td>
     </tr>
 </table>
