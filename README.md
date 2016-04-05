@@ -675,6 +675,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="https://www.us-cert.gov/tlp" target="_blank">Traffic Light Protocol</a>
+        </td>
+        <td>
+            The Traffic Light Protocol (TLP) is a set of designations used to ensure that sensitive information is shared with the correct audience. It employs four colors to indicate different degrees of sensitivity and the corresponding sharing considerations to be applied by the recipient(s).
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.sans.org/reading-room/whitepapers/analyst/who-039-s-cyberthreat-intelligence-how-35767" target="_blank">Who's Using Cyberthreat Intelligence and How?</a>
         </td>
         <td>
