@@ -384,7 +384,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
 <table>
     <tr>
         <td>
-            <a href="https://github.com/Intelworks/cabby" target="_blank">cabby</a>
+            <a href="https://github.com/EclecticIQ/cabby" target="_blank">cabby</a>
         </td>
         <td>
             A simple Python library for interacting with TAXII servers.
