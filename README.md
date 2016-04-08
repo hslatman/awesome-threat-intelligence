@@ -303,7 +303,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/Intelworks/OpenTAXII" target="_blank">OpenTAXII</a>
+            <a href="https://github.com/EclecticIQ/OpenTAXII" target="_blank">OpenTAXII</a>
         </td>
         <td>
             OpenTAXII is a robust Python implementation of TAXII Services that delivers a rich feature set and a friendly Pythonic API built on top of a well designed application.
