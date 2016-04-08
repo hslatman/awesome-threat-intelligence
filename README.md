@@ -651,6 +651,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="http://www.dtic.mil/doctrine/new_pubs/jp2_0.pdf" target="_blank">Joint Publication 2-0: Joint Intelligence</a>
+        </td>
+        <td>
+            This publication by the U.S army forms the core of joint intelligence doctrine and lays the foundation to fully integrate operations, plans and intelligence into a cohesive team. The concepts presented are applicable to (Cyber) Threat Intelligence too.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://download.microsoft.com/download/8/0/1/801358EC-2A0A-4675-A2E7-96C2E7B93E73/Framework_for_Cybersecurity_Info_Sharing.pdf" target="_blank">Microsoft Research Paper</a>
         </td>
         <td>
