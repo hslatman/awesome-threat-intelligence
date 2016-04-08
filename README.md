@@ -165,7 +165,7 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
     </tr>
     <tr>
         <td>
-            <a href="http://tools.ietf.org/html/rfc5070" target="_blank">IODEF (RFC5070)</a>
+            <a href="https://tools.ietf.org/html/rfc5070" target="_blank">IODEF (RFC5070)</a>
         </td>
         <td>
             The Incident Object Description Exchange Format (IODEF) defines a data representation that provides a framework for sharing information commonly exchanged by Computer Security Incident Response Teams (CSIRTs) about computer security incidents.
@@ -173,7 +173,7 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
     </tr>
     <tr>
         <td>
-            <a href="http://tools.ietf.org/html/rfc4765" target="_blank">IDMEF (RFC4765)</a>
+            <a href="https://tools.ietf.org/html/rfc4765" target="_blank">IDMEF (RFC4765)</a>
         </td>
         <td>
             <i>Experimental</i> - The purpose of the Intrusion Detection Message Exchange Format (IDMEF) is to define data formats and exchange procedures for sharing information of interest to intrusion detection and response systems and to the management systems that may need to interact with them.
