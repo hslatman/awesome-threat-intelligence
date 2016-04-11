@@ -635,6 +635,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="http://www.dtic.mil/dtic/tr/fulltext/u2/a547092.pdf" target="_blank">F3EAD</a>
+        </td>
+        <td>
+            F3EAD is a military methodology for combining operations and intelligence.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://csrc.nist.gov/publications/drafts/800-150/sp800_150_draft.pdf" target="_blank">Guide to Cyber Threat Information Sharing by NIST</a>
         </td>
         <td>
