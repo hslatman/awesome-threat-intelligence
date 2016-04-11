@@ -165,7 +165,7 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
     </tr>
     <tr>
         <td>
-            <a href="http://tools.ietf.org/html/rfc5070" target="_blank">IODEF (RFC5070)</a>
+            <a href="https://tools.ietf.org/html/rfc5070" target="_blank">IODEF (RFC5070)</a>
         </td>
         <td>
             The Incident Object Description Exchange Format (IODEF) defines a data representation that provides a framework for sharing information commonly exchanged by Computer Security Incident Response Teams (CSIRTs) about computer security incidents.
@@ -173,7 +173,7 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
     </tr>
     <tr>
         <td>
-            <a href="http://tools.ietf.org/html/rfc4765" target="_blank">IDMEF (RFC4765)</a>
+            <a href="https://tools.ietf.org/html/rfc4765" target="_blank">IDMEF (RFC4765)</a>
         </td>
         <td>
             <i>Experimental</i> - The purpose of the Intrusion Detection Message Exchange Format (IDMEF) is to define data formats and exchange procedures for sharing information of interest to intrusion detection and response systems and to the management systems that may need to interact with them.
@@ -303,7 +303,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/Intelworks/OpenTAXII" target="_blank">OpenTAXII</a>
+            <a href="https://github.com/EclecticIQ/OpenTAXII" target="_blank">OpenTAXII</a>
         </td>
         <td>
             OpenTAXII is a robust Python implementation of TAXII Services that delivers a rich feature set and a friendly Pythonic API built on top of a well designed application.
@@ -384,7 +384,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
 <table>
     <tr>
         <td>
-            <a href="https://github.com/Intelworks/cabby" target="_blank">cabby</a>
+            <a href="https://github.com/EclecticIQ/cabby" target="_blank">cabby</a>
         </td>
         <td>
             A simple Python library for interacting with TAXII servers.
@@ -655,6 +655,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
         </td>
         <td>
             The intrusion kill chain as presented in this paper provides one with a structured approach to intrusion analysis, indicator extraction and performing defensive actions.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.dtic.mil/doctrine/new_pubs/jp2_0.pdf" target="_blank">Joint Publication 2-0: Joint Intelligence</a>
+        </td>
+        <td>
+            This publication by the U.S army forms the core of joint intelligence doctrine and lays the foundation to fully integrate operations, plans and intelligence into a cohesive team. The concepts presented are applicable to (Cyber) Threat Intelligence too.
         </td>
     </tr>
     <tr>
