@@ -244,7 +244,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation" target="_blank">IntelMQ</a>
+            <a href="https://www.enisa.europa.eu/topics/csirt-cert-services/community-projects/incident-handling-automation" target="_blank">IntelMQ</a>
         </td>
         <td>
             IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs.
@@ -331,6 +331,15 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             The PassiveTotal platform offered by RiskIQ is a threat-analysis platform which provides analysts with as much data as possible in order to prevent attacks before they happen. Several types of solutions are offered, as well as integrations (APIs) with other systems.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://stoq.punchcyber.com/" target="_blank">stoQ</a>
+        </td>
+        <td>
+            stoQ is a framework that allows cyber analysts to organize and automate repetitive, data-driven tasks. It features plugins for many other systems to interact with.
+            One use case is the extraction of IOCs from documents, an example of which is shown <a href="https://stoq-framework.blogspot.nl/2016/04/operationalizing-indicators.html" target="_blank">here</a>, but it can also be used for deobfuscationg and decoding of content and automated scanning with YARA, for example.
         </td>
     </tr>
     <tr>
