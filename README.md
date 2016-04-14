@@ -335,6 +335,15 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="http://stoq.punchcyber.com/" target="_blank">stoQ</a>
+        </td>
+        <td>
+            stoQ is a framework that allows cyber analysts to organize and automate repetitive, data-driven tasks. It features plugins for many other systems to interact with.
+            One use case is the extraction of IOCs from documents, an example of which is shown <a href="https://stoq-framework.blogspot.nl/2016/04/operationalizing-indicators.html" target="_blank">here</a>, but it can also be used for deobfuscationg and decoding of content and automated scanning with YARA, for example.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/tripwire/tardis" target="_blank">TARDIS</a>
         </td>
         <td>
