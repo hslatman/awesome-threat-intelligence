@@ -393,6 +393,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
 <table>
     <tr>
         <td>
+            <a href="https://github.com/exp0se/bro-intel-generator" target="_blank">bro-intel-generator</a>
+        </td>
+        <td>
+            Script for generating Bro intel files from pdf or html reports.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/EclecticIQ/cabby" target="_blank">cabby</a>
         </td>
         <td>
