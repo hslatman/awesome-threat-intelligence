@@ -668,6 +668,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="http://armypubs.army.mil/doctrine/DR_pubs/dr_a/pdf/atp2_01x3.pdf" target="_blank">Intelligence Preparation of the Battlefield/Battlespace</a>
+        </td>
+        <td>
+            This publication discusses intelligence preparation of the battlespace (IPB) as a critical component of the military decisionmaking and planning process and how IPB supports decisionmaking, as well as integrating processes and continuing activities.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.lockheedmartin.com/content/dam/lockheed/data/corporate/documents/LM-White-Paper-Intel-Driven-Defense.pdf" target="_blank">Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains</a>
         </td>
         <td>
