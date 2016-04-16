@@ -220,6 +220,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
 <table>
     <tr>
         <td>
+            <a href="https://github.com/abusesa/abusehelper" target="_blank">AbuseHelper</a>
+        </td>
+        <td>
+            AbuseHelper is an open-source framework for receiving and redistributing abuse feeds and threat intel.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/csirtgadgets/bearded-avenger" target="_blank">Bearded Avenger</a>
         </td>
         <td>
