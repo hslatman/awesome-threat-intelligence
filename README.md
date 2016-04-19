@@ -546,6 +546,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/aboutsecurity/rastrea2r" target="_blank">rastrea2r</a>
+        </td>
+        <td>
+            Collecting & Hunting for Indicators of Compromise (IOC) with gusto and style!
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
         </td>
         <td>
