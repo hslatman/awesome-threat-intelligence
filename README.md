@@ -676,10 +676,10 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="http://csrc.nist.gov/publications/drafts/800-150/sp800_150_draft.pdf" target="_blank">Guide to Cyber Threat Information Sharing by NIST</a>
+            <a href="http://csrc.nist.gov/publications/drafts/800-150/sp800_150_second_draft.pdf" target="_blank">Guide to Cyber Threat Information Sharing by NIST</a>
         </td>
         <td>
-            The Guide to Cyber Threat Information Sharing (NIST Special Publication 800-15, draft) assists organizations in establishing computer security incident response capabilities that leverage the collective knowledge, experience, and abilities of their partners by actively sharing threat intelligence and ongoing coordination. The guide provides guidelines for coordinated incident handling, including producing and consuming data, participating in information sharingcommunities, and protecting incident-related data.
+            The Guide to Cyber Threat Information Sharing (NIST Special Publication 800-15, second draft) assists organizations in establishing computer security incident response capabilities that leverage the collective knowledge, experience, and abilities of their partners by actively sharing threat intelligence and ongoing coordination. The guide provides guidelines for coordinated incident handling, including producing and consuming data, participating in information sharing communities, and protecting incident-related data.
         </td>
     </tr>
     <tr>
