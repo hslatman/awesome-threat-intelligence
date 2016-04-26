@@ -236,6 +236,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://community.blueliv.com/" target="_blank">Blueliv Threat Exchange Network</a>
+        </td>
+        <td>
+            Allows participants to share threat indicators with the community.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://crits.github.io/" target="_blank">CRITS</a>
         </td>
         <td>
