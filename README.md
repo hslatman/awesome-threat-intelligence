@@ -295,7 +295,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="http://django-mantis.readthedocs.org/en/latest/" target="_blank">MANTIS</a>
+            <a href="http://django-mantis.readthedocs.io/en/latest/" target="_blank">MANTIS</a>
         </td>
         <td>
             The Model-based Analysis of Threat Intelligence Sources (MANTIS) Cyber Threat Intelligence Management Framework supports the management of cyber threat intelligence expressed in various standard languages, like STIX and CybOX. It is *not* ready for large-scale production though.
