@@ -4,4 +4,4 @@ rvm:
 before_script:
     - gem install awesome_bot
 script:
-    - awesome_bot README.md --white-list CONTRIBUTING.md,https://www.threatcrowd.org/,https://intel.deepviz.com/recap_network.php,https://www.fireeye.com/services/freeware/ioc-editor.html
+    - awesome_bot README.md --white-list CONTRIBUTING.md,https://www.threatcrowd.org/,https://intel.deepviz.com/recap_network.php,https://www.fireeye.com/services/freeware/ioc-editor.html,https://www.threatconnect.com/wp-content/uploads/ThreatConnect-The-Diamond-Model-of-Intrusion-Analysis.pdf
