@@ -626,6 +626,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/abhinavbom/Threat-Intelligence-Hunter" target="_blank">Threat-Intelligence-Hunter</a>
+        </td>
+        <td>
+            TIH is an intelligence tool that helps you in searching for IOCs across multiple openly available security feeds and some well known APIs. The idea behind the tool is to facilitate searching and storing of frequently added IOCs for creating your own local database of indicators.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/mlsecproject/tiq-test" target="_blank">tiq-test</a>
         </td>
         <td>
