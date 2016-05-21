@@ -513,6 +513,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Neo23x0/Loki" target="_blank">Loki</a>
+        </td>
+        <td>
+            Simple IOC and Incident Response Scanner.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/HurricaneLabs/machinae" target="_blank">Machinae</a>
         </td>
         <td>
