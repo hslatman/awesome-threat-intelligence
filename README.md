@@ -513,6 +513,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Neo23x0/Loki" target="_blank">Loki</a>
+        </td>
+        <td>
+            Simple IOC and Incident Response Scanner.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/HurricaneLabs/machinae" target="_blank">Machinae</a>
         </td>
         <td>
@@ -610,7 +618,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/jiachongzhi/ThreatTracker" target="_blank">ThreatTracker</a>
+            <a href="https://github.com/michael-yip/ThreatTracker" target="_blank">ThreatTracker</a>
         </td>
         <td>
             A Python script designed to monitor and generate alerts on given sets of  IOCs indexed by a set of Google Custom Search Engines.
