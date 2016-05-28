@@ -578,6 +578,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://www.fireeye.com/services/freeware/redline.html" target="_blank">Redline</a>
+        </td>
+        <td>
+            A host investigations tool that can be used for, amongst others, IOC analysis.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
         </td>
         <td>
@@ -744,14 +752,6 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
         </td>
         <td>
             The Pyramid of Pain is a graphical way to express the difficulty of obtaining different levels of indicators and the amount of resources adversaries have to expend when obtained by defenders. 
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.fireeye.com/services/freeware/redline.html" target="_blank">Redline</a>
-        </td>
-        <td>
-            A host investigations tool that can be used for, amongst others, IOC analysis.
         </td>
     </tr>
     <tr>
