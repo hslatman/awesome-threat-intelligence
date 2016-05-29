@@ -303,6 +303,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/cert-se/megatron-java" target="_blank">Megatron</a>
+        </td>
+        <td>
+            Megatron is a tool implemented by CERT-SE which collects and analyses bad IPs, can be used to calculate statistics, convert and analyze log files and in abuse & incident handling.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.misp-project.org/" target="_blank">MISP</a>
         </td>
         <td>
