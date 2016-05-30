@@ -417,6 +417,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
 <table>
     <tr>
         <td>
+            <a href="http://actortrackr.com/" target="_blank">ActorTrackr</a>
+        </td>
+        <td>
+            ActorTrackr is an open source web application for storing/searching/linking actor related data. The primary sources are from users and various public repositories. Source available on <a href="https://github.com/dougiep16/actortrackr" target="_blank">GitHub</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/exp0se/bro-intel-generator" target="_blank">bro-intel-generator</a>
         </td>
         <td>
