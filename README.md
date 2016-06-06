@@ -672,6 +672,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             The Threat Intelligence Quotient (TIQ) Test tool provides visualization and statistical analysis of TI feeds.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/TAXIIProject/yeti" target="_blank">YETI</a>
+        </td>
+        <td>
+            YETI is a proof-of-concept implementation of TAXII that supports the Inbox, Poll and Discovery services defined by the TAXII Services Specification.
+        </td>
+    </tr>
 </table>
 
 
