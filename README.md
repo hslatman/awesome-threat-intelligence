@@ -577,6 +577,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://bitbucket.org/ssanthosh243/ip-lookup-docker" target="_blank">LookUp</a>
+        </td>
+        <td>
+            LookUp is a centralized page to get various threat information about an IP address. It can be integrated easily into context menus of tools like SIEMs and other investigative tools.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/HurricaneLabs/machinae" target="_blank">Machinae</a>
         </td>
         <td>
