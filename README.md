@@ -21,6 +21,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
+            <a href="https://www.autoshun.org/" target="_blank">AutoShun</a>
+        </td>
+        <td>
+            A public service offering at most 2000 malicious IPs and some more resources.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://intel.criticalstack.com/" target="_blank">Critical Stack Intel</a>
         </td>
         <td>
