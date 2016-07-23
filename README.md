@@ -706,6 +706,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://www.fidelissecurity.com/resources/fidelis-threatscanner" target="_blank">ThreatScanner</a>
+        </td>
+        <td>
+            ThreatScanner by Fidelis Cybersecurity runs a script to hunt for IOCs or YARA rules on a single machine and automatically generates a report that provides details of suspicious artifacts.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/michael-yip/ThreatTracker" target="_blank">ThreatTracker</a>
         </td>
         <td>
