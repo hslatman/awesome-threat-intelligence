@@ -335,6 +335,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Ptr32Void/OSTrICa" target="_blank">OSTrICa</a>
+        </td>
+        <td>
+            An open source plugin-oriented framework to collect and visualize Threat Intelligence information.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.alienvault.com/open-threat-exchange" target="_blank">OTX - Open Threat Exchange</a>
         </td>
         <td>
