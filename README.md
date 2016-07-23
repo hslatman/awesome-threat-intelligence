@@ -244,6 +244,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://www.fidelissecurity.com/resources/fidelis-barncat" target="_blank">Barncat</a>
+        </td>
+        <td>
+            Fidelis Cybersecurity offers free access to Barncat after registration. The platform is intended to be used by CERTs, researchers, governments, ISPs and other, large organizations. The database holds various configuration settings used by attackers. 
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/csirtgadgets/bearded-avenger" target="_blank">Bearded Avenger</a>
         </td>
         <td>
