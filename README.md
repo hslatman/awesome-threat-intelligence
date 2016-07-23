@@ -666,6 +666,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/blackhillsinfosec/RITA" target="_blank">RITA</a>
+        </td>
+        <td>
+            RITA is inteded to help in the search for indicators of compromise in enterprise networks of varying size.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
         </td>
         <td>
