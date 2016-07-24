@@ -425,6 +425,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/1aN0rmus/TekDefense-Automater" target="_blank">Automater</a>
+        </td>
+        <td>
+            Automater is a URL/Domain, IP Address, and Md5 Hash OSINT tool aimed at making the analysis process easier for intrusion Analysts.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/exp0se/bro-intel-generator" target="_blank">bro-intel-generator</a>
         </td>
         <td>
