@@ -820,7 +820,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="http://armypubs.army.mil/doctrine/DR_pubs/dr_a/pdf/atp2_01x3.pdf" target="_blank">Intelligence Preparation of the Battlefield/Battlespace</a>
+            <a href="docs/Intelligence Preparation for the Battlefield-Battlespace.pdf" target="_blank">Intelligence Preparation of the Battlefield/Battlespace</a>
         </td>
         <td>
             This publication discusses intelligence preparation of the battlespace (IPB) as a critical component of the military decisionmaking and planning process and how IPB supports decisionmaking, as well as integrating processes and continuing activities.
