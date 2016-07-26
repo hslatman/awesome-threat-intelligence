@@ -21,6 +21,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
+            <a href="https://www.autoshun.org/" target="_blank">AutoShun</a>
+        </td>
+        <td>
+            A public service offering at most 2000 malicious IPs and some more resources.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://intel.criticalstack.com/" target="_blank">Critical Stack Intel</a>
         </td>
         <td>
@@ -140,6 +148,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             VirusShare.com is a repository of malware samples to provide security researchers, incident responders, forensic analysts, and the morbidly curious access to samples of malicious code. Access to the site is granted via invitation only.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Yara-Rules/rules" target="_blank">Yara-Rules</a>
+        </td>
+        <td>
+            An open source repository with different Yara signatures that are compiled, classified and kept as up to date as possible.
+        </td>
+    </tr>
 </table>
 
 ## Formats
@@ -224,6 +240,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             AbuseHelper is an open-source framework for receiving and redistributing abuse feeds and threat intel.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.fidelissecurity.com/resources/fidelis-barncat" target="_blank">Barncat</a>
+        </td>
+        <td>
+            Fidelis Cybersecurity offers free access to Barncat after registration. The platform is intended to be used by CERTs, researchers, governments, ISPs and other, large organizations. The database holds various configuration settings used by attackers. 
         </td>
     </tr>
     <tr>
@@ -335,6 +359,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Ptr32Void/OSTrICa" target="_blank">OSTrICa</a>
+        </td>
+        <td>
+            An open source plugin-oriented framework to collect and visualize Threat Intelligence information.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.alienvault.com/open-threat-exchange" target="_blank">OTX - Open Threat Exchange</a>
         </td>
         <td>
@@ -355,6 +387,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             The PassiveTotal platform offered by RiskIQ is a threat-analysis platform which provides analysts with as much data as possible in order to prevent attacks before they happen. Several types of solutions are offered, as well as integrations (APIs) with other systems.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://soltra.com/" target="_blank">Soltra Edge</a>
+        </td>
+        <td>
+            The basic version of Soltra Edge is available for free. It supports a community defense model that is highly interoperable and extensible. It is built with industry standards supported out of the box, including STIX and TAXII.
         </td>
     </tr>
     <tr>
@@ -425,6 +465,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/1aN0rmus/TekDefense-Automater" target="_blank">Automater</a>
+        </td>
+        <td>
+            Automater is a URL/Domain, IP Address, and Md5 Hash OSINT tool aimed at making the analysis process easier for intrusion Analysts.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/exp0se/bro-intel-generator" target="_blank">bro-intel-generator</a>
         </td>
         <td>
@@ -461,6 +509,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             Multithreaded threat intelligence hunter-gatherer script.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/BinaryDefense/goatrider" target="_blank">GoatRider</a>
+        </td>
+        <td>
+            GoatRider is a simple tool that will dynamically pull down Artillery Threat Intelligence Feeds, TOR, AlienVaults OTX, and the Alexa top 1 million websites and do a comparison to a hostname file or IP file.
         </td>
     </tr>
     <tr>
@@ -537,6 +593,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://bitbucket.org/ssanthosh243/ip-lookup-docker" target="_blank">LookUp</a>
+        </td>
+        <td>
+            LookUp is a centralized page to get various threat information about an IP address. It can be integrated easily into context menus of tools like SIEMs and other investigative tools.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/HurricaneLabs/machinae" target="_blank">Machinae</a>
         </td>
         <td>
@@ -602,6 +666,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/blackhillsinfosec/RITA" target="_blank">RITA</a>
+        </td>
+        <td>
+            RITA is inteded to help in the search for indicators of compromise in enterprise networks of varying size.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
         </td>
         <td>
@@ -638,6 +710,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             Threatelligence is a simple cyber threat intelligence feed collector, using Elasticsearch, Kibana and Python to automatically collect intelligence from custom or public sources. Automatically updates feeds and tries to further enhance data for dashboards. Projects seem to be no longer maintained, however.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.fidelissecurity.com/resources/fidelis-threatscanner" target="_blank">ThreatScanner</a>
+        </td>
+        <td>
+            ThreatScanner by Fidelis Cybersecurity runs a script to hunt for IOCs or YARA rules on a single machine and automatically generates a report that provides details of suspicious artifacts.
         </td>
     </tr>
     <tr>
@@ -740,7 +820,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="http://armypubs.army.mil/doctrine/DR_pubs/dr_a/pdf/atp2_01x3.pdf" target="_blank">Intelligence Preparation of the Battlefield/Battlespace</a>
+            <a href="docs/Intelligence Preparation for the Battlefield-Battlespace.pdf" target="_blank">Intelligence Preparation of the Battlefield/Battlespace</a>
         </td>
         <td>
             This publication discusses intelligence preparation of the battlespace (IPB) as a critical component of the military decisionmaking and planning process and how IPB supports decisionmaking, as well as integrating processes and continuing activities.
