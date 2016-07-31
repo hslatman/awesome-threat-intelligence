@@ -351,6 +351,15 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/PaloAltoNetworks/minemeld/wiki" target="_blank">MineMeld</a>
+        </td>
+        <td>
+            An extensible Threat Intelligence processing framework created Palo Alto Networks.
+            It can be used to manipulate lists of indicators and transform and/or aggregate them for consumption by third party enforcement infrastructure.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.misp-project.org/" target="_blank">MISP</a>
         </td>
         <td>
