@@ -819,6 +819,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             YETI is a proof-of-concept implementation of TAXII that supports the Inbox, Poll and Discovery services defined by the TAXII Services Specification.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/tomchop/yeti" target="_blank">yeti/a>
+        </td>
+        <td>
+            Your Everyday Threat Intelligence (YETI).
+        </td>
+    </tr>
 </table>
 
 
