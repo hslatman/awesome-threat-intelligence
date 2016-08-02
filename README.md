@@ -29,6 +29,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://intel.malwaretech.com/" target="_blank">Botnet Tracker</a>
+        </td>
+        <td>
+            Tracks several active botnets.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://intel.criticalstack.com/" target="_blank">Critical Stack Intel</a>
         </td>
         <td>
