@@ -157,6 +157,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://www.threatglass.com/" target="_blank">Threatglass</a>
+        </td>
+        <td>
+            An online tool for sharing, browsing and analyzing web-based malware. Threatglass allows users to graphically browse website infections by viewing screenshots of the stages of infection, as well as by analyzing network characteristics such as host relationships and packet captures.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.threatminer.org/" target="_blank">ThreatMiner</a>
         </td>
         <td>
