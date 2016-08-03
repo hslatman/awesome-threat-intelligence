@@ -85,6 +85,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://www.exploitalert.com/" target="_blank">Exploitalert</a>
+        </td>
+        <td>
+            Listing of latest exploits released.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://iplists.firehol.org/" target="_blank">FireHOL IP Lists</a>
         </td>
         <td>
