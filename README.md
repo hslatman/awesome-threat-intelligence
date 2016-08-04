@@ -85,6 +85,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://exonerator.torproject.org/" target="_blank">ExoneraTor</a>
+        </td>
+        <td>
+            The ExoneraTor service maintains a database of IP addresses that have been part of the Tor network.  It answers the question whether there was a Tor relay running on a given IP address on a given date.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.exploitalert.com/" target="_blank">Exploitalert</a>
         </td>
         <td>
