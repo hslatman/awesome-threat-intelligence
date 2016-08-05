@@ -635,6 +635,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/stephenbrannon/IOCextractor" target="_blank">IOCextractor</a>
+        </td>
+        <td>
+            IOC (Indicator of Compromise) Extractor is a program to help extract IOCs from text files. The general goal is to speed up the process of parsing structured data (IOCs) from unstructured or semi-structured data
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/johestephan/ibmxforceex.checker.py" target="_blank">ibmxforceex.checker.py</a>
         </td>
         <td>
