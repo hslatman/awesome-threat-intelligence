@@ -109,6 +109,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://fraudguard.io/" target="_blank">FraudGuard</a>
+        </td>
+        <td>
+            FraudGuard is a service designed to provide an easy way to validate usage by continuously collecting and analyzing real-time internet traffic.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://hailataxii.com/" target="_blank">Hail a TAXII</a>
         </td>
         <td>
