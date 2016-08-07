@@ -29,6 +29,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://bgpranking.circl.lu/" target="_blank">BGP Ranking</a>
+        </td>
+        <td>
+            Ranking of ASNs having the most malicious content.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://intel.malwaretech.com/" target="_blank">Botnet Tracker</a>
         </td>
         <td>
