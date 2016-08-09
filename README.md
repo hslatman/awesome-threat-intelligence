@@ -603,6 +603,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Neo23x0/Fenrir" target="_blank">Fenrir</a>
+        </td>
+        <td>
+            Simple Bash IOC Scanner.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/byt3smith/Forager" target="_blank">Forager</a>
         </td>
         <td>
