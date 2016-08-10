@@ -1025,6 +1025,15 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="http://www.necoma-project.eu/" target="_blank">NECOMA Project</a>
+        </td>
+        <td>
+            The Nippon-European Cyberdefense-Oriented Multilayer threat Analysis (NECOMA) research project is aimed at improving threat data collection and analysis to develop and demonstratie new cyberdefense mechanisms.
+            As part of the project several publications and software projects have been published.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://rvasec.com/slides/2014/Bianco_Pyramid%20of%20Pain.pdf" target="_blank">Pyramid of Pain</a>
         </td>
         <td>
