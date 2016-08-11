@@ -1072,6 +1072,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             A whitepaper by the SANS Institute describing the usage of Threat Intelligence including a survey that was performed.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="http://www.wombat-project.eu/" target="_blank">WOMBAT Project</a>
+        </td>
+        <td>
+            The WOMBAT project aims at providing new means to understand the existing and emerging threats that are targeting the Internet economy and the net citizens. To reach this goal, the proposal includes three key workpackages: (i) real time gathering of a diverse set of security related raw data, (ii) enrichment of this input by means of various analysis techniques, and (iii) root cause identification and understanding of the phenomena under scrutiny. 
+        </td>
+    </tr>
 </table>
 
 
