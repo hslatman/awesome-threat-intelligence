@@ -197,6 +197,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://www.talosintelligence.com/aspis/" target="_blank">Talos Aspis</a>
+        </td>
+        <td>
+            Project Aspis is a closed collaboration between Talos and hosting providers to identify and deter major threat actors. Talos shares its expertise, resources, and capabilities including network and system forensics, reverse engineering, and threat intelligence at no cost to the provider.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.threatglass.com/" target="_blank">Threatglass</a>
         </td>
         <td>
