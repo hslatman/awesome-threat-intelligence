@@ -731,6 +731,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/MISP/misp-workbench" target="_blank">MISP Workbench</a>
+        </td>
+        <td>
+            Tools to export data out of the MISP MySQL database and use and abuse them outside of this platform.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/paulpc/nyx" target="_blank">nyx</a>
         </td>
         <td>
