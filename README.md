@@ -821,6 +821,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/STIXProject/stix-viz" target="_blank">stix-viz</a>
+        </td>
+        <td>
+            STIX Visualization Tool.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
         </td>
         <td>
