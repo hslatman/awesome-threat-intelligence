@@ -658,6 +658,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/kx499/ostip/wiki" target="_blank">OSTIP</a>
+        </td>
+        <td>
+            A homebrew threat data platform.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/mgeide/poortego" target="_blank">poortego</a>
         </td>
         <td>
