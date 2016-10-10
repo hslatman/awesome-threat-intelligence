@@ -473,6 +473,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://bitbucket.org/camp0/aiengine" target="_blank">AIEngine</a>
+        </td>
+        <td>
+            AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others. Source available on <a href="https://bitbucket.org/camp0/aiengine" target="_blank">Bitibucket</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/1aN0rmus/TekDefense-Automater" target="_blank">Automater</a>
         </td>
         <td>
