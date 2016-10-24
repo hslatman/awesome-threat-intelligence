@@ -101,6 +101,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://www.malshare.com/" target="_blank">MalShare.com</a>
+        </td>
+        <td>
+            The MalShare Project is a public malware repository that provides researchers free access to samples. 
+        </td>
+    </tr>    
+    <tr>
+        <td>
             <a href="http://www.malwaredomains.com/" target="_blank">MalwareDomains.com</a>
         </td>
         <td>
