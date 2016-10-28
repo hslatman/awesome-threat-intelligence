@@ -829,6 +829,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="http://www.activeresponse.org/building-threat-hunting-strategy-with-the-diamond-model/" target="_blank">Building Threat Hunting Strategies with the Diamond Model</a>
+        </td>
+        <td>
+            Blogpost by Sergio Caltagirone on how to develop intelligent threat hunting strategies by using the Diamond Model.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://cryptome.org/2015/09/cti-guide.pdf" target="_blank">Definitive Guide to Cyber Threat Intelligence</a>
         </td>
         <td>
