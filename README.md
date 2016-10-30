@@ -837,6 +837,16 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="https://ryanstillions.blogspot.nl/2014/04/the-dml-model_21.html" target="_blank">The Detection Maturity Level (DML)</a>
+        </td>
+        <td>
+            The DML model is a capability maturity model for referencing ones maturity in detecting cyber attacks.
+            It's designed for organizations who perform intel-driven detection and response and who put an emphasis on having a mature detection program.
+            The maturity of an organization is not measured by it's ability to merely obtain relevant intelligence, but rather it's capacity to apply that intelligence effectively to detection and response functions.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.threatconnect.com/wp-content/uploads/ThreatConnect-The-Diamond-Model-of-Intrusion-Analysis.pdf" target="_blank">The Diamond Model of Intrusion Analysis</a>
         </td>
         <td>
