@@ -894,6 +894,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="https://tools.ietf.org/html/draft-dulaunoy-misp-core-format-00" target="_blank">MISP Core Format (draft)</a>
+        </td>
+        <td>
+            This document describes the MISP core format used to exchange indicators and threat information between MISP (Malware Information and threat Sharing Platform) instances.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://rvasec.com/slides/2014/Bianco_Pyramid%20of%20Pain.pdf" target="_blank">Pyramid of Pain</a>
         </td>
         <td>
