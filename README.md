@@ -529,6 +529,15 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/CrowdStrike/CrowdFMS" target="_blank">CrowdFMS</a>
+        </td>
+        <td>
+            CrowdFMS is a framework for automating collection and processing of samples from VirusTotal, by leveraging the Private API system. 
+            The framework automatically downloads recent samples, which triggered an alert on the users YARA notification feed.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/byt3smith/Forager" target="_blank">Forager</a>
         </td>
         <td>
@@ -693,7 +702,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://github.com/ocmdev/rita" target="_blank">RITA</a>
         </td>
         <td>
-            RITA is inteded to help in the search for indicators of compromise in enterprise networks of varying size.
+            Real Intelligence Threat Analytics (RITA) is inteded to help in the search for indicators of compromise in enterprise networks of varying size.
         </td>
     </tr>
     <tr>
