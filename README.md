@@ -391,14 +391,6 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://www.iocbucket.com/" target="_blank">IOC Bucket</a>
-        </td>
-        <td>
-            IOC Bucket is a free community driven platform dedicated to providing the security community a way to share quality threat intelligence in a simple but efficient way. The IOCs are developed by the community, reviewed by the community, and distributed for use by the community. The content will always remain free and available. In addition to searching and uploading IOCs, it also features an online IOC editor.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/byt3smith/malstrom" target="_blank">Malstrom</a>
         </td>
         <td>
