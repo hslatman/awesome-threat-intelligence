@@ -29,6 +29,22 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://bgpranking.circl.lu/" target="_blank">BGP Ranking</a>
+        </td>
+        <td>
+            Ranking of ASNs having the most malicious content.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://intel.malwaretech.com/" target="_blank">Botnet Tracker</a>
+        </td>
+        <td>
+            Tracks several active botnets.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://intel.criticalstack.com/" target="_blank">Critical Stack Intel</a>
         </td>
         <td>
@@ -77,10 +93,34 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://exonerator.torproject.org/" target="_blank">ExoneraTor</a>
+        </td>
+        <td>
+            The ExoneraTor service maintains a database of IP addresses that have been part of the Tor network.  It answers the question whether there was a Tor relay running on a given IP address on a given date.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.exploitalert.com/" target="_blank">Exploitalert</a>
+        </td>
+        <td>
+            Listing of latest exploits released.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://iplists.firehol.org/" target="_blank">FireHOL IP Lists</a>
         </td>
         <td>
             A firewall blacklist composed from IP lists, providing maximum protection with minimum false positives. Suitable for basic protection on all internet facing servers, routers and firewalls.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://fraudguard.io/" target="_blank">FraudGuard</a>
+        </td>
+        <td>
+            FraudGuard is a service designed to provide an easy way to validate usage by continuously collecting and analyzing real-time internet traffic.
         </td>
     </tr>
     <tr>
@@ -133,6 +173,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Neo23x0/signature-base" target="_blank">signature-base</a>
+        </td>
+        <td>
+            A database of signatures used in other tools by Neo23x0.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://sslbl.abuse.ch/" target="_blank">SSL Blacklist</a>
         </td>
         <td>
@@ -145,6 +193,22 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             Strongarm is a DNS blackhole that takes action on indicators of compromise by blocking malware command and control. Strongarm aggregates free indicator feeds, integrates with commercial feeds, utilizes Percipient's IOC feeds, and operates DNS resolvers and APIs for you to use to protect your network and business. Strongarm is free for personal use.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.talosintelligence.com/aspis/" target="_blank">Talos Aspis</a>
+        </td>
+        <td>
+            Project Aspis is a closed collaboration between Talos and hosting providers to identify and deter major threat actors. Talos shares its expertise, resources, and capabilities including network and system forensics, reverse engineering, and threat intelligence at no cost to the provider.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.threatglass.com/" target="_blank">Threatglass</a>
+        </td>
+        <td>
+            An online tool for sharing, browsing and analyzing web-based malware. Threatglass allows users to graphically browse website infections by viewing screenshots of the stages of infection, as well as by analyzing network characteristics such as host relationships and packet captures.
         </td>
     </tr>
     <tr>
@@ -260,6 +324,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://www.dhs.gov/ais" target="_blank">AIS</a>
+        </td>
+        <td>
+            The Department of Homeland Security’s (DHS) free Automated Indicator Sharing (AIS) capability enables the exchange of cyber threat indicators between the Federal Government and the private sector at machine speed. Threat indicators are pieces of information like malicious IP addresses or the sender address of a phishing email (although they can also be much more complicated).
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.fidelissecurity.com/resources/fidelis-barncat" target="_blank">Barncat</a>
         </td>
         <td>
@@ -319,14 +391,6 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://www.iocbucket.com/" target="_blank">IOC Bucket</a>
-        </td>
-        <td>
-            IOC Bucket is a free community driven platform dedicated to providing the security community a way to share quality threat intelligence in a simple but efficient way. The IOCs are developed by the community, reviewed by the community, and distributed for use by the community. The content will always remain free and available. In addition to searching and uploading IOCs, it also features an online IOC editor.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/byt3smith/malstrom" target="_blank">Malstrom</a>
         </td>
         <td>
@@ -347,6 +411,15 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             Megatron is a tool implemented by CERT-SE which collects and analyses bad IPs, can be used to calculate statistics, convert and analyze log files and in abuse & incident handling.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/PaloAltoNetworks/minemeld/wiki" target="_blank">MineMeld</a>
+        </td>
+        <td>
+            An extensible Threat Intelligence processing framework created Palo Alto Networks.
+            It can be used to manipulate lists of indicators and transform and/or aggregate them for consumption by third party enforcement infrastructure.
         </td>
     </tr>
     <tr>
@@ -529,6 +602,23 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/CrowdStrike/CrowdFMS" target="_blank">CrowdFMS</a>
+        </td>
+        <td>
+            CrowdFMS is a framework for automating collection and processing of samples from VirusTotal, by leveraging the Private API system. 
+            The framework automatically downloads recent samples, which triggered an alert on the users YARA notification feed.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Neo23x0/Fenrir" target="_blank">Fenrir</a>
+        </td>
+        <td>
+            Simple Bash IOC Scanner.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/byt3smith/Forager" target="_blank">Forager</a>
         </td>
         <td>
@@ -585,6 +675,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/stephenbrannon/IOCextractor" target="_blank">IOCextractor</a>
+        </td>
+        <td>
+            IOC (Indicator of Compromise) Extractor is a program to help extract IOCs from text files. The general goal is to speed up the process of parsing structured data (IOCs) from unstructured or semi-structured data
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/johestephan/ibmxforceex.checker.py" target="_blank">ibmxforceex.checker.py</a>
         </td>
         <td>
@@ -633,6 +731,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/MISP/misp-workbench" target="_blank">MISP Workbench</a>
+        </td>
+        <td>
+            Tools to export data out of the MISP MySQL database and use and abuse them outside of this platform.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/paulpc/nyx" target="_blank">nyx</a>
         </td>
         <td>
@@ -645,6 +751,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             Generate STIX XML from OpenIOC XML.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/kx499/ostip/wiki" target="_blank">OSTIP</a>
+        </td>
+        <td>
+            A homebrew threat data platform.
         </td>
     </tr>
     <tr>
@@ -690,10 +804,27 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/blackhillsinfosec/RITA" target="_blank">RITA</a>
+            <a href="https://github.com/ocmdev/rita" target="_blank">RITA</a>
         </td>
         <td>
-            RITA is inteded to help in the search for indicators of compromise in enterprise networks of varying size.
+            Real Intelligence Threat Analytics (RITA) is inteded to help in the search for indicators of compromise in enterprise networks of varying size.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/Netflix/Scumblr" target="_blank">Scumblr</a>
+        </td>
+        <td>
+            Scumblr is a web application that allows performing periodic syncs of data sources (such as Github repositories and URLs) and performing analysis (such as static analysis, dynamic checks, and metadata collection) on the identified results. 
+            Scumblr helps you streamline proactive security through an intelligent automation framework to help you identify, track, and resolve security issues faster.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/STIXProject/stix-viz" target="_blank">stix-viz</a>
+        </td>
+        <td>
+            STIX Visualization Tool.
         </td>
     </tr>
     <tr>
@@ -784,6 +915,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             YETI is a proof-of-concept implementation of TAXII that supports the Inbox, Poll and Discovery services defined by the TAXII Services Specification.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/tomchop/yeti" target="_blank">yeti/a>
+        </td>
+        <td>
+            Your Everyday Threat Intelligence (YETI).
+        </td>
+    </tr>
 </table>
 
 
@@ -811,10 +950,36 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="http://www.activeresponse.org/building-threat-hunting-strategy-with-the-diamond-model/" target="_blank">Building Threat Hunting Strategies with the Diamond Model</a>
+        </td>
+        <td>
+            Blogpost by Sergio Caltagirone on how to develop intelligent threat hunting strategies by using the Diamond Model.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://car.mitre.org/wiki/Main_Page" target="_blank">Cyber Analytics Repository by MITRE</a>
+        </td>
+        <td>
+            The Cyber Analytics Repository (CAR) is a knowledge base of analytics developed by MITRE based on the Adversary Tactics, Techniques, and Common Knowledge (ATT&CK™) threat model.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://cryptome.org/2015/09/cti-guide.pdf" target="_blank">Definitive Guide to Cyber Threat Intelligence</a>
         </td>
         <td>
             Describes the elements of cyber threat intelligence and discusses how it is collected, analyzed, and used by a variety of human and technology consumers.Fruther examines how intelligence can improve cybersecurity at tactical, operational, and strategic levels, and how it can help you stop attacks sooner, improve your defenses, and talk more productively about cybersecurity issues with executive management in typical <i>for Dummies</i> style.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://ryanstillions.blogspot.nl/2014/04/the-dml-model_21.html" target="_blank">The Detection Maturity Level (DML)</a>
+        </td>
+        <td>
+            The DML model is a capability maturity model for referencing ones maturity in detecting cyber attacks.
+            It's designed for organizations who perform intel-driven detection and response and who put an emphasis on having a mature detection program.
+            The maturity of an organization is not measured by it's ability to merely obtain relevant intelligence, but rather it's capacity to apply that intelligence effectively to detection and response functions.
         </td>
     </tr>
     <tr>
@@ -836,10 +1001,10 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="http://csrc.nist.gov/publications/drafts/800-150/sp800_150_second_draft.pdf" target="_blank">Guide to Cyber Threat Information Sharing by NIST</a>
+            <a href="http://dx.doi.org/10.6028/NIST.SP.800-150" target="_blank">Guide to Cyber Threat Information Sharing by NIST</a>
         </td>
         <td>
-            The Guide to Cyber Threat Information Sharing (NIST Special Publication 800-15, second draft) assists organizations in establishing computer security incident response capabilities that leverage the collective knowledge, experience, and abilities of their partners by actively sharing threat intelligence and ongoing coordination. The guide provides guidelines for coordinated incident handling, including producing and consuming data, participating in information sharing communities, and protecting incident-related data.
+            The Guide to Cyber Threat Information Sharing (NIST Special Publication 800-150) assists organizations in establishing computer security incident response capabilities that leverage the collective knowledge, experience, and abilities of their partners by actively sharing threat intelligence and ongoing coordination. The guide provides guidelines for coordinated incident handling, including producing and consuming data, participating in information sharing communities, and protecting incident-related data.
         </td>
     </tr>
     <tr>
@@ -872,6 +1037,23 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
         </td>
         <td>
             A framework for cybersecurity information sharing and risk reduction. A high level overview paper by Microsoft.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://tools.ietf.org/html/draft-dulaunoy-misp-core-format-00" target="_blank">MISP Core Format (draft)</a>
+        </td>
+        <td>
+            This document describes the MISP core format used to exchange indicators and threat information between MISP (Malware Information and threat Sharing Platform) instances.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.necoma-project.eu/" target="_blank">NECOMA Project</a>
+        </td>
+        <td>
+            The Nippon-European Cyberdefense-Oriented Multilayer threat Analysis (NECOMA) research project is aimed at improving threat data collection and analysis to develop and demonstratie new cyberdefense mechanisms.
+            As part of the project several publications and software projects have been published.
         </td>
     </tr>
     <tr>
@@ -912,6 +1094,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
         </td>
         <td>
             A whitepaper by the SANS Institute describing the usage of Threat Intelligence including a survey that was performed.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.wombat-project.eu/" target="_blank">WOMBAT Project</a>
+        </td>
+        <td>
+            The WOMBAT project aims at providing new means to understand the existing and emerging threats that are targeting the Internet economy and the net citizens. To reach this goal, the proposal includes three key workpackages: (i) real time gathering of a diverse set of security related raw data, (ii) enrichment of this input by means of various analysis techniques, and (iii) root cause identification and understanding of the phenomena under scrutiny. 
         </td>
     </tr>
 </table>
