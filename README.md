@@ -112,7 +112,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="http://iplists.firehol.org/" target="_blank">FireHOL IP Lists</a>
         </td>
         <td>
-            A firewall blacklist composed from IP lists, providing maximum protection with minimum false positives. Suitable for basic protection on all internet facing servers, routers and firewalls.
+            400+ publicly available IP Feeds analysed to document their evolution, geo-map, age of IPs, retention policy, overlaps. The site focuses on cyber crime (attacks, abuse, malware).
         </td>
     </tr>
     <tr>
