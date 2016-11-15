@@ -51,14 +51,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             The free threat intelligence parsed and aggregated by Critical Stack is ready for use in any Bro production system. You can specify which feeds you trust and want to ingest.
         </td>
     </tr>
-        <tr>
-        <td>
-            <a href="https://www.c1fapp.com/" target="_blank">C1fApp</a>
-        </td>
-        <td>
-            C1fApp is a threat feed aggregation application, providing a single feed, both Open Source and private. Provides statistics dashboard, open API for search and is been running for a few years now. Searches are on historical data.
-        </td>
-    </tr>
     <tr>
         <td>
             <a href="https://www.cymon.io/" target="_blank">Cymon</a>
