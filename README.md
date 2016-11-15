@@ -869,6 +869,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke" target="_blank">ThreatPinch Lookup</a>
+        </td>
+        <td>
+            An extension for Chrome that creates hover popups on every page for IPv4, MD5, SHA2, and CVEs. It can be used for lookups during threat investigations.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.fidelissecurity.com/resources/fidelis-threatscanner" target="_blank">ThreatScanner</a>
         </td>
         <td>
