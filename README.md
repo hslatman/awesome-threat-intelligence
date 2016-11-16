@@ -144,7 +144,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="http://www.malshare.com/" target="_blank">MalShare.com</a>
         </td>
         <td>
-            The MalShare Project is a public malware repository that provides researchers free access to samples. 
+            The MalShare Project is a public malware repository that provides researchers free access to samples.
         </td>
     </tr>    
     <tr>
@@ -169,6 +169,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             PhishTank delivers a list of suspected phishing URLs. Their data comes from human reports, but they also ingest external feeds where possible. It's a free service, but registering for an API key is sometimes necessary.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://ransomwaretracker.abuse.ch/" target="_blank">Ransomware Tracker</a>
+        </td>
+        <td>
+            The Ransomware Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks and monitors the status of domain names, IP addresses and URLs that are associated with Ransomware, such as Botnet C&C servers, distribution sites and payment sites.
         </td>
     </tr>
     <tr>
@@ -335,7 +343,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             <a href="https://www.fidelissecurity.com/resources/fidelis-barncat" target="_blank">Barncat</a>
         </td>
         <td>
-            Fidelis Cybersecurity offers free access to Barncat after registration. The platform is intended to be used by CERTs, researchers, governments, ISPs and other, large organizations. The database holds various configuration settings used by attackers. 
+            Fidelis Cybersecurity offers free access to Barncat after registration. The platform is intended to be used by CERTs, researchers, governments, ISPs and other, large organizations. The database holds various configuration settings used by attackers.
         </td>
     </tr>
     <tr>
@@ -483,7 +491,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             <a href="https://github.com/Netflix/Scumblr" target="_blank">Scumblr</a>
         </td>
         <td>
-            Scumblr is a web application that allows performing periodic syncs of data sources (such as Github repositories and URLs) and performing analysis (such as static analysis, dynamic checks, and metadata collection) on the identified results. 
+            Scumblr is a web application that allows performing periodic syncs of data sources (such as Github repositories and URLs) and performing analysis (such as static analysis, dynamic checks, and metadata collection) on the identified results.
             Scumblr helps you streamline proactive security through an intelligent automation framework to help you identify, track, and resolve security issues faster.
         </td>
     </tr>
@@ -614,7 +622,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://github.com/CrowdStrike/CrowdFMS" target="_blank">CrowdFMS</a>
         </td>
         <td>
-            CrowdFMS is a framework for automating collection and processing of samples from VirusTotal, by leveraging the Private API system. 
+            CrowdFMS is a framework for automating collection and processing of samples from VirusTotal, by leveraging the Private API system.
             The framework automatically downloads recent samples, which triggered an alert on the users YARA notification feed.
         </td>
     </tr>
@@ -995,7 +1003,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             <a href="https://www.threatconnect.com/wp-content/uploads/ThreatConnect-The-Diamond-Model-of-Intrusion-Analysis.pdf" target="_blank">The Diamond Model of Intrusion Analysis</a>
         </td>
         <td>
-            This paper presents the Diamond Model, a cognitive framework and analytic instrument to support and improve intrusion analysis. Supporint increased measurability, testability and repeatability 
+            This paper presents the Diamond Model, a cognitive framework and analytic instrument to support and improve intrusion analysis. Supporint increased measurability, testability and repeatability
             in intrusion analysis in order to attain higher effectivity, efficiency and accuracy in defeating adversaries is one of its main contributions.
         </td>
     </tr>
@@ -1069,7 +1077,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             <a href="http://rvasec.com/slides/2014/Bianco_Pyramid%20of%20Pain.pdf" target="_blank">Pyramid of Pain</a>
         </td>
         <td>
-            The Pyramid of Pain is a graphical way to express the difficulty of obtaining different levels of indicators and the amount of resources adversaries have to expend when obtained by defenders. 
+            The Pyramid of Pain is a graphical way to express the difficulty of obtaining different levels of indicators and the amount of resources adversaries have to expend when obtained by defenders.
         </td>
     </tr>
     <tr>
@@ -1109,7 +1117,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             <a href="http://www.wombat-project.eu/" target="_blank">WOMBAT Project</a>
         </td>
         <td>
-            The WOMBAT project aims at providing new means to understand the existing and emerging threats that are targeting the Internet economy and the net citizens. To reach this goal, the proposal includes three key workpackages: (i) real time gathering of a diverse set of security related raw data, (ii) enrichment of this input by means of various analysis techniques, and (iii) root cause identification and understanding of the phenomena under scrutiny. 
+            The WOMBAT project aims at providing new means to understand the existing and emerging threats that are targeting the Internet economy and the net citizens. To reach this goal, the proposal includes three key workpackages: (i) real time gathering of a diverse set of security related raw data, (ii) enrichment of this input by means of various analysis techniques, and (iii) root cause identification and understanding of the phenomena under scrutiny.
         </td>
     </tr>
 </table>
