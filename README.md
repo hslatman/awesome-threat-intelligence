@@ -244,6 +244,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             An open source repository with different Yara signatures that are compiled, classified and kept as up to date as possible.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://zeustracker.abuse.ch/" target="_blank">ZeuS Tracker</a>
+        </td>
+        <td>
+            The ZeuS Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks ZeuS Command & Control servers (hosts) around the world and provides you a domain- and a IP-blocklist.
+        </td>
+    </tr>
 </table>
 
 ## Formats
