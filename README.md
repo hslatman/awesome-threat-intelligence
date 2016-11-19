@@ -109,6 +109,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://feodotracker.abuse.ch/" target="_blank">ZeuS Tracker</a>
+        </td>
+        <td>
+            The Feodo Tracker <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks the Feodo trojan.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://iplists.firehol.org/" target="_blank">FireHOL IP Lists</a>
         </td>
         <td>
