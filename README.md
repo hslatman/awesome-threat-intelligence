@@ -456,6 +456,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/MISP/MISP-Taxii-Server" target="_blank">MISP-Taxii-Server</a>
+        </td>
+        <td>
+            A set of configuration files to use with EclecticIQ's OpenTAXII implementation, along with a callback for when data is sent to the TAXII Server's inbox.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.openioc.org/" target="_blank">OpenIOC</a>
         </td>
         <td>
