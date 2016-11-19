@@ -21,6 +21,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
+            <a href="https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml" target="_blank">APT Groups and Operations</a>
+        </td>
+        <td>
+            A spreadsheet containing information and intelligence about APT groups, operations and tactics.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.autoshun.org/" target="_blank">AutoShun</a>
         </td>
         <td>
