@@ -37,7 +37,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="http://bgpranking.circl.lu/" target="_blank">BGP Ranking</a>
+            <a href="https://www.circl.lu/projects/bgpranking/" target="_blank">BGP Ranking</a>
         </td>
         <td>
             Ranking of ASNs having the most malicious content.
@@ -1138,7 +1138,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="https://www.cpni.gov.uk/Documents/Publications/2015/23-March-2015-MWR_Threat_Intelligence_whitepaper-2015.pdf" target="_blank">Threat Intelligence: Collecting, Analysing, Evaluating</a>
+            <a href="https://www.ncsc.gov.uk/content/files/protected_files/guidance_files/MWR_Threat_Intelligence_whitepaper-2015.pdf" target="_blank">Threat Intelligence: Collecting, Analysing, Evaluating</a>
         </td>
         <td>
             This report by MWR InfoSecurity clearly describes several diffent types of threat intelligence, including strategic, tactical and operational variations. It also discusses the processes of requirements elicitation, collection, analysis, production and evaluation of threat intelligence. Also included are some quick wins and a maturity model for each of the types of threat intelligence defined by MWR InfoSecurity.
