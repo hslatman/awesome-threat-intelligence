@@ -990,7 +990,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
 <table>
     <tr>
         <td>
-            <a href="https://github.com/gasgas4/APT_CyberCriminal_Campaign" target="_blank">APT & CyberCriminal Campaign Collection</a>
+            <a href="https://github.com/gasgas4/APT_CyberCriminal_Campaign" target="_blank">APT & Cyber Criminal Campaign Collection</a>
         </td>
         <td>
             Extensive collection of (historic) campaigns. Entries come from various sources.
