@@ -973,7 +973,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/tomchop/yeti" target="_blank">yeti/a>
+            <a href="https://github.com/tomchop/yeti" target="_blank">yeti</a>
         </td>
         <td>
             Your Everyday Threat Intelligence (YETI).
