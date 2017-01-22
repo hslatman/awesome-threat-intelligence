@@ -512,6 +512,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://www.recordedfuture.com/" target="_blank">Recorded Future</a>
+        </td>
+        <td>
+            Recorded Future is a premium SaaS product that automatically unifies threat intelligence from open, closed, and technical sources into a single solution. Their technology uses natural language processing (NLP) and machine learning to deliver that threat intelligence in real time — making Recorded Future a popular choice for IT security teams.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Netflix/Scumblr" target="_blank">Scumblr</a>
         </td>
         <td>
