@@ -547,6 +547,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://www.anomali.com/product/staxx" target="_blank">STAXX (Anomali)</a>
+        </td>
+        <td>
+            Anomali STAXX™ gives you a free, easy way to subscribe to any STIX/TAXII feed. Simply download the STAXX client, configure your data sources, and STAXX will handle the rest.
+        </td>
+    </tr>    
+    <tr>
+        <td>
             <a href="http://stoq.punchcyber.com/" target="_blank">stoQ</a>
         </td>
         <td>
