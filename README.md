@@ -21,6 +21,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
+            <a href="http://s3.amazonaws.com/alexa-static/top-1m.csv.zip" target="_blank">Alexa Top 1 Million sites</a>
+        </td>
+        <td>
+            Probable Whitelist of the top 1 Million sites from Amazon(Alexa).
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml" target="_blank">APT Groups and Operations</a>
         </td>
         <td>
@@ -53,13 +61,21 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://s3-us-west-1.amazonaws.com/umbrella-static/index.html" target="_blank">Cisco Umbrella</a>
+        </td>
+        <td>
+            Probable Whitelist of the top 1 million sites resolved by Cisco Umbrella (was OpenDNS).
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://intel.criticalstack.com/" target="_blank">Critical Stack Intel</a>
         </td>
         <td>
             The free threat intelligence parsed and aggregated by Critical Stack is ready for use in any Bro production system. You can specify which feeds you trust and want to ingest.
         </td>
     </tr>
-        <tr>
+     <tr>
         <td>
             <a href="https://www.c1fapp.com/" target="_blank">C1fApp</a>
         </td>
@@ -219,6 +235,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             SSL Blacklist (SSLBL) is a project maintained by abuse.ch. The goal is to provide a list of "bad" SSL certificates identified by abuse.ch to be associated with malware or botnet activities. SSLBL relies on SHA1 fingerprints of malicious SSL certificates and offers various blacklists
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://statvoo.com/dl/top-1million-sites.csv.zip" target="_blank">Statvoo Top 1 Million Sites</a>
+        </td>
+        <td>
+            Probable Whitelist of the top 1 million web sites, as ranked by Statvoo.
         </td>
     </tr>
     <tr>
