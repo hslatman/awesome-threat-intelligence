@@ -61,6 +61,30 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://danger.rulez.sk/projects/bruteforceblocker/" target="_blank">BruteForceBlocker</a>
+        </td>
+        <td>
+            BruteForceBlocker is a perl script that monitors a server's sshd logs and identifies brute force attacks, which it then uses to automatically configure firewall blocking rules and submit those IPs back to the project site, <a href="http://danger.rulez.sk/projects/bruteforceblocker/blist.php">http://danger.rulez.sk/projects/bruteforceblocker/blist.php</a>.
+        </td>
+    </tr>    
+    <tr>
+        <td>
+            <a href="http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt" target="_blank">C&amp;C Tracker</a>
+        </td>
+        <td>
+            A feed of known, active and non-sinkholed C&amp;C IP addresses, from Bambenek Consulting.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://cinsscore.com/list/ci-badguys.txt" target="_blank">CI Army List</a>
+        </td>
+        <td>
+        A subset of the commercial <a href="http://cinsscore.com/">CINS Score</a> list, focused on poorly rated IPs that are not currently present on other threatlists. 
+        </td>
+    </tr>    
+    <tr>
+        <td>
             <a href="http://s3-us-west-1.amazonaws.com/umbrella-static/index.html" target="_blank">Cisco Umbrella</a>
         </td>
         <td>
@@ -189,6 +213,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://www.openbl.org/lists.html" target="_blank">OpenBL.org</a>
+        </td>
+        <td>
+            A feed of IP addresses found to be attempting brute-force logins on services such as SSH, FTP, IMAP and phpMyAdmin and other web applications. 
+        </td>
+    </tr>    
+    <tr>
+        <td>
             <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
         </td>
         <td>
@@ -227,6 +259,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             A database of signatures used in other tools by Neo23x0.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.spamhaus.org/" target="_blank">The Spamhaus project</a>
+        </td>
+        <td>
+            The Spamhaus Project contains multiple threatlists associated with spam and malware activity.
         </td>
     </tr>
     <tr>
