@@ -1236,6 +1236,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="http://aisel.aisnet.org/wi2017/track08/paper/3/" target="_blank">Threat Intelligence Sharing Platforms: An Exploratory Study of Software Vendors and Research Perspectives</a>
+        </td>
+        <td>
+            A systematic study of 22 Threat Intelligence Sharing Platforms surfacing eight key findings about the gap between existing products and what properties a product should have.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.us-cert.gov/tlp" target="_blank">Traffic Light Protocol</a>
         </td>
         <td>
