@@ -1236,6 +1236,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="http://aisel.aisnet.org/wi2017/track08/paper/3/" target="_blank">Threat Intelligence Sharing Platforms: An Exploratory Study of Software Vendors and Research Perspectives</a>
+        </td>
+        <td>
+            A systematic study of 22 Threat Intelligence Sharing Platforms (TISP) surfacing eight key findings about the current state of threat intelligence usage, its definition and TISPs.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.us-cert.gov/tlp" target="_blank">Traffic Light Protocol</a>
         </td>
         <td>
