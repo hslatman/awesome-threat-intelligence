@@ -80,7 +80,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="http://cinsscore.com/list/ci-badguys.txt" target="_blank">CI Army List</a>
         </td>
         <td>
-        A subset of the commercial <a href="http://cinsscore.com/">CINS Score</a> list, focused on poorly rated IPs that are not currently present on other threatlists. 
+        A subset of the commercial <a href="http://cinsscore.com/">CINS Score</a> list, focused on poorly rated IPs that are not currently present on other threatlists.
         </td>
     </tr>    
     <tr>
@@ -213,10 +213,18 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.metadefender.com/threat-intelligence-feeds" target="_blank">Metadefender.com</a>
+        </td>
+        <td>
+            Metadefender Cloud Threat Intelligence Feeds contains top new malware hash signatures, including MD5, SHA1, and SHA256. These new malicious hashes have been spotted by Metadefender Cloud within the last 24 hours. The feeds are updated daily with newly detected and reported malware to provide actionable and timely threat intelligence.
+        </td>
+    </tr>    
+    <tr>
+        <td>
             <a href="http://www.openbl.org/lists.html" target="_blank">OpenBL.org</a>
         </td>
         <td>
-            A feed of IP addresses found to be attempting brute-force logins on services such as SSH, FTP, IMAP and phpMyAdmin and other web applications. 
+            A feed of IP addresses found to be attempting brute-force logins on services such as SSH, FTP, IMAP and phpMyAdmin and other web applications.
         </td>
     </tr>    
     <tr>
