@@ -667,6 +667,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="http://viper.li/" target="_blank">Viper</a>
+        </td>
+        <td>
+	    Viper is a binary analysis and management framework. Its fundamental objective is to provide a solution to easily organize your collection of malware and exploit samples as well as your collection of scripts you created or found over the time to facilitate your daily research. Think of it as a Metasploit for malware researchers: it provides a terminal interface that you can use to store, search and analyze arbitraty files with and a framework to easily create plugins of any sort.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://exchange.xforce.ibmcloud.com/" target="_blank">XFE - X-Force Exchange</a>
         </td>
         <td>
