@@ -80,7 +80,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="http://cinsscore.com/list/ci-badguys.txt" target="_blank">CI Army List</a>
         </td>
         <td>
-        A subset of the commercial <a href="http://cinsscore.com/">CINS Score</a> list, focused on poorly rated IPs that are not currently present on other threatlists. 
+        A subset of the commercial <a href="http://cinsscore.com/">CINS Score</a> list, focused on poorly rated IPs that are not currently present on other threatlists.
         </td>
     </tr>    
     <tr>
@@ -213,10 +213,18 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.metadefender.com/threat-intelligence-feeds" target="_blank">Metadefender.com</a>
+        </td>
+        <td>
+            Metadefender Cloud Threat Intelligence Feeds contains top new malware hash signatures, including MD5, SHA1, and SHA256. These new malicious hashes have been spotted by Metadefender Cloud within the last 24 hours. The feeds are updated daily with newly detected and reported malware to provide actionable and timely threat intelligence.
+        </td>
+    </tr>    
+    <tr>
+        <td>
             <a href="http://www.openbl.org/lists.html" target="_blank">OpenBL.org</a>
         </td>
         <td>
-            A feed of IP addresses found to be attempting brute-force logins on services such as SSH, FTP, IMAP and phpMyAdmin and other web applications. 
+            A feed of IP addresses found to be attempting brute-force logins on services such as SSH, FTP, IMAP and phpMyAdmin and other web applications.
         </td>
     </tr>    
     <tr>
@@ -250,7 +258,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             The Suspicious Domains Threat Lists by <a href="https://isc.sans.edu/suspicious_domains.html" target="_blank">SANS ICS</a> tracks suspicious domains. It offers 3 lists categorized as either <a href="https://isc.sans.edu/feeds/suspiciousdomains_High.txt" target="_blank">high</a>, <a href="https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt" target="_blank">medium</a> or <a href="https://isc.sans.edu/feeds/suspiciousdomains_Low.txt" target="_blank">low</a> sensitivity, where the high sensitivity list has fewer false positives, whereas the low sensitivty list with more false positives. There is also an <a href="https://isc.sans.edu/feeds/suspiciousdomains_whitelist_approved.txt" target="_blank">approved whitelist</a> of domains.<br/>
             Finally, there is a suggested <a href="https://isc.sans.edu/block.txt" target="_blank">IP blocklist</a> from <a href="https://dshield.org">DShield</a>.
-
         </td>
     </tr>
     <tr>
@@ -750,6 +757,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/cuckoosandbox/cuckoo" target="_blank">Cuckoo Sandbox</a>
+        </td>
+        <td>
+            Cuckoo Sandbox is an automated dynamic malware analysis system. It's the most well-known open source malware analysis sandbox around and is frequently deployed by researchers, CERT/SOC teams, and threat intelligence teams all around the globe. For many organizations Cuckoo Sandbox provides a first insight into potential malware samples.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Neo23x0/Fenrir" target="_blank">Fenrir</a>
         </td>
         <td>
@@ -1232,6 +1247,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
         </td>
         <td>
             This report by MWR InfoSecurity clearly describes several diffent types of threat intelligence, including strategic, tactical and operational variations. It also discusses the processes of requirements elicitation, collection, analysis, production and evaluation of threat intelligence. Also included are some quick wins and a maturity model for each of the types of threat intelligence defined by MWR InfoSecurity.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://aisel.aisnet.org/wi2017/track08/paper/3/" target="_blank">Threat Intelligence Sharing Platforms: An Exploratory Study of Software Vendors and Research Perspectives</a>
+        </td>
+        <td>
+            A systematic study of 22 Threat Intelligence Sharing Platforms (TISP) surfacing eight key findings about the current state of threat intelligence usage, its definition and TISPs.
         </td>
     </tr>
     <tr>
