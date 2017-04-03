@@ -249,6 +249,7 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>
             Suspicious Domains Threat 由 <a href="https://isc.sans.edu/suspicious_domains.html" target="_blank">SANS ICS</a> 提供对恶意域名的跟踪，提供三个列表分为 <a href="https://isc.sans.edu/feeds/suspiciousdomains_High.txt" target="_blank">高</a>, <a href="https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt" target="_blank">中</a> or <a href="https://isc.sans.edu/feeds/suspiciousdomains_Low.txt" target="_blank">低</a> 三个层级，高级名单的错报低，低级名单的错报高。还有一个域名的 <a href="https://isc.sans.edu/feeds/suspiciousdomains_whitelist_approved.txt" target="_blank">白名单</a><br/>
             另外，也有黑名单 <a href="https://isc.sans.edu/block.txt" target="_blank">IP blocklist</a> 由 <a href="https://dshield.org">DShield</a> 提供
+
         </td>
     </tr>
     <tr>
@@ -359,7 +360,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://cyboxproject.github.io/" target="_blank">CybOX</a>
         </td>
         <td>
-            The Cyber Observable eXpression (CybOX) language provides a common structure for representing cyber observables across and among the operational areas of enterprise cyber security that improves the consistency, efficiency, and interoperability of deployed tools and processes, as well as increases overall situational awareness by enabling the potential for detailed automatable sharing, mapping, detection, and analysis heuristics.
+            Cyber Observable eXpression (CybOX) 提供了一种用于企业网络安全运营中可观察性的信息结构，用来提高部署的工具和流程的效率、一致性和互通性，通过详细地自动化共享、映射、检测以及启发式分析来挖掘信息的潜在价值
         </td>
     </tr>
     <tr>
@@ -367,7 +368,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://tools.ietf.org/html/rfc5070" target="_blank">IODEF (RFC5070)</a>
         </td>
         <td>
-            The Incident Object Description Exchange Format (IODEF) defines a data representation that provides a framework for sharing information commonly exchanged by Computer Security Incident Response Teams (CSIRTs) about computer security incidents.
+            Incident Object Description Exchange Format (IODEF) 定义了为 CSIRTs 交换有关计算机安全事件信息的框架的数据表示方法
         </td>
     </tr>
     <tr>
@@ -375,7 +376,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://tools.ietf.org/html/rfc4765" target="_blank">IDMEF (RFC4765)</a>
         </td>
         <td>
-            <i>Experimental</i> - The purpose of the Intrusion Detection Message Exchange Format (IDMEF) is to define data formats and exchange procedures for sharing information of interest to intrusion detection and response systems and to the management systems that may need to interact with them.
+            <i>Experimental</i> - Intrusion Detection Message Exchange Format (IDMEF) 的目的是定义共享入侵检测和响应系统有用的信息包括可能需要进行交互的管理系统的数据格式和交换过程
         </td>
     </tr>
     <tr>
@@ -383,7 +384,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://maecproject.github.io/" target="_blank">MAEC</a>
         </td>
         <td>
-            The Malware Attribute Enumeration and Characterization (MAEC) projects is aimed at creating and providing a standardized language for sharing structured information about malware based upon attributes such as behaviors, artifacts, and attack patterns.
+            Malware Attribute Enumeration and Characterization (MAEC) 项目旨在创建、提供一种根据恶意软件的行为、工具、攻击模式等可用于共享的结构化信息的标准
         </td>
     </tr>
     <tr>
@@ -391,7 +392,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://stixproject.github.io/" target="_blank">STIX</a>
         </td>
         <td>
-            The Structured Threat Information eXpression (STIX) language is a standardized construct to represent cyber threat information. The STIX Language intends to convey the full range of potential cyber threat information and strives to be fully expressive, flexible, extensible, and automatable. STIX does not only allow tool-agnostic fields, but also provides so-called <i>test mechanisms</i> that provide means for embedding tool-specific elements, including OpenIOC, Yara and Snort.
+            Structured Threat Information eXpression (STIX) 定义了一组网络威胁信息的标准， STIX 旨在完整传达全部潜在地网络威胁信息，力求灵活、可扩展以及自动化。STIX 不仅与工具无关，还提供了所谓的 <i>测试机制</i>，为嵌入特定工具元素提供手段，包括 OpenIOC, Yara and Snort
         </td>
     </tr>
     <tr>
@@ -399,7 +400,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://taxiiproject.github.io/" target="_blank">TAXII</a>
         </td>
         <td>
-            The Trusted Automated eXchange of Indicator Information (TAXII) standard defines a set of services and message exchanges that, when implemented,  enable sharing of actionable cyber threat information across organization and product/service boundaries. TAXII defines concepts, protocols, and message exchanges to exchange cyber threat information for the detection, prevention, and mitigation of cyber threats.
+            Trusted Automated eXchange of Indicator Information (TAXII) 标准定义了一系列服务与信息交换的标准，执行实施后可以在组织和产品/服务的边界提供可操作的网络威胁信息，它定义了概念、协议、用于检测、预防和减轻网络威胁的信息交换
         </td>
     </tr>
     <tr>
@@ -407,7 +408,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="http://veriscommunity.net/index.html" target="_blank">VERIS</a>
         </td>
         <td>
-            The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. In addition to providing a structuref format, VERIS also collects data from the community to report on breaches in the Verizon Data Breach Investigations Report (<a target="_blank" href="http://www.verizonenterprise.com/verizon-insights-lab/dbir/">DBIR</a>) and publishes this database online at <a target="_blank" href="http://vcdb.org/index.html">VCDB.org</a>.
+            Vocabulary for Event Recording and Incident Sharing (VERIS) 是一组指标，旨在提供一种以结构化和可重复的方式描述安全事件的通用语言。VERIS 是对安全行业缺乏高质量信息挑战的回应。除了提供架构格式外，VERIS 也 从 Verizon 数据泄漏调查报告库 (<a target="_blank" href="http://www.verizonenterprise.com/verizon-insights-lab/dbir/">DBIR</a>)社区收集报告和 <a target="_blank" href="http://vcdb.org/index.html">VCDB.org</a> 的在线数据库
         </td>
     </tr>
 </table>
@@ -430,7 +431,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://www.dhs.gov/ais" target="_blank">AIS</a>
         </td>
         <td>
-            The Department of Homeland Security’s (DHS) free Automated Indicator Sharing (AIS) capability enables the exchange of cyber threat indicators between the Federal Government and the private sector at machine speed. Threat indicators are pieces of information like malicious IP addresses or the sender address of a phishing email (although they can also be much more complicated).
+            Department of Homeland Security’s (DHS) 设计的用于联邦政府和私营部门之间共享威胁指标的标准，威胁指标包括恶意 IP 地址或网络钓鱼邮件发送人等信息
         </td>
     </tr>
     <tr>
@@ -438,7 +439,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://www.fidelissecurity.com/resources/fidelis-barncat" target="_blank">Barncat</a>
         </td>
         <td>
-            Fidelis Cybersecurity offers free access to Barncat after registration. The platform is intended to be used by CERTs, researchers, governments, ISPs and other, large organizations. The database holds various configuration settings used by attackers.
+            Fidelis Cybersecurity 注册后提供对 Barncat 免费的访问权限，该平台旨在为 CERT、研究人员、政府、ISP 以及大型组织提供，数据库保存着攻击者的各种信息
         </td>
     </tr>
     <tr>
@@ -462,7 +463,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://crits.github.io/" target="_blank">CRITS</a>
         </td>
         <td>
-            CRITS is a platform that provides analysts with the means to conduct collaborative research into malware and threats. It plugs into a centralized intelligence data repository, but can also be used as a private instance.
+            CRITS 是一个为分析人员提供恶意软件和威胁情报协同研究的平台，可以作为中心情报数据库的一部分，但也可以独立成库
         </td>
     </tr>
     <tr>
@@ -478,7 +479,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://www.enisa.europa.eu/topics/csirt-cert-services/community-projects/incident-handling-automation" target="_blank">IntelMQ</a>
         </td>
         <td>
-            IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs.
+            IntelMQ 是 CERTs 的一个为了收集和处理安全订阅数据的解决方案，其最初由 IHAP 发起，现在由社区驱动。目标是给事件响应者提供一个简单的方法来收集和处理威胁情报，从而改善 CERT 的事件处理过程
         </td>
     </tr>
     <tr>
@@ -486,10 +487,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://technet.microsoft.com/en-us/security/dn750892" target="_blank">Interflow</a>
         </td>
         <td>
-            Interflow is a security and threat information exchange platform created by Microsoft for professionals working in cybersecurity.
-            It uses a distributed architecture which enables sharing of security and threat information within and between communities for a collectively stronger ecosystem.
-            Offering multiple configuration options, Interflow allows users to decide what communities to form, what data feeds to consume, and with whom.
-            Interflow is currently in private preview.
+            Interflow  是由 Microsoft 为网络安全分析人员创建的安全和威胁信息交换平台，它使用分布式架构，可以在社区内外构建更强大的生态系统来分享安全与威胁信息。Interflow 提供多种配置选项，允许用户决定要组建那些社区，整合那些数据订阅以及与谁共享。Interflow 目前仍然是 private preview 状态
         </td>
     </tr>
     <tr>
@@ -505,7 +503,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="http://django-mantis.readthedocs.io/en/latest/" target="_blank">MANTIS</a>
         </td>
         <td>
-            The Model-based Analysis of Threat Intelligence Sources (MANTIS) Cyber Threat Intelligence Management Framework supports the management of cyber threat intelligence expressed in various standard languages, like STIX and CybOX. It is *not* ready for large-scale production though.
+            Model-based Analysis of Threat Intelligence Sources (MANTIS) 网络威胁情报管理框架支持各种标准语言（如 STIX 和 CybOX）来进行网络威胁情报的管理
         </td>
     </tr>
     <tr>
@@ -513,7 +511,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://github.com/cert-se/megatron-java" target="_blank">Megatron</a>
         </td>
         <td>
-            Megatron is a tool implemented by CERT-SE which collects and analyses bad IPs, can be used to calculate statistics, convert and analyze log files and in abuse & incident handling.
+            Megatron 是由 CERT-SE 实施的工具，用于收集和分析恶意 IP，带有数据统计、转换、分析以及事件响应的功能
         </td>
     </tr>
     <tr>
@@ -521,8 +519,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://github.com/PaloAltoNetworks/minemeld/wiki" target="_blank">MineMeld</a>
         </td>
         <td>
-            An extensible Threat Intelligence processing framework created Palo Alto Networks.
-            It can be used to manipulate lists of indicators and transform and/or aggregate them for consumption by third party enforcement infrastructure.
+            Palo Alto Networks 创建的一个可扩展的威胁情报处理框架，它可以有效管理 IOC 列表，并将其转换/汇总到第三方基础架构中使用
         </td>
     </tr>
     <tr>
@@ -562,7 +559,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://www.alienvault.com/open-threat-exchange" target="_blank">OTX - Open Threat Exchange</a>
         </td>
         <td>
-            AlienVault Open Threat Exchange (OTX) provides open access to a global community of threat researchers and security professionals. It delivers community-generated threat data, enables collaborative research, and automates the process of updating your security infrastructure with threat data from any source.
+            AlienVault Open Threat Exchange (OTX) 为威胁研究人员和安全专业人士提供全球开放访问，其提供社区生成的威胁数据来实现协作研究，并自动更新汇聚多来源的威胁数据来完善安全基础设施建设
         </td>
     </tr>
     <tr>
@@ -570,7 +567,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://github.com/Lookingglass/opentpx/" target="_blank">Open Threat Partner eXchange</a>
         </td>
         <td>
-            The Open Threat Partner eXchange (OpenTPX) consists of an open-source format and tools for exchanging machine-readable threat intelligence and network security operations data. It is a JSON-based format that allows sharing of data between connected systems.
+            Open Threat Partner eXchange (OpenTPX) 由开源格式和用于机器的威胁情报和网络安全工具组成，它是一种基于 JSON 的格式，允许在互联的系统间共享情报
         </td>
     </tr>
     <tr>
@@ -578,7 +575,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://www.passivetotal.org/" target="_blank">PassiveTotal</a>
         </td>
         <td>
-            The PassiveTotal platform offered by RiskIQ is a threat-analysis platform which provides analysts with as much data as possible in order to prevent attacks before they happen. Several types of solutions are offered, as well as integrations (APIs) with other systems.
+            RiskIQ 提供的 PassiveTotal 平台是一个威胁分析平台，可以为威胁分析人员提供尽可能多的数据，来阻止曾经发生过的攻击，提供了不同类型的解决方案和与其他系统的整合
         </td>
     </tr>
     <tr>
@@ -586,7 +583,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://www.recordedfuture.com/" target="_blank">Recorded Future</a>
         </td>
         <td>
-            Recorded Future is a premium SaaS product that automatically unifies threat intelligence from open, closed, and technical sources into a single solution. Their technology uses natural language processing (NLP) and machine learning to deliver that threat intelligence in real time — making Recorded Future a popular choice for IT security teams.
+            Recorded Future 是一个优秀的 SaaS 产品，可以将不同类型的威胁情报整合到单一的解决方案中，其使用自然语言处理（NLP）和机器学习来实时提供威胁情报，这些都让 Recorded Future 成为 IT 安全团队的热门选择
         </td>
     </tr>
     <tr>
@@ -594,8 +591,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://github.com/Netflix/Scumblr" target="_blank">Scumblr</a>
         </td>
         <td>
-            Scumblr is a web application that allows performing periodic syncs of data sources (such as Github repositories and URLs) and performing analysis (such as static analysis, dynamic checks, and metadata collection) on the identified results.
-            Scumblr helps you streamline proactive security through an intelligent automation framework to help you identify, track, and resolve security issues faster.
+            Scumblr 是一个可以执行数据源定期同步的 Web 应用程序，并对可识别的结果执行分析（如静态分析、动态检测和元数据收集）。Scumblr 可以帮助你通过智能自动化框架简化安全分析过程，以帮助你更快地识别、跟踪和解决安全问题
         </td>
     </tr>
     <tr>
@@ -611,7 +607,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://www.anomali.com/product/staxx" target="_blank">STAXX (Anomali)</a>
         </td>
         <td>
-            Anomali STAXX™ gives you a free, easy way to subscribe to any STIX/TAXII feed. Simply download the STAXX client, configure your data sources, and STAXX will handle the rest.
+            Anomali STAXX™ 提供了一种免费、简便地方式来处理任何 STIX/TAXII 类的订阅信息。只需要下载 STAXX 客户端，配置好数据源就可以由它完成后续的工作
         </td>
     </tr>    
     <tr>
@@ -619,8 +615,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="http://stoq.punchcyber.com/" target="_blank">stoQ</a>
         </td>
         <td>
-            stoQ is a framework that allows cyber analysts to organize and automate repetitive, data-driven tasks. It features plugins for many other systems to interact with.
-            One use case is the extraction of IOCs from documents, an example of which is shown <a href="https://stoq-framework.blogspot.nl/2016/04/operationalizing-indicators.html" target="_blank">here</a>, but it can also be used for deobfuscationg and decoding of content and automated scanning with YARA, for example.
+            stoQ 是一个允许网络分析师来组织、自动化那些数据驱动的任务，，它具有许多可用于其他系统的插件，一种用例是从文档中提取 IOC，例如 <a href="https://stoq-framework.blogspot.nl/2016/04/operationalizing-indicators.html" target="_blank">博客</a>, 也可以用于解帧和解码以及 YARA 的自动扫描
         </td>
     </tr>
     <tr>
@@ -644,7 +639,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://developers.facebook.com/docs/threat-exchange/" target="_blank">ThreatExchange</a>
         </td>
         <td>
-            Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in <b>beta</b>. Reference code can be found at <a href="https://github.com/facebook/ThreatExchange" target="_blank">GitHub</a>.
+            Facebook 创建了 ThreatExchange 可以方便的使用结构化、易用的 API 来共享威胁数据，该 API 提供隐私控制，以便与所需的组织进行共享，该项目仍然处于测试阶段，参考代码可以在 <a href="https://github.com/facebook/ThreatExchange" target="_blank">GitHub</a> 中找到
         </td>
     </tr>
     <tr>
@@ -660,7 +655,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://exchange.xforce.ibmcloud.com/" target="_blank">XFE - X-Force Exchange</a>
         </td>
         <td>
-            The X-Force Exhange (XFE) by IBM XFE is a free SaaS product that you can use to search for threat intelligence information, collect your findings, and share your insights with other members of the XFE community.
+            IBM XFE 开发的 X-Force Exhange (XFE) 是一款免费的 SaaS 产品，可用于搜索威胁情报信息，收集你的数据并与 XFE 社区的其他成员分享你的看法
         </td>
     </tr>
 </table>
@@ -1118,7 +1113,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://cryptome.org/2015/09/cti-guide.pdf" target="_blank">Definitive Guide to Cyber Threat Intelligence</a>
         </td>
         <td>
-            Describes the elements of cyber threat intelligence and discusses how it is collected, analyzed, and used by a variety of human and technology consumers.Fruther examines how intelligence can improve cybersecurity at tactical, operational, and strategic levels, and how it can help you stop attacks sooner, improve your defenses, and talk more productively about cybersecurity issues with executive management in typical <i>for Dummies</i> style.
+            描述了网络威胁情报的要素，讨论了如何收集、分析和使用这些数据来进一步应用在战略、运营层面来提高网络安全，以及如何帮助你更早地阻断攻击，提高自己的防御能力，更加有效的讨论网络安全隐患，以典型的 <i>Dummies</i>  风格进行管理
         </td>
     </tr>
     <tr>
@@ -1126,9 +1121,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://ryanstillions.blogspot.nl/2014/04/the-dml-model_21.html" target="_blank">The Detection Maturity Level (DML)</a>
         </td>
         <td>
-            The DML model is a capability maturity model for referencing ones maturity in detecting cyber attacks.
-            It's designed for organizations who perform intel-driven detection and response and who put an emphasis on having a mature detection program.
-            The maturity of an organization is not measured by it's ability to merely obtain relevant intelligence, but rather it's capacity to apply that intelligence effectively to detection and response functions.
+            DML 模型是一个能力成熟度模型，引入成熟度来检测网络攻击。专为情报驱动的威胁检测和应急响应而设计，并强调一个成熟的应用流程。成熟度并不是通过获得相关情报的能力还衡量的，而是将能力有效地应用到检测和响应功能上
         </td>
     </tr>
     <tr>
@@ -1136,8 +1129,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://www.threatconnect.com/wp-content/uploads/ThreatConnect-The-Diamond-Model-of-Intrusion-Analysis.pdf" target="_blank">The Diamond Model of Intrusion Analysis</a>
         </td>
         <td>
-            This paper presents the Diamond Model, a cognitive framework and analytic instrument to support and improve intrusion analysis. Supporint increased measurability, testability and repeatability
-            in intrusion analysis in order to attain higher effectivity, efficiency and accuracy in defeating adversaries is one of its main contributions.
+            本文介绍了钻石模型，一种支持和改善入侵分析认知的框架和分析工具。Supporint 为入侵分析中增加了可检测性、可测试性和可重复性来获得更高的有效性，击败对手的效率和准确度是其主要贡献之一
         </td>
     </tr>
     <tr>
@@ -1153,7 +1145,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="http://dx.doi.org/10.6028/NIST.SP.800-150" target="_blank">Guide to Cyber Threat Information Sharing by NIST</a>
         </td>
         <td>
-            The Guide to Cyber Threat Information Sharing (NIST Special Publication 800-150) assists organizations in establishing computer security incident response capabilities that leverage the collective knowledge, experience, and abilities of their partners by actively sharing threat intelligence and ongoing coordination. The guide provides guidelines for coordinated incident handling, including producing and consuming data, participating in information sharing communities, and protecting incident-related data.
+            Guide to Cyber Threat Information Sharing (NIST Special Publication 800-150) 协助组织建立计算机安全事件响应能力，利用合作伙伴的知识、经验和能力，积极分享威胁情报并持续协调。该指南提供协调事件处理的指导方针，包括生成和使用数据，参与信息共享社区
         </td>
     </tr>
     <tr>
@@ -1177,7 +1169,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="http://www.dtic.mil/doctrine/new_pubs/jp2_0.pdf" target="_blank">Joint Publication 2-0: Joint Intelligence</a>
         </td>
         <td>
-            This publication by the U.S army forms the core of joint intelligence doctrine and lays the foundation to fully integrate operations, plans and intelligence into a cohesive team. The concepts presented are applicable to (Cyber) Threat Intelligence too.
+            美军的这本出版物以情报学说为核心，为运作、计划情报融入一个凝聚力的团队奠定了基础，所提出的概念也适用于网络威胁情报
         </td>
     </tr>
     <tr>
@@ -1201,8 +1193,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="http://www.necoma-project.eu/" target="_blank">NECOMA Project</a>
         </td>
         <td>
-            The Nippon-European Cyberdefense-Oriented Multilayer threat Analysis (NECOMA) research project is aimed at improving threat data collection and analysis to develop and demonstratie new cyberdefense mechanisms.
-            As part of the project several publications and software projects have been published.
+            Nippon-European Cyberdefense-Oriented Multilayer threat Analysis (NECOMA) 研究项目旨在改进威胁情报的收集和分析，来展示新的网络防范机制，作为项目的一部分，出版物和软件已经面世
         </td>
     </tr>
     <tr>
@@ -1210,7 +1201,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="http://rvasec.com/slides/2014/Bianco_Pyramid%20of%20Pain.pdf" target="_blank">Pyramid of Pain</a>
         </td>
         <td>
-            The Pyramid of Pain is a graphical way to express the difficulty of obtaining different levels of indicators and the amount of resources adversaries have to expend when obtained by defenders.
+            Pyramid of Pain 以图形化方式来表达不同级别指标数据的困难度，以及防守者发现时攻击方获得的资源量
         </td>
     </tr>
     <tr>
@@ -1226,7 +1217,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://www.ncsc.gov.uk/content/files/protected_files/guidance_files/MWR_Threat_Intelligence_whitepaper-2015.pdf" target="_blank">Threat Intelligence: Collecting, Analysing, Evaluating</a>
         </td>
         <td>
-            This report by MWR InfoSecurity clearly describes several diffent types of threat intelligence, including strategic, tactical and operational variations. It also discusses the processes of requirements elicitation, collection, analysis, production and evaluation of threat intelligence. Also included are some quick wins and a maturity model for each of the types of threat intelligence defined by MWR InfoSecurity.
+            MWR InfoSecurity 的报告清楚的描述了威胁情报几种不同的类型，包括战略、战术和执行变化。还讨论了需求启发、收集、分析、生成和评估威胁情报的过程。也包括了其定义的每种威胁情报的成熟度模型
         </td>
     </tr>
     <tr>
@@ -1250,7 +1241,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="http://www.wombat-project.eu/" target="_blank">WOMBAT Project</a>
         </td>
         <td>
-            The WOMBAT project aims at providing new means to understand the existing and emerging threats that are targeting the Internet economy and the net citizens. To reach this goal, the proposal includes three key workpackages: (i) real time gathering of a diverse set of security related raw data, (ii) enrichment of this input by means of various analysis techniques, and (iii) root cause identification and understanding of the phenomena under scrutiny.
+            WOMBAT 项目旨在提供新的手段来了解针对互联网出现的新威胁。为了实现这一目标，该方案包括三个关键的工作：（1）实时收集各种与安全相关的原始数据（2）通过各种分析技术丰富输入数据（3）辨识和理解当前的安全状况
         </td>
     </tr>
 </table>
