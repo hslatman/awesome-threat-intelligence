@@ -210,6 +210,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             DNS-BH 项目创建并维护了一个传播恶意软件以及间谍软件的域名列表，可以被用来检测 DNS 请求做预防检测
         </td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://www.metadefender.com/threat-intelligence-feeds" target="_blank">Metadefender.com</a>
+        </td>
+        <td>
+            Metadefender 云威胁情报源包含最新的恶意软件哈希签名，包括 MD5 和 SHA1，SHA256。是过去 24 小时内，Metadefender 云发现的新的恶意哈希值。定语提供每日更新及恶意软件的检测和报告，提供可操作、及时的威胁情报
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="http://www.openbl.org/lists.html" target="_blank">OpenBL.org</a>
@@ -738,6 +746,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             CrowdFMS 是一个利用私有 API 来自动收集与处理来自 VirusTotal 的样本的框架，该框架会自动下载最近的样本，从而触发 YARA 提醒订阅的警报
         </td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://github.com/cuckoosandbox/cuckoo" target="_blank">Cuckoo Sandbox</a>
+        </td>
+        <td>
+            Cuckoo 沙盒是自动化动态恶意软件分析系统。它是最知名的开源恶意软件分析沙盒，由研究人员、CERT/SOC 团队和全球的威胁情报团队部署。对于许多组织来说 Cuckoo 沙盒可以发现第一个潜在的恶意软件样本
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/Neo23x0/Fenrir" target="_blank">Fenrir</a>
@@ -1217,6 +1233,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             MWR InfoSecurity 的报告清楚的描述了威胁情报几种不同的类型，包括战略、战术和执行变化。还讨论了需求启发、收集、分析、生成和评估威胁情报的过程。也包括了其定义的每种威胁情报的成熟度模型
+        </td>
+    </tr>
+	<tr>
+        <td>
+            <a href="http://aisel.aisnet.org/wi2017/track08/paper/3/" target="_blank">Threat Intelligence Sharing Platforms: An Exploratory Study of Software Vendors and Research Perspectives</a>
+        </td>
+        <td>
+			对 22 种威胁情报共享平台（TISP）的系统化研究提出了当前状态下关于威胁情报使用的情况，其定义和 TISPs 系统
         </td>
     </tr>
     <tr>
