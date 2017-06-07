@@ -196,6 +196,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
     </tr>
     <tr>
+    <tr>
+        <td>
+            <a href="https://majestic.com/reports/majestic-million" target="_blank">Majestic Million</a>
+        </td>
+        <td>
+            Probable Whitelist of the top 1 million web sites, as ranked by Majestic. Sites are ordered by the number of referring subnets. More about the ranking can be found on their <a href="https://blog.majestic.com/development/majestic-million-csv-daily/" target="_blank">blog</a>.
+        </td>
+    </tr>
+    <tr>
         <td>
             <a href="http://www.malshare.com/" target="_blank">MalShare.com</a>
         </td>
