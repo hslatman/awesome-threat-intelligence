@@ -227,7 +227,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             Metadefender Cloud Threat Intelligence Feeds contains top new malware hash signatures, including MD5, SHA1, and SHA256. These new malicious hashes have been spotted by Metadefender Cloud within the last 24 hours. The feeds are updated daily with newly detected and reported malware to provide actionable and timely threat intelligence.
         </td>
-    </tr>    
+    </tr>   
+    <tr>
+        <td>
+            <a href="https://services.normshield.com" target="_blank">NormShield Services</a>
+        </td>
+        <td>
+            NormShield Services provide thousands of domain information (including whois information) that potential phishing attacks may come from. Breach and blacklist services also available. There is free sign up for public services for continuous monitoring.
+        </td>
+    </tr> 
     <tr>
         <td>
             <a href="http://www.openbl.org/lists.html" target="_blank">OpenBL.org</a>
