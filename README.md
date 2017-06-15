@@ -214,6 +214,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>    
     <tr>
         <td>
+            <a href="https://www.malwaredomainlist.com/" target="_blank">Malware Domain List</a>
+        </td>
+        <td>
+            A searchable list of malicious domains that also performs reverse lookups and lists registrants, focused on phishing, trojans, and exploit kits.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.malwaredomains.com/" target="_blank">MalwareDomains.com</a>
         </td>
         <td>
