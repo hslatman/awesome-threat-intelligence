@@ -273,7 +273,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="https://isc.sans.edu/suspicious_domains.html" target="_blank">SANS ICS Suspicious Domains</a>
         </td>
         <td>
-            The Suspicious Domains Threat Lists by <a href="https://isc.sans.edu/suspicious_domains.html" target="_blank">SANS ICS</a> tracks suspicious domains. It offers 3 lists categorized as either <a href="https://isc.sans.edu/feeds/suspiciousdomains_High.txt" target="_blank">high</a>, <a href="https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt" target="_blank">medium</a> or <a href="https://isc.sans.edu/feeds/suspiciousdomains_Low.txt" target="_blank">low</a> sensitivity, where the high sensitivity list has fewer false positives, whereas the low sensitivty list with more false positives. There is also an <a href="https://isc.sans.edu/feeds/suspiciousdomains_whitelist_approved.txt" target="_blank">approved whitelist</a> of domains.<br/>
+            The Suspicious Domains Threat Lists by <a href="https://isc.sans.edu/suspicious_domains.html" target="_blank">SANS ICS</a> tracks suspicious domains. It offers 3 lists categorized as either <a href="https://isc.sans.edu/feeds/suspiciousdomains_High.txt" target="_blank">high</a>, <a href="https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt" target="_blank">medium</a> or <a href="https://isc.sans.edu/feeds/suspiciousdomains_Low.txt" target="_blank">low</a> sensitivity, where the high sensitivity list has fewer false positives, whereas the low sensitivity list with more false positives. There is also an <a href="https://isc.sans.edu/feeds/suspiciousdomains_whitelist_approved.txt" target="_blank">approved whitelist</a> of domains.<br/>
             Finally, there is a suggested <a href="https://isc.sans.edu/block.txt" target="_blank">IP blocklist</a> from <a href="https://dshield.org">DShield</a>.
         </td>
     </tr>
@@ -434,7 +434,7 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
             <a href="http://veriscommunity.net/index.html" target="_blank">VERIS</a>
         </td>
         <td>
-            The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. In addition to providing a structuref format, VERIS also collects data from the community to report on breaches in the Verizon Data Breach Investigations Report (<a target="_blank" href="http://www.verizonenterprise.com/verizon-insights-lab/dbir/">DBIR</a>) and publishes this database online at <a target="_blank" href="http://vcdb.org/index.html">VCDB.org</a>.
+            The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. In addition to providing a structured format, VERIS also collects data from the community to report on breaches in the Verizon Data Breach Investigations Report (<a target="_blank" href="http://www.verizonenterprise.com/verizon-insights-lab/dbir/">DBIR</a>) and publishes this database online at <a target="_blank" href="http://vcdb.org/index.html">VCDB.org</a>.
         </td>
     </tr>
 </table>
@@ -687,7 +687,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             <a href="https://exchange.xforce.ibmcloud.com/" target="_blank">XFE - X-Force Exchange</a>
         </td>
         <td>
-            The X-Force Exhange (XFE) by IBM XFE is a free SaaS product that you can use to search for threat intelligence information, collect your findings, and share your insights with other members of the XFE community.
+            The X-Force Exchange (XFE) by IBM XFE is a free SaaS product that you can use to search for threat intelligence information, collect your findings, and share your insights with other members of the XFE community.
         </td>
     </tr>
 </table>
@@ -921,7 +921,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://github.com/paulpc/nyx" target="_blank">nyx</a>
         </td>
         <td>
-            The goal of this project is to facilitate distribution of Threat Intelligence artifacts to defensive systems and to enhance the value derrived from both open source and commercial tools.
+            The goal of this project is to facilitate distribution of Threat Intelligence artifacts to defensive systems and to enhance the value derived from both open source and commercial tools.
         </td>
     </tr>
     <tr>
@@ -945,7 +945,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://github.com/mgeide/poortego" target="_blank">poortego</a>
         </td>
         <td>
-            Open-source ruby project to handle the storage and linking of open-source intelligence (ala Maltego, but free as in beer and not tied to a specific / proprietary datbase).
+            Open-source ruby project to handle the storage and linking of open-source intelligence (ala Maltego, but free as in beer and not tied to a specific / proprietary database).
         </td>
     </tr>
     <tr>
@@ -986,7 +986,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://github.com/ocmdev/rita" target="_blank">RITA</a>
         </td>
         <td>
-            Real Intelligence Threat Analytics (RITA) is inteded to help in the search for indicators of compromise in enterprise networks of varying size.
+            Real Intelligence Threat Analytics (RITA) is intended to help in the search for indicators of compromise in enterprise networks of varying size.
         </td>
     </tr>
     <tr>
@@ -1002,7 +1002,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
         </td>
         <td>
-            Allows you to test your TAXII environment by connecting to the provided services and performing the different functions as writtten in the TAXII specifications.
+            Allows you to test your TAXII environment by connecting to the provided services and performing the different functions as written in the TAXII specifications.
         </td>
     </tr>
     <tr>
@@ -1155,7 +1155,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             <a href="https://cryptome.org/2015/09/cti-guide.pdf" target="_blank">Definitive Guide to Cyber Threat Intelligence</a>
         </td>
         <td>
-            Describes the elements of cyber threat intelligence and discusses how it is collected, analyzed, and used by a variety of human and technology consumers.Fruther examines how intelligence can improve cybersecurity at tactical, operational, and strategic levels, and how it can help you stop attacks sooner, improve your defenses, and talk more productively about cybersecurity issues with executive management in typical <i>for Dummies</i> style.
+            Describes the elements of cyber threat intelligence and discusses how it is collected, analyzed, and used by a variety of human and technology consumers. Further examines how intelligence can improve cybersecurity at tactical, operational, and strategic levels, and how it can help you stop attacks sooner, improve your defenses, and talk more productively about cybersecurity issues with executive management in typical <i>for Dummies</i> style.
         </td>
     </tr>
     <tr>
@@ -1173,7 +1173,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             <a href="https://www.threatconnect.com/wp-content/uploads/ThreatConnect-The-Diamond-Model-of-Intrusion-Analysis.pdf" target="_blank">The Diamond Model of Intrusion Analysis</a>
         </td>
         <td>
-            This paper presents the Diamond Model, a cognitive framework and analytic instrument to support and improve intrusion analysis. Supporint increased measurability, testability and repeatability
+            This paper presents the Diamond Model, a cognitive framework and analytic instrument to support and improve intrusion analysis. Supporing increased measurability, testability and repeatability
             in intrusion analysis in order to attain higher effectivity, efficiency and accuracy in defeating adversaries is one of its main contributions.
         </td>
     </tr>
@@ -1198,7 +1198,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             <a href="docs/Intelligence Preparation for the Battlefield-Battlespace.pdf" target="_blank">Intelligence Preparation of the Battlefield/Battlespace</a>
         </td>
         <td>
-            This publication discusses intelligence preparation of the battlespace (IPB) as a critical component of the military decisionmaking and planning process and how IPB supports decisionmaking, as well as integrating processes and continuing activities.
+            This publication discusses intelligence preparation of the battlespace (IPB) as a critical component of the military decision making and planning process and how IPB supports decision making, as well as integrating processes and continuing activities.
         </td>
     </tr>
     <tr>
@@ -1263,7 +1263,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             <a href="https://www.ncsc.gov.uk/content/files/protected_files/guidance_files/MWR_Threat_Intelligence_whitepaper-2015.pdf" target="_blank">Threat Intelligence: Collecting, Analysing, Evaluating</a>
         </td>
         <td>
-            This report by MWR InfoSecurity clearly describes several diffent types of threat intelligence, including strategic, tactical and operational variations. It also discusses the processes of requirements elicitation, collection, analysis, production and evaluation of threat intelligence. Also included are some quick wins and a maturity model for each of the types of threat intelligence defined by MWR InfoSecurity.
+            This report by MWR InfoSecurity clearly describes several different types of threat intelligence, including strategic, tactical and operational variations. It also discusses the processes of requirements elicitation, collection, analysis, production and evaluation of threat intelligence. Also included are some quick wins and a maturity model for each of the types of threat intelligence defined by MWR InfoSecurity.
         </td>
     </tr>
     <tr>
