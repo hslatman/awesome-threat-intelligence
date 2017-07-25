@@ -246,14 +246,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr> 
     <tr>
         <td>
-            <a href="http://www.openbl.org/lists.html" target="_blank">OpenBL.org</a>
-        </td>
-        <td>
-            A feed of IP addresses found to be attempting brute-force logins on services such as SSH, FTP, IMAP and phpMyAdmin and other web applications.
-        </td>
-    </tr>    
-    <tr>
-        <td>
             <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
         </td>
         <td>
