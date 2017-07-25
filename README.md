@@ -1173,7 +1173,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             <a href="https://www.threatconnect.com/wp-content/uploads/ThreatConnect-The-Diamond-Model-of-Intrusion-Analysis.pdf" target="_blank">The Diamond Model of Intrusion Analysis</a>
         </td>
         <td>
-            This paper presents the Diamond Model, a cognitive framework and analytic instrument to support and improve intrusion analysis. Supporing increased measurability, testability and repeatability
+            This paper presents the Diamond Model, a cognitive framework and analytic instrument to support and improve intrusion analysis. Supporting increased measurability, testability and repeatability
             in intrusion analysis in order to attain higher effectivity, efficiency and accuracy in defeating adversaries is one of its main contributions.
         </td>
     </tr>
