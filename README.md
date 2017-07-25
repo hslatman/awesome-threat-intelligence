@@ -117,14 +117,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://intel.deepviz.com/recap_network.php" target="_blank">Deepviz Threat Intel</a>
-        </td>
-        <td>
-            Deepviz offers a sandbox for analyzing malware and has an API available with threat intelligence harvested from the sandbox.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="http://rules.emergingthreats.net/fwrules/" target="_blank">Emerging Threats Firewall Rules</a>
         </td>
         <td>
