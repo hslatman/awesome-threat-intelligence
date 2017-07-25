@@ -720,7 +720,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://github.com/Animus-Intelligence/omni" target="_blank">Animus Omni CLI</a>
         </td>
         <td>
-            The Animus Omni CLI helps you separate the signal from the noise in your logfiles. Untargeted scans are flooding the internet, which will clog up your log files and make it hard to find legitimate events of interest. The Animus Omni CLI is a utility that leverages the Animus API to reduce noisy entries from your log files.
+            The Animus Omni CLI helps you separate the signal from the noise in your logfiles. Untargeted scans are flooding the internet, which will clog up your log files and make it hard to find legitimate events of interest. This utility leverages the Animus API to reduce noisy entries from your log files.
         </td>
     </tr>
     <tr>
