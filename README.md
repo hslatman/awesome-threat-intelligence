@@ -1109,6 +1109,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             Your Everyday Threat Intelligence (YETI).
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/0x4d31/sqhunter" target="_blank">sqhunter</a>
+        </td>
+        <td>
+            Threat hunter based on osquery, Salt Open and Cymon API. It can query open network sockets and check them against threat intelligence sources
+        </td>
+    </tr>
 </table>
 
 
