@@ -311,7 +311,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="http://www.talosintelligence.com/aspis/" target="_blank">Talos Aspis</a>
+            <a href="https://www.talosintelligence.com/aspis/" target="_blank">Talos Aspis</a>
         </td>
         <td>
             Project Aspis is a closed collaboration between Talos and hosting providers to identify and deter major threat actors. Talos shares its expertise, resources, and capabilities including network and system forensics, reverse engineering, and threat intelligence at no cost to the provider.
@@ -502,7 +502,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://technet.microsoft.com/en-us/security/dn750892" target="_blank">Interflow</a>
+            <a href="https://technet.microsoft.com/en-us/security/dn458536" target="_blank">Interflow</a>
         </td>
         <td>
             Interflow is a security and threat information exchange platform created by Microsoft for professionals working in cybersecurity.
@@ -594,7 +594,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://www.passivetotal.org/" target="_blank">PassiveTotal</a>
+            <a href="https://community.riskiq.com/" target="_blank">PassiveTotal</a>
         </td>
         <td>
             The PassiveTotal platform offered by RiskIQ is a threat-analysis platform which provides analysts with as much data as possible in order to prevent attacks before they happen. Several types of solutions are offered, as well as integrations (APIs) with other systems.
@@ -627,7 +627,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://www.anomali.com/product/staxx" target="_blank">STAXX (Anomali)</a>
+            <a href="https://www.anomali.com/platform/staxx" target="_blank">STAXX (Anomali)</a>
         </td>
         <td>
             Anomali STAXX™ gives you a free, easy way to subscribe to any STIX/TAXII feed. Simply download the STAXX client, configure your data sources, and STAXX will handle the rest.
@@ -1095,7 +1095,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/tomchop/yeti" target="_blank">yeti</a>
+            <a href="https://github.com/yeti-platform/yeti" target="_blank">yeti</a>
         </td>
         <td>
             Your Everyday Threat Intelligence (YETI).
