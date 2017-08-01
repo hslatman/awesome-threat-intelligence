@@ -117,6 +117,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/martenson/disposable-email-domains">Disposable Email Domains</a>
+        </td>
+        <td>
+            A collection of anonymous or disposable email domains commonly used to spam/abuse services.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://rules.emergingthreats.net/fwrules/" target="_blank">Emerging Threats Firewall Rules</a>
         </td>
         <td>
