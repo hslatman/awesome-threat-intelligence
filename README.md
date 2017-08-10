@@ -676,6 +676,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://yeti-platform.github.io/" target="_blank">Yeti</a>
+        </td>
+        <td>
+            The open, distributed, machine and analyst-friendly threat intelligence repository. Made by and for incident responders.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://exchange.xforce.ibmcloud.com/" target="_blank">XFE - X-Force Exchange</a>
         </td>
         <td>
