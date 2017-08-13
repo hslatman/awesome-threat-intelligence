@@ -1119,14 +1119,6 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/yeti-platform/yeti" target="_blank">yeti</a>
-        </td>
-        <td>
-            Your Everyday Threat Intelligence (YETI).
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/0x4d31/sqhunter" target="_blank">sqhunter</a>
         </td>
         <td>
