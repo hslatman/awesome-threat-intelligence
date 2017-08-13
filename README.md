@@ -117,6 +117,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/martenson/disposable-email-domains">Disposable Email Domains</a>
+        </td>
+        <td>
+            A collection of anonymous or disposable email domains commonly used to spam/abuse services.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://rules.emergingthreats.net/fwrules/" target="_blank">Emerging Threats Firewall Rules</a>
         </td>
         <td>
@@ -682,6 +690,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             The X-Force Exchange (XFE) by IBM XFE is a free SaaS product that you can use to search for threat intelligence information, collect your findings, and share your insights with other members of the XFE community.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://yeti-platform.github.io/" target="_blank">Yeti</a>
+        </td>
+        <td>
+            The open, distributed, machine and analyst-friendly threat intelligence repository. Made by and for incident responders.
+        </td>
+    </tr>
 </table>
 
 
@@ -802,6 +818,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             GoatRider is a simple tool that will dynamically pull down Artillery Threat Intelligence Feeds, TOR, AlienVaults OTX, and the Alexa top 1 million websites and do a comparison to a hostname file or IP file.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/ciscocsirt/gosint" target="_blank">GOSINT</a>
+        </td>
+        <td>
+            The GOSINT framework is a free project used for collecting, processing, and exporting high quality public indicators of compromise (IOCs).
         </td>
     </tr>
     <tr>
