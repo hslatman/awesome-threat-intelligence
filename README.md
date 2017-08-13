@@ -171,14 +171,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             FraudGuard is a service designed to provide an easy way to validate usage by continuously collecting and analyzing real-time internet traffic.
         </td>
     </tr>
-        <tr>
-        <td>
-            <a href="https://github.com/ciscocsirt/gosint" target="_blank">GOSINT</a>
-        </td>
-        <td>
-            The GOSINT framework is a free project used for collecting, processing, and exporting high quality public indicators of compromise (IOCs).
-        </td>
-    </tr>
     <tr>
         <td>
             <a href="http://hailataxii.com/" target="_blank">Hail a TAXII</a>
@@ -818,6 +810,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             GoatRider is a simple tool that will dynamically pull down Artillery Threat Intelligence Feeds, TOR, AlienVaults OTX, and the Alexa top 1 million websites and do a comparison to a hostname file or IP file.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/ciscocsirt/gosint" target="_blank">GOSINT</a>
+        </td>
+        <td>
+            The GOSINT framework is a free project used for collecting, processing, and exporting high quality public indicators of compromise (IOCs).
         </td>
     </tr>
     <tr>
