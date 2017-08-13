@@ -682,6 +682,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             The X-Force Exchange (XFE) by IBM XFE is a free SaaS product that you can use to search for threat intelligence information, collect your findings, and share your insights with other members of the XFE community.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://yeti-platform.github.io/" target="_blank">Yeti</a>
+        </td>
+        <td>
+            The open, distributed, machine and analyst-friendly threat intelligence repository. Made by and for incident responders.
+        </td>
+    </tr>
 </table>
 
 
@@ -1091,14 +1099,6 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             YETI is a proof-of-concept implementation of TAXII that supports the Inbox, Poll and Discovery services defined by the TAXII Services Specification.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/tomchop/yeti" target="_blank">yeti</a>
-        </td>
-        <td>
-            Your Everyday Threat Intelligence (YETI).
         </td>
     </tr>
     <tr>
