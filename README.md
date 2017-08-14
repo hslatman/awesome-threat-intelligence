@@ -418,7 +418,7 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
             <a href="https://oasis-open.github.io/cti-documentation/" target="_blank">STIX 2.0</a>
         </td>
         <td>
-            The Structured Threat Information eXpression (STIX) language is a standardized construct to represent cyber threat information. The STIX Language intends to convey the full range of potential cyber threat information and strives to be fully expressive, flexible, extensible, and automatable. STIX does not only allow tool-agnostic fields, but also provides so-called <i>test mechanisms</i> that provide means for embedding tool-specific elements, including OpenIOC, Yara and Snort. STIX 1.x has been archived [here](https://stixproject.github.io/).
+            The Structured Threat Information eXpression (STIX) language is a standardized construct to represent cyber threat information. The STIX Language intends to convey the full range of potential cyber threat information and strives to be fully expressive, flexible, extensible, and automatable. STIX does not only allow tool-agnostic fields, but also provides so-called <i>test mechanisms</i> that provide means for embedding tool-specific elements, including OpenIOC, Yara and Snort. STIX 1.x has been archived <a href="https://stixproject.github.io/" target="_blank">here</a>.
         </td>
     </tr>
     <tr>
