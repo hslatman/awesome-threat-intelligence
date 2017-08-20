@@ -238,15 +238,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://www.metadefender.com/threat-intelligence-feeds" target="_blank">Minotaur</a>
-        </td>
-        <td>
-        The Minotaur Project is an ongoing research project by the team at <a href="https://novcon.net/" target="_blank">NovCon Solutions</a>. It is being built as a hub for security professionals, researchers and enthusiasts to discover new threats and discuss mitigations. It is a combination of 3rd-party opensource software, local datasets, new analysis tools, and more.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://minotr.net" target="_blank">Metadefender.com</a>
+            <a href="https://www.metadefender.com/threat-intelligence-feeds" target="_blank">Metadefender.com</a>
         </td>
         <td>
             Metadefender Cloud Threat Intelligence Feeds contains top new malware hash signatures, including MD5, SHA1, and SHA256. These new malicious hashes have been spotted by Metadefender Cloud within the last 24 hours. The feeds are updated daily with newly detected and reported malware to provide actionable and timely threat intelligence.
