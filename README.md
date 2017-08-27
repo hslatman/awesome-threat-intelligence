@@ -189,6 +189,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://riskdiscovery.com/honeydb/" target="_blank">HoneyDB</a>
+        </td> 
+        <td>
+            HoneyDB provides real time data of honeypot activity. This data comes from honeypots deployed on the Internet using the <a href="https://github.com/foospidy/HoneyPy" target="_blank">HoneyPy</a> honeypot. In addition, HoneyDB provides API access to collected honeypot activity, which also includes aggregated data from various honeypot Twitter feeds.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
         </td>
         <td>
@@ -235,7 +243,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             Metadefender Cloud Threat Intelligence Feeds contains top new malware hash signatures, including MD5, SHA1, and SHA256. These new malicious hashes have been spotted by Metadefender Cloud within the last 24 hours. The feeds are updated daily with newly detected and reported malware to provide actionable and timely threat intelligence.
         </td>
-    </tr>   
+    </tr>
     <tr>
         <td>
             <a href="https://services.normshield.com" target="_blank">NormShield Services</a>
