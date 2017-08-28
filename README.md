@@ -249,7 +249,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="https://minotr.net/" target="_blank">Minotaur</a>
         </td>
         <td>
-        The Minotaur Project is an ongoing research project by the team at <a href="https://novcon.net" target="_blank">NovCon Solutions</a>. It is being built as a hub for security professionals, researchers and enthusiasts to discover new threats and discuss mitigations. It is a combination of 3rd-party opensource software, local datasets, new analysis tools, and more.
+        The Minotaur Project is an ongoing research project by the team at NovCon Solutions (novcon.net). It is being built as a hub for security professionals, researchers and enthusiasts to discover new threats and discuss mitigations. It is a combination of 3rd-party opensource software, local datasets, new analysis tools, and more.
         </td>
     </tr>
     <tr>
