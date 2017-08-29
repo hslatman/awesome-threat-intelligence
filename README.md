@@ -278,10 +278,10 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="http://ransomwaretracker.abuse.ch/" target="_blank">Ransomware Tracker</a>
+            <a href="https://ransomwaretracker.abuse.ch/" target="_blank">Ransomware Tracker</a>
         </td>
         <td>
-            The Ransomware Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks and monitors the status of domain names, IP addresses and URLs that are associated with Ransomware, such as Botnet C&mp;C servers, distribution sites and payment sites.
+            The Ransomware Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks and monitors the status of domain names, IP addresses and URLs that are associated with Ransomware, such as Botnet C&amp;C servers, distribution sites and payment sites.
         </td>
     </tr>
     <tr>
