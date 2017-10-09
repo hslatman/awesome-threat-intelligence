@@ -806,6 +806,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/CylanceSPEAR/CyBot" target="_blank">CyBot</a>
+        </td>
+        <td>
+            CyBot is a threat intelligence chat bot. It can perform several types of lookups offered by custom modules.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/cuckoosandbox/cuckoo" target="_blank">Cuckoo Sandbox</a>
         </td>
         <td>
