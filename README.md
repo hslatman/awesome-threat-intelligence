@@ -545,6 +545,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/stratosphereips/Manati" target="_blank">ManaTI</a>
+        </td>
+        <td>
+            The ManaTI project assists threat analyst by employing machine learning techniques that find new relationships and inferences automatically.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://django-mantis.readthedocs.io/en/latest/" target="_blank">MANTIS</a>
         </td>
         <td>
