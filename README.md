@@ -545,6 +545,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/stratosphereips/Manati" target="_blank">ManaTI</a>
+        </td>
+        <td>
+            The ManaTI project assists threat analyst by employing machine learning techniques that find new relationships and inferences automatically.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://django-mantis.readthedocs.io/en/latest/" target="_blank">MANTIS</a>
         </td>
         <td>
@@ -704,6 +712,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             The X-Force Exchange (XFE) by IBM XFE is a free SaaS product that you can use to search for threat intelligence information, collect your findings, and share your insights with other members of the XFE community.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://yara.adlice.com/" target="_blank">Yara Share</a>
+        </td>
+        <td>
+            Yara Share is an online Yara rule editor and sharing platform.
         </td>
     </tr>
     <tr>
