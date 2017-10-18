@@ -708,6 +708,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://yara.adlice.com/" target="_blank">Yara Share</a>
+        </td>
+        <td>
+            Yara Share is an online Yara rule editor and sharing platform.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://yeti-platform.github.io/" target="_blank">Yeti</a>
         </td>
         <td>
