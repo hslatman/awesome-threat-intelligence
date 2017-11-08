@@ -741,14 +741,6 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/Animus-Intelligence/omni" target="_blank">Animus Omni CLI</a>
-        </td>
-        <td>
-            The Animus Omni CLI helps you separate the signal from the noise in your logfiles. Untargeted scans are flooding the internet, which will clog up your log files and make it hard to find legitimate events of interest. This utility leverages the Animus API to reduce noisy entries from your log files.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/1aN0rmus/TekDefense-Automater" target="_blank">Automater</a>
         </td>
         <td>
