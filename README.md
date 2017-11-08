@@ -118,7 +118,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     <tr>
         <td>
             <a href="http://www.ccssforum.org/malware-certificates.php" target="_blank">CCSS Forum Malware Certificates</a>
-        <td>
+        </td>
         <td>
             The following is a list of digital certificates that have been reported by the forum as possibly being associated with malware to various certificate authorities. This information is intended to help prevent companies from using digital certificates to add legitimacy to malware and encourage prompt revocation of such certificates.
         </td>
