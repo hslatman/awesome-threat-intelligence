@@ -578,7 +578,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="http://www.openioc.org/" target="_blank">OpenIOC</a>
+            <a href="https://www.fireeye.com/services/freeware.html" target="_blank">OpenIOC</a>
         </td>
         <td>
             OpenIOC is an open framework for sharing threat intelligence. It is designed to exchange threat information both internally and externally in a machine-digestible format.
