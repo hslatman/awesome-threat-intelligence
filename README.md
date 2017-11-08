@@ -77,6 +77,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://www.ccssforum.org/malware-certificates.php" target="_blank">CCSS Forum Malware Certificates</a>
+        </td>
+        <td>
+            The following is a list of digital certificates that have been reported by the forum as possibly being associated with malware to various certificate authorities. This information is intended to help prevent companies from using digital certificates to add legitimacy to malware and encourage prompt revocation of such certificates.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://cinsscore.com/list/ci-badguys.txt" target="_blank">CI Army List</a>
         </td>
         <td>
@@ -113,14 +121,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             Cymon is an aggregator of indicators from multiple sources with history, so you have a single interface to multiple threat feeds. It also provides an API to search a database along with a pretty web interface.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://www.ccssforum.org/malware-certificates.php" target="_blank">CCSS Forum Malware Certificates</a>
-        </td>
-        <td>
-            The following is a list of digital certificates that have been reported by the forum as possibly being associated with malware to various certificate authorities. This information is intended to help prevent companies from using digital certificates to add legitimacy to malware and encourage prompt revocation of such certificates.
         </td>
     </tr>
     <tr>
