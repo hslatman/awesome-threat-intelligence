@@ -77,7 +77,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-
             <a href="https://certstream.calidog.io/" target="_blank">CertStream</a>
         </td>
         <td>
