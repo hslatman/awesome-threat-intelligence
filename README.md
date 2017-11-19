@@ -77,6 +77,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://www.ccssforum.org/malware-certificates.php" target="_blank">CCSS Forum Malware Certificates</a>
+        </td>
+        <td>
+            The following is a list of digital certificates that have been reported by the forum as possibly being associated with malware to various certificate authorities. This information is intended to help prevent companies from using digital certificates to add legitimacy to malware and encourage prompt revocation of such certificates.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://cinsscore.com/list/ci-badguys.txt" target="_blank">CI Army List</a>
         </td>
         <td>
@@ -586,7 +594,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="http://www.openioc.org/" target="_blank">OpenIOC</a>
+            <a href="https://www.fireeye.com/services/freeware.html" target="_blank">OpenIOC</a>
         </td>
         <td>
             OpenIOC is an open framework for sharing threat intelligence. It is designed to exchange threat information both internally and externally in a machine-digestible format.
@@ -753,14 +761,6 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others. Source available on <a href="https://bitbucket.org/camp0/aiengine" target="_blank">Bitbucket</a>.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/Animus-Intelligence/omni" target="_blank">Animus Omni CLI</a>
-        </td>
-        <td>
-            The Animus Omni CLI helps you separate the signal from the noise in your logfiles. Untargeted scans are flooding the internet, which will clog up your log files and make it hard to find legitimate events of interest. This utility leverages the Animus API to reduce noisy entries from your log files.
         </td>
     </tr>
     <tr>
