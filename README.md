@@ -870,6 +870,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://hashdd.com/" target="_blank">hashdd</a>
+        </td>
+        <td>
+            A tool to lookup related information from crytographic hash value
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/exp0se/harbinger" target="_blank">Harbinger Threat Intelligence</a>
         </td>
         <td>
@@ -1332,7 +1340,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="http://aisel.aisnet.org/wi2017/track08/paper/3/" target="_blank">Threat Intelligence Sharing Platforms: An Exploratory Study of Software Vendors and Research Perspectives</a>
+            <a href="https://aisel.aisnet.org/wi2017/track08/paper/3/" target="_blank">Threat Intelligence Sharing Platforms: An Exploratory Study of Software Vendors and Research Perspectives</a>
         </td>
         <td>
             A systematic study of 22 Threat Intelligence Sharing Platforms (TISP) surfacing eight key findings about the current state of threat intelligence usage, its definition and TISPs.
