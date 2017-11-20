@@ -384,6 +384,12 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://raw.githubusercontent.com/WSTNPHX/scripts-n-tools/master/malware-email-addresses.txt">WSTNPHX Malware Email Addresses</a>
+        </td>
+        <td>Email addresses used by malware collected by VVestron Phoronix (WSTNPHX)</td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://virusshare.com/" target="_blank">VirusShare</a>
         </td>
         <td>
