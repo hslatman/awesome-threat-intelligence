@@ -278,6 +278,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://data.netlab.360.com/">Netlab OpenData Project</a>
+        </td>
+        <td>
+            The Netlab OpenData project was presented to the public first at ISC' 2016 on August 16, 2016. We currently provide multiple data feeds, including DGA, EK, MalCon, Mirai C2, Mirai-Scanner, Hajime-Scanner and DRDoS Reflector.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://services.normshield.com" target="_blank">NormShield Services</a>
         </td>
         <td>
