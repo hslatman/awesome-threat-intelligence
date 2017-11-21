@@ -237,6 +237,10 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
     </tr>
     <tr>
+        <td><a href="http://malc0de.com/bl/">Malc0de DNS Sinkhole</a></td>
+        <td>The files in this link will be updated daily with domains that have been indentified distributing malware during the past 30 days. Collected by malc0de.</td>
+    </tr>
+    <tr>
         <td>
             <a href="http://www.malshare.com/" target="_blank">MalShare.com</a>
         </td>
