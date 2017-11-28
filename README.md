@@ -61,6 +61,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://www.botvrij.eu/">BOTVRIJ.EU</a>
+        </td>
+        <td>
+            Botvrij.eu provides different sets of open source IOCs that you can use in your security devices to detect possible malicious activity.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://danger.rulez.sk/projects/bruteforceblocker/" target="_blank">BruteForceBlocker</a>
         </td>
         <td>
