@@ -539,6 +539,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://abuse.io/" target="_blank">AbuseIO</a>
+        </td>
+        <td>
+            A toolkit to receive, process, correlate and notify end users about abuse reports, thereby consuming threat intelligence feeds.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.dhs.gov/ais" target="_blank">AIS</a>
         </td>
         <td>
