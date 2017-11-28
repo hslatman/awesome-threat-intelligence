@@ -61,6 +61,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="http://www.botvrij.eu/">BOTVRIJ.EU</a>
+        </td>
+        <td>
+            Botvrij.eu provides different sets of open source IOCs that you can use in your security devices to detect possible malicious activity.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://danger.rulez.sk/projects/bruteforceblocker/" target="_blank">BruteForceBlocker</a>
         </td>
         <td>
@@ -221,6 +229,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/SupportIntelligence/Icewater" target="_blank">Icewater</a>
+        </td>
+        <td>
+            12,805 Free Yara rules created by <a href="http://icewater.io/" target="_blank">http://icewater.io</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
         </td>
         <td>
@@ -235,6 +251,10 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             Probable Whitelist of the top 1 million web sites, as ranked by Majestic. Sites are ordered by the number of referring subnets. More about the ranking can be found on their <a href="https://blog.majestic.com/development/majestic-million-csv-daily/" target="_blank">blog</a>.
         </td>
+    </tr>
+    <tr>
+        <td><a href="http://malc0de.com/bl/">Malc0de DNS Sinkhole</a></td>
+        <td>The files in this link will be updated daily with domains that have been indentified distributing malware during the past 30 days. Collected by malc0de.</td>
     </tr>
     <tr>
         <td>
@@ -274,6 +294,13 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
         The Minotaur Project is an ongoing research project by the team at NovCon Solutions (novcon.net). It is being built as a hub for security professionals, researchers and enthusiasts to discover new threats and discuss mitigations. It is a combination of 3rd-party opensource software, local datasets, new analysis tools, and more.
+        </td>
+    </tr>
+    <tr>
+        <td><a href="http://data.netlab.360.com/">Netlab OpenData Project</a>
+      </td>
+      <td>
+            The Netlab OpenData project was presented to the public first at ISC' 2016 on August 16, 2016. We currently provide multiple data feeds, including DGA, EK, MalCon, Mirai C2, Mirai-Scanner, Hajime-Scanner and DRDoS Reflector.
         </td>
     </tr>
     <tr>
