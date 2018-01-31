@@ -149,6 +149,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://dnstrails.com/">DNSTrails</a>
+        </td>
+        <td>
+            Free intelligence source for current and historical DNS information, WHOIS information, finding other websites associated with certain IPs, subdomain knowledge and technologies. There is a <a href="https://securitytrails.com/">IP and domain intelligence API available</a> as well. 
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://rules.emergingthreats.net/fwrules/" target="_blank">Emerging Threats Firewall Rules</a>
         </td>
         <td>
