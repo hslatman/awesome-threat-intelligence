@@ -777,6 +777,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://www.threatconnect.com/" target="_blank">ThreatConnect</a>
+        </td>
+        <td>
+            ThreatConnect is a platform with threat intelligence, analytics, and orchestration capabilities. It is designed to help you collect data, produce intelligence, share it with others, and take action on it.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.threatcrowd.org/" target="_blank">ThreatCrowd</a>
         </td>
         <td>
