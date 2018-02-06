@@ -422,6 +422,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://threatconnect.com/blog/ingest-technical-blogs-reports/" target="_blank">Technical Blogs and Reports, by ThreatConnect</a>
+        </td>
+        <td>
+            This source is being populated with the content from over 90 open source, security blogs. IOCs (<a href="https://en.wikipedia.org/wiki/Indicator_of_compromise" target="_blank">Indicators of Compromise</a>) are parsed out of each blog and the content of the blog is formatted in markdown.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.threatglass.com/" target="_blank">Threatglass</a>
         </td>
         <td>
