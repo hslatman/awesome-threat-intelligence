@@ -947,6 +947,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/spacepatcher/FireHOL-IP-Aggregator" target="_blank">FireHOL IP Aggregator</a>
+        </td>
+        <td>
+            Аpplication for keeping feeds from FireHOL <a href="https://github.com/firehol/blocklist-ipsets" target="_blank">blocklist-ipsets</a> (only *.netset and *.ipset files are aggregated) in PostgreSQL with including historical changes. For requests developed HTTP-based API service.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/byt3smith/Forager" target="_blank">Forager</a>
         </td>
         <td>
