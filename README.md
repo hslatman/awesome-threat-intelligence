@@ -7,7 +7,7 @@ Feel free to [contribute](CONTRIBUTING.md).
 
 - [Sources](#sources)
 - [Formats](#formats)
-- [Frameworks](#frameworks-and-platforms)
+- [Frameworks & Platforms](#frameworks-and-platforms)
 - [Tools](#tools)
 - [Research, Standards & Books](#research)
 
@@ -731,6 +731,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             The PassiveTotal platform offered by RiskIQ is a threat-analysis platform which provides analysts with as much data as possible in order to prevent attacks before they happen. Several types of solutions are offered, as well as integrations (APIs) with other systems.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://pulsedive.com/" target="_blank">Pulsedive</a>
+        </td>
+        <td>
+            Pulsedive is a free, community threat intelligence platform that is consuming open-source feeds, enriching the IOCs, and running them through a risk-scoring algorithm to improve the quality of the data. It allows users to submit, search, correlate, and update IOCs; lists "risk factors" for why IOCs are higher risk; and provides a high level view of threats and threat activity.
         </td>
     </tr>
     <tr>
