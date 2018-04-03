@@ -1150,7 +1150,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://github.com/mgeide/poortego" target="_blank">poortego</a>
         </td>
         <td>
-            Open-source ruby project to handle the storage and linking of open-source intelligence (ala Maltego, but free as in beer and not tied to a specific / proprietary database).
+            Open-source project to handle the storage and linking of open-source intelligence (ala Maltego, but free as in beer and not tied to a specific / proprietary database). Originally developed in ruby, but new codebase completely rewritten in python.
         </td>
     </tr>
     <tr>
