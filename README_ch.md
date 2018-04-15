@@ -28,6 +28,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://apility.io" target="_blank">Apility.io</a>
+        </td>
+        <td>
+            Apility.io 是一个简单的反滥用 API 的黑名单，它可以从多个来源帮助用户查询 IP、域名、电子邮件是否被列入黑名单
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml" target="_blank">APT Groups and Operations</a>
         </td>
         <td>
@@ -60,6 +68,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="http://www.botvrij.eu/">BOTVRIJ.EU</a>
+        </td>
+        <td>
+            Botvrij.eu 提供了不同种类的开源 IOC，可以在安全设备中使用来检测潜在的恶意活动
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://danger.rulez.sk/projects/bruteforceblocker/" target="_blank">BruteForceBlocker</a>
         </td>
         <td>
@@ -72,6 +88,22 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             Bambenek Consulting 提供的活动 C&C 服务器的 IP 地址跟踪
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://certstream.calidog.io/" target="_blank">CertStream</a>
+        </td>
+        <td>
+            实时证书透明度日志更新流，可以实时查询可能存在问题的证书
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.ccssforum.org/malware-certificates.php" target="_blank">CCSS Forum Malware Certificates</a>
+        </td>
+        <td>
+            论坛报告的数字证书列表，列出那些潜在与恶意软件相关的各种证书颁发机构，此信息旨在防止公司根据数字证书判断恶意软件合法，并鼓励其撤销对此类证书的信任
         </td>
     </tr>
     <tr>
@@ -116,10 +148,18 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://intel.deepviz.com/recap_network.php" target="_blank">Deepviz Threat Intel</a>
+            <a href="https://github.com/martenson/disposable-email-domains">Disposable Email Domains</a>
         </td>
         <td>
-            Deepviz 提供一个用于恶意软件分析的沙盒，并且提供从沙盒中提取威胁情报的 API
+            常用于垃圾邮件/滥用服务的匿名或一次性电子邮件域名的集合
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://dnstrails.com/">DNSTrails</a>
+        </td>
+        <td>
+            提供当前和历史 DNS 信息、WHOIS 信息，子域名信息，还提供了一个<a href="https://securitytrails.com/"> IP 与域名情报的 API</a>
         </td>
     </tr>
     <tr>
@@ -180,10 +220,34 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="http://greynoise.io/" target="_blank">Grey Noise</a>
+        </td>
+        <td>
+            Grey Noise 是一个收集、分析互联网范围内扫描器的系统，收集良性扫描器（如 Shodan.io）以及恶意扫描（如 SSH 和远程登录蠕虫）的数据
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://hailataxii.com/" target="_blank">Hail a TAXII</a>
         </td>
         <td>
             Hail a TAXII.com 是一个 STIX 格式的开源网络威胁情报库，包括多种不同的格式，例如 Emerging Threats rules 与 PhishTank
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://riskdiscovery.com/honeydb/" target="_blank">HoneyDB</a>
+        </td> 
+        <td>
+            HoneyDB 提供蜜罐活动的实时数据，这些数据来自在互联网中部署的 <a href="https://github.com/foospidy/HoneyPy" target="_blank">HoneyPy</a> 蜜罐。此外，HoneyDB 还提供对所收集的蜜罐活动的 API 访问，其中还包括各种来自蜜罐相关的 Twitter 推送的聚合
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/SupportIntelligence/Icewater" target="_blank">Icewater</a>
+        </td>
+        <td>
+            由 <a href="http://icewater.io/" target="_blank">http://icewater.io</a> 提供的 12805 条免费的 Yara 规则
         </td>
     </tr>
     <tr>
@@ -196,12 +260,34 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://majestic.com/reports/majestic-million" target="_blank">Majestic Million</a>
+        </td>
+        <td>
+            由 Majestic 为前一百万的网站中排出可能的白名单，按照引用子网的数量排序。更多关于排名的信息可以在 <a href="https://blog.majestic.com/development/majestic-million-csv-daily/" target="_blank">博客</a>中找到
+        </td>
+    </tr>
+    <tr>
+        <td><a href="http://malc0de.com/bl/">Malc0de DNS Sinkhole</a></td>
+        <td>
+            由 Malc0de 每天更新的文件，包含过去三十天内已经识别出分发恶意软件的域名
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.malshare.com/" target="_blank">MalShare.com</a>
         </td>
         <td>
             MalShare 项目为研究人员提供一个公开的样本库
         </td>
-    </tr>    
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.malwaredomainlist.com/" target="_blank">Malware Domain List</a>
+        </td>
+        <td>
+            可搜索的恶意网站列表，反向查询出注册人信息，重点关注网络钓鱼、木马和漏洞利用工具包
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="http://www.malwaredomains.com/" target="_blank">MalwareDomains.com</a>
@@ -220,12 +306,35 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://www.openbl.org/lists.html" target="_blank">OpenBL.org</a>
+            <a href="https://minotr.net/" target="_blank">Minotaur</a>
         </td>
         <td>
-            一个关于暴力破解的 IP 地址的列表，包括 SSH、FTP、IMAP 、phpMyAdmin 以及其他 Web 应用 
+            Minotaur 是 NovCon Solutions (novcon.net) 团队进行的研究项目。它为安全专家、研究人员和爱好者提供对新威胁和缓解措施的讨论。它包括第三方开源软件、本地数据集和新分析工具等
         </td>
-    </tr>    
+    </tr>
+    <tr>
+        <td><a href="http://data.netlab.360.com/">Netlab OpenData Project</a>
+      </td>
+      <td>
+            Netlab OpenData 于 2016.8.16 在 ISC 2016 上首次发布，提供多种数据源，包括 DGA、EK、MalCon、Mirai C2、Mirai-Scanner、Hajime-Scanner 和 DRDoS 反射器
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="http://www.nothink.org/honeypots.php">NoThink!</a>
+        </td>
+        <td>
+            来自 Matteo Cantoni 蜜罐提供的 SNMP、SSH、Telnet 黑名单 IP
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://services.normshield.com" target="_blank">NormShield Services</a>
+        </td>
+        <td>
+            NormShield Services 提供了数千个潜在网络钓鱼攻击的域名信息（包括 whois 信息），免费注册公共服务以进行持续监控
+        </td>
+    </tr> 
     <tr>
         <td>
             <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
@@ -248,6 +357,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             Ransomware Tracker 由 <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> 提供对与 Ransomware 有关的域名、IP、URL 状态进行跟踪与监视
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://report.cs.rutgers.edu/mrtg/drop/dropstat.cgi?start=-86400">Rutgers Blacklisted IPs</a>
+        </td>
+        <td>
+            合并本地观测到的 IP 地址与 badip.com 和 blocklist.de 最新两小时的数据创建的暴力破解 SSH 的 IP 地址列表
         </td>
     </tr>
     <tr>
@@ -309,6 +426,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://threatconnect.com/blog/ingest-technical-blogs-reports/" target="_blank">Technical Blogs and Reports, by ThreatConnect</a>
+        </td>
+        <td>
+            在九十多个开源博客中提取 IOCs (<a href="https://en.wikipedia.org/wiki/Indicator_of_compromise" target="_blank">Indicators of Compromise</a>)，博客内容使用 markdown 排版
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.threatglass.com/" target="_blank">Threatglass</a>
         </td>
         <td>
@@ -321,6 +446,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             ThreatMiner 为分析师从数据收集到执行分析提供了一个门户，ThreatMiner 关注的重点不仅仅是关于 IOC，还为分析人员提供有关 IOC 的上下文信息
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/WSTNPHX/scripts-n-tools/master/malware-email-addresses.txt">WSTNPHX Malware Email Addresses</a>
+        </td>
+        <td>
+            由 VVestron Phoronix (WSTNPHX)收集的恶意软件使用的电子邮件地址
         </td>
     </tr>
     <tr>
@@ -396,7 +529,15 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://stixproject.github.io/" target="_blank">STIX</a>
+            <a href="https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=openc2" target="_blank">OpenC2</a>
+        </td>
+        <td>
+            OASIS Open Command and Control (OpenC2) Technical Committee. 在创建技术委员会和规范之前，OpenC2 论坛是由国家安全局（NSA）推动的一个网络安全利益相关者社区。OpenC2 技术委员会负责起草文件、规范、词典或其他内容，以标准化的方式满足网络安全指挥和控制的需求
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://oasis-open.github.io/cti-documentation/" target="_blank">STIX 2.0</a>
         </td>
         <td>
             Structured Threat Information eXpression (STIX) 定义了一组网络威胁信息的标准， STIX 旨在完整传达全部潜在地网络威胁信息，力求灵活、可扩展以及自动化。STIX 不仅与工具无关，还提供了所谓的 <i>测试机制</i>，为嵌入特定工具元素提供手段，包括 OpenIOC, Yara and Snort
@@ -431,6 +572,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             AbuseHelper 是一个用来接收与重分配威胁情报订阅的开源框架
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://abuse.io/" target="_blank">AbuseIO</a>
+        </td>
+        <td>
+            用于接收、处理、关联、通知用户有关滥用的信息
         </td>
     </tr>
     <tr>
@@ -503,6 +652,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             Malstrom 的目的是来跟踪与取证的神器，还包括 YARA 的规则库与一些调查的笔记
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/stratosphereips/Manati" target="_blank">ManaTI</a>
+        </td>
+        <td>
+            ManaTI 期望通过使用机器学习技术帮助威胁分析人员自动寻找新的关系与推论
         </td>
     </tr>
     <tr>
@@ -587,6 +744,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://pulsedive.com/" target="_blank">Pulsedive</a>
+        </td>
+        <td>
+            Pulsedive 是一个免费的社区威胁情报平台，聚合开源资源，丰富 IOC，并通过风险评分算法过滤 IOC 以提高数据质量。它允许用户提交、搜索、关联与更新 IOC，列出 IOC 的“风险因素”，并提供威胁和威胁活动的高级视图
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.recordedfuture.com/" target="_blank">Recorded Future</a>
         </td>
         <td>
@@ -635,6 +800,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://www.threatconnect.com/" target="_blank">ThreatConnect</a>
+        </td>
+        <td>
+            ThreatConnect 是一个分析、编排威胁情报的平台。它旨在帮助收集数据、产生情报、与他人分享数据并采取行动
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.threatcrowd.org/" target="_blank">ThreatCrowd</a>
         </td>
         <td>
@@ -663,6 +836,22 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             IBM XFE 开发的 X-Force Exhange (XFE) 是一款免费的 SaaS 产品，可用于搜索威胁情报信息，收集你的数据并与 XFE 社区的其他成员分享你的看法
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://yara.adlice.com/" target="_blank">Yara Share</a>
+        </td>
+        <td>
+            Yara Share 是一个在线 Yara 规则编辑器与共享平台
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://yeti-platform.github.io/" target="_blank">Yeti</a>
+        </td>
+        <td>
+            开放、分布式、机器与分析友好的威胁情报存储库，由应急响应人员制作
         </td>
     </tr>
 </table>
@@ -700,10 +889,10 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc" target="_blank">Google APT Search Engine</a>
+            <a href="https://botscout.com/">BotScout</a>
         </td>
         <td>
-            APT 组织与恶意软件搜索引擎，用于此 Google 自定义搜索的来源列表在 <a href="https://gist.github.com/Neo23x0/c4f40629342769ad0a8f3980942e21d3" target="_blank"this</a> GitHub 中
+            BotScout 有助于防止论坛注册自动化 Web 脚本、污染数据库、传播垃圾邮件、滥用网站上的表单
         </td>
     </tr>
     <tr>
@@ -746,6 +935,14 @@ Feel free to [contribute](CONTRIBUTING.md).
             CrowdFMS 是一个利用私有 API 来自动收集与处理来自 VirusTotal 的样本的框架，该框架会自动下载最近的样本，从而触发 YARA 提醒订阅的警报
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/CylanceSPEAR/CyBot" target="_blank">CyBot</a>
+        </td>
+        <td>
+            CyBot 是一个威胁情报聊天机器人，可以执行自定义模块提供的多类型的查找
+        </td>
+    </tr>
 	<tr>
         <td>
             <a href="https://github.com/cuckoosandbox/cuckoo" target="_blank">Cuckoo Sandbox</a>
@@ -764,6 +961,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/spacepatcher/FireHOL-IP-Aggregator" target="_blank">FireHOL IP Aggregator</a>
+        </td>
+        <td>
+            在 PostgreSQL 中保留 FireHOL <a href="https://github.com/firehol/blocklist-ipsets" target="_blank">黑名单 IP 地址数据集</a>，包括历史更改，针对请求开发的基于 HTTP 的 API 服务
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/byt3smith/Forager" target="_blank">Forager</a>
         </td>
         <td>
@@ -776,6 +981,30 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             GoatRider 会动态拉取 Artillery Threat Intelligence 订阅数据、TOR、AlienVaults OTX 以及 Alexa top 1 million websites 与给定的主机名或 IP 进行比较
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc" target="_blank">Google APT Search Engine</a>
+        </td>
+        <td>
+            APT 组织与恶意软件搜索引擎，用于此 Google 自定义搜索的来源列表在 <a href="https://gist.github.com/Neo23x0/c4f40629342769ad0a8f3980942e21d3" target="_blank"this</a> GitHub 中
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/ciscocsirt/gosint" target="_blank">GOSINT</a>
+        </td>
+        <td>
+            The GOSINT 框架是一个免费项目，用于收集、处理和导出高质量的 IOC 指标
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://hashdd.com/" target="_blank">hashdd</a>
+        </td>
+        <td>
+            在 crytographic 上使用哈希值查找相关信息的工具
         </td>
     </tr>
     <tr>
@@ -1068,10 +1297,10 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/tomchop/yeti" target="_blank">yeti</a>
+            <a href="https://github.com/0x4d31/sqhunter" target="_blank">sqhunter</a>
         </td>
         <td>
-            Your Everyday Threat Intelligence (YETI) 每日威胁情报
+            基于 osquery、Salt Open 和 Cymon API 的威胁狩猎。它可以查询 open 的网络套接字并根据威胁情报来源进行检查
         </td>
     </tr>
 </table>
