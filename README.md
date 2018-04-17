@@ -453,6 +453,12 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://urlhaus.abuse.ch">URLhaus</a>
+        </td>
+        <td>URLhaus is a project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution.</td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://virusshare.com/" target="_blank">VirusShare</a>
         </td>
         <td>
