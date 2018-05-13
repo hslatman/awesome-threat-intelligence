@@ -141,6 +141,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.cybercure.ai/" target="_blank">Cyber Cure free intelligience feeds</a>
+        </td>
+        <td>
+            CyberCure offers free cyber threat intelligence feeds that includes list of IP addresses that are currently infected and attacking on the internet. list of urls used by malware and list of hash files of known malware that is currently spreading. CyberCure is only using sensors to collect the intelligience with very low false postives. detailed documentation is available as well, <a href="https://docs.cybercure.ai" target="_blank">You can see the documentation here.</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.cymon.io/" target="_blank">Cymon</a>
         </td>
         <td>
