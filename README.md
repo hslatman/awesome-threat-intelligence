@@ -855,6 +855,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://beta.virusbay.io/" target="_blank">VirusBay</a>
+        </td>
+        <td>
+            VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/defpoint/threat_Note" target="_blank">Threat_Note</a>
         </td>
         <td>
