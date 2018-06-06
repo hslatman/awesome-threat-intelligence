@@ -329,14 +329,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
     </tr>
     <tr>
-        <td>
-            <a href="https://minotr.net/" target="_blank">Minotaur</a>
-        </td>
-        <td>
-        The Minotaur Project is an ongoing research project by the team at NovCon Solutions (novcon.net). It is being built as a hub for security professionals, researchers and enthusiasts to discover new threats and discuss mitigations. It is a combination of 3rd-party opensource software, local datasets, new analysis tools, and more.
-        </td>
-    </tr>
-    <tr>
         <td><a href="http://data.netlab.360.com/">Netlab OpenData Project</a>
       </td>
       <td>
@@ -422,7 +414,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://siteinfo.statvoo.com/dl/top-1million-sites.csv.zip" target="_blank">Statvoo Top 1 Million Sites</a>
+            <a href="https://statvoo.com/dl/top-1million-sites.csv.zip" target="_blank">Statvoo Top 1 Million Sites</a>
         </td>
         <td>
             Probable Whitelist of the top 1 million web sites, as ranked by Statvoo.
@@ -851,6 +843,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in <b>beta</b>. Reference code can be found at <a href="https://github.com/facebook/ThreatExchange" target="_blank">GitHub</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://beta.virusbay.io/" target="_blank">VirusBay</a>
+        </td>
+        <td>
+            VirusBay is a web-based, collaboration platform that connects security operations center (SOC) professionals with relevant malware researchers.
         </td>
     </tr>
     <tr>
