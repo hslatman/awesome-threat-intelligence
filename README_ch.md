@@ -140,6 +140,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://www.cybercure.ai/" target="_blank">Cyber Cure free intelligience feeds</a>
+        </td>
+        <td>
+            CyberCure 提供的免费网络威胁情报源，其中包括当前正在互联网上受到感染和攻击的 IP 地址列表。恶意软件使用的 URL 列表以及当前正在传播的已知恶意软件的文件哈希值。CyberCure 使用传感器以低误报收集情报，细节请看<a href="https://docs.cybercure.ai" target="_blank">文档</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.cymon.io/" target="_blank">Cymon</a>
         </td>
         <td>
@@ -252,6 +260,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://infosec.cert-pa.it" target="_blank">Infosec - CERT-PA</a>
+        </td>
+        <td>
+            恶意软件样本的<a href="https://infosec.cert-pa.it/analyze/submission.html" target="_blank">收集和分析</a>、<a href="https://infosec.cert-pa.it/analyze/statistics.html" target="_blank">黑名单服务、<a href="https://infosec.cert-pa.it/cve.html">漏洞数据库</a>等。创建并管理自定义的<a href="https://www.cert-pa.it">CERT-PA</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
         </td>
         <td>
@@ -278,6 +294,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             MalShare 项目为研究人员提供一个公开的样本库
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.maltiverse.com/" target="_blank">Maltiverse</a>
+        </td>
+        <td>
+            Maltiverse 项目是一个庞大而丰富的 IoC 数据库，可以进行复杂的查询和聚合以调查恶意软件的活动及其基础设施。也提供了一个很棒的 IoC 批量查询服务
         </td>
     </tr>
     <tr>
@@ -454,6 +478,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             由 VVestron Phoronix (WSTNPHX)收集的恶意软件使用的电子邮件地址
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://urlhaus.abuse.ch">URLhaus</a>
+        </td>
+        <td>
+            URLhaus 是一个由 abuse.ch 发起的旨在共享用于恶意软件传播的 URL 的项目
         </td>
     </tr>
     <tr>
@@ -1148,7 +1180,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://github.com/mgeide/poortego" target="_blank">poortego</a>
         </td>
         <td>
-            用于处理/链接开源威胁情报的开源 Ruby 项目
+            用于处理/链接开源威胁情报的项目。最初用 ruby 开发，新版本用 python 重写了
         </td>
     </tr>
     <tr>
@@ -1406,6 +1438,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             此文提出的入侵杀伤链为入侵分析、指标提取与执行防御行动提供了一种结构化的方法
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.isao.org" target="_blank">ISAO Standards Organization</a>
+        </td>
+        <td>
+            ISAO Standards Organization 一个非政府组织，成立于2015年10月1日.。其任务是通过确定与网络安全风险、事件和最佳实践有关的有效信息共享标准与准则，来改善国家的网络安全态势
         </td>
     </tr>
     <tr>
