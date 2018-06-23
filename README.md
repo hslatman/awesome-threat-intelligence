@@ -1169,6 +1169,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/InQuest/omnibus" target="_blank">Omnibus</a>
+        </td>
+        <td>
+            Omnibus is an interactive command line application for collecting and managing IOCs/artifacts (IPs, Domains, Email Addresses, Usernames, and Bitcoin Addresses), enriching these artifacts with OSINT data from public sources, and providing the means to store and access these artifacts in a simple way.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/kx499/ostip/wiki" target="_blank">OSTIP</a>
         </td>
         <td>
