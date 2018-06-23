@@ -21,6 +21,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
+            <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
+        </td>
+        <td>
+            AbuseIPDB is a project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet. It's mission is to help make Web safer by providing a central blacklist for webmasters, system administrators, and other interested parties to report and find IP addresses that have been associated with malicious activity online..
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://s3.amazonaws.com/alexa-static/top-1m.csv.zip" target="_blank">Alexa Top 1 Million sites</a>
         </td>
         <td>
