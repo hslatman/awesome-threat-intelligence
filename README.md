@@ -1234,6 +1234,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/SecurityRiskAdvisors/sra-taxii2-server" target="_blank">SRA TAXII2 Server</a>
+        </td>
+        <td>
+            Full TAXII 2.0 specification server implemented in Node JS with MongoDB backend.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/STIXProject/stix-viz" target="_blank">stix-viz</a>
         </td>
         <td>
