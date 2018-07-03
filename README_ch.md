@@ -20,6 +20,14 @@ Feel free to [contribute](CONTRIBUTING.md).
 <table>
     <tr>
         <td>
+            <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
+        </td>
+        <td>
+            AbuseIPDB 是一个致力于帮助打击黑客、垃圾邮件发送者与互联网滥用的项目。为网站管理员、系统管理员和其他各方提供中心黑名单，提交查找与恶意活动相关的 IP 地址来帮助网络更加安全
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://s3.amazonaws.com/alexa-static/top-1m.csv.zip" target="_blank">Alexa Top 1 Million sites</a>
         </td>
         <td>
@@ -326,14 +334,6 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             Metadefender 云威胁情报源包含最新的恶意软件哈希签名，包括 MD5 和 SHA1，SHA256。是过去 24 小时内，Metadefender 云发现的新的恶意哈希值。定语提供每日更新及恶意软件的检测和报告，提供可操作、及时的威胁情报
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://minotr.net/" target="_blank">Minotaur</a>
-        </td>
-        <td>
-            Minotaur 是 NovCon Solutions (novcon.net) 团队进行的研究项目。它为安全专家、研究人员和爱好者提供对新威胁和缓解措施的讨论。它包括第三方开源软件、本地数据集和新分析工具等
         </td>
     </tr>
     <tr>
@@ -728,6 +728,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/CERT-Polska/n6" target="_blank">n6</a>
+        </td>
+        <td>
+            n6 (Network Security Incident eXchange) 是一个大规模收集、管理、分发安全信息的系统，通过简单的 REST API 和 Web 界面即可实现分发，授权用户可以使用它来接收各种类型的数据，特别是有关其网络中威胁的信息，其由 <a href="https://www.cert.pl/en/" target="_blank">CERT Polska</a> 开发
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.openioc.org/" target="_blank">OpenIOC</a>
         </td>
         <td>
@@ -852,6 +860,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             Facebook 创建了 ThreatExchange 可以方便的使用结构化、易用的 API 来共享威胁数据，该 API 提供隐私控制，以便与所需的组织进行共享，该项目仍然处于测试阶段，参考代码可以在 <a href="https://github.com/facebook/ThreatExchange" target="_blank">GitHub</a> 中找到
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://beta.virusbay.io/" target="_blank">VirusBay</a>
+        </td>
+        <td>
+            VirusBay 是一个基于 Web 的协作平台，可将 SOC 与恶意软件研究人员联系起来
         </td>
     </tr>
     <tr>
@@ -1169,6 +1185,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/InQuest/omnibus" target="_blank">Omnibus</a>
+        </td>
+        <td>
+            Omnibus 是一个交互式命令行程序，用于收集、管理 IOC 指标，使用公共 OSINT 数据进行补充，并提供存储与访问这些指标的简单方法
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/kx499/ostip/wiki" target="_blank">OSTIP</a>
         </td>
         <td>
@@ -1221,6 +1245,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             Real Intelligence Threat Analytics (RITA) 旨在帮助不同规模的企业在网络中搜索 IOC
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/SecurityRiskAdvisors/sra-taxii2-server" target="_blank">SRA TAXII2 Server</a>
+        </td>
+        <td>
+            带有 MongoDB 后端的 Node JS 实现的完整 TAXII 2.0 服务器
         </td>
     </tr>
     <tr>
@@ -1519,6 +1551,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>
             Traffic Light Protocol (TLP) 是一组用来确保敏感信息可以被正确发布接收的信号组合。其使用四种颜色来标定不同程度的敏感信息和与其敏感程度相适应的接收人
         </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://pan-unit42.github.io/playbook_viewer/" target="_blank">Unit42 Playbook Viewer</a>
+        </td> 
+        <td>
+            Playbook 的目标是将对手使用的工具、技术和程序组织成结构化格式，可以与其他人共享、并在此基础上构建。用于构建、共享的框架是 MITRE 的 ATT&CK 框架与 STIX 2.0
+        </td>    
     </tr>
     <tr>
         <td>
