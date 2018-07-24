@@ -179,6 +179,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             Free intelligence source for current and historical DNS information, WHOIS information, finding other websites associated with certain IPs, subdomain knowledge and technologies. There is a <a href="https://securitytrails.com/">IP and domain intelligence API available</a> as well. 
         </td>
     </tr>
+     <tr>
+        <td>
+            <a href="https://www.assetwatch.io/domainstream/" target="_blank">DomainStream</a>
+        </td>
+        <td>
+            Live domain name feed from various Certificate Transparency Logs and Passive DNS Data that is being scanned everyday. Use this to find new subdomains of your interest when it appears on the internet or find probable phishing domains.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="http://rules.emergingthreats.net/fwrules/" target="_blank">Emerging Threats Firewall Rules</a>
