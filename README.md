@@ -1073,6 +1073,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/TheHive-Project/Hippocampe" target="_blank">Hippocampe</a>
+        </td>
+        <td>
+            Hippocampe aggregates threat feeds from the Internet in an Elasticsearch cluster. It has a REST API which allows to search into its 'memory'. It is based on a Python script which fetchs URLs corresponding to feeds, parses and indexes them.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/S03D4-164/Hiryu" target="_blank">Hiryu</a>
         </td>
         <td>
