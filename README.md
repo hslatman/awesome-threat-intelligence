@@ -1177,6 +1177,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/silascutler/MalPipe" target="_blank">MalPipe</a>
+        </td>
+        <td>
+            Amodular malware (and indicator) collection and processing framework. It is designed to pull malware, domains, URLs and IP addresses from multiple feeds, enrich the collected data and export the results.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/MISP/misp-workbench" target="_blank">MISP Workbench</a>
         </td>
         <td>
