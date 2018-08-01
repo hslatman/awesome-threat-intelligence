@@ -641,6 +641,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/TheHive-Project/Cortex" target="_blank">Cortex</a>
+        </td>
+        <td>
+            Cortex allows observables, such as IPs, email addresses, URLs, domain names, files or hashes, to be analyzed one by one or in bulk mode using a single web interface. The web interface acts as a frontend for numerous analyzers, removing the need for integrating these yourself during analysis. Analysts can also use the Cortex REST API to automate parts of their analysis.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://crits.github.io/" target="_blank">CRITS</a>
         </td>
         <td>
