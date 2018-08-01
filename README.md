@@ -1129,6 +1129,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/KasperskyLab/klara" target="_blank">KLara</a>
+        </td>
+        <td>
+            KLara, a distributed system written in Python, allows researchers to scan one or more Yara rules over collections with samples, getting notifications by e-mail as well as the web interface when scan results are ready.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/TAXIIProject/libtaxii" target="_blank">libtaxii</a>
         </td>
         <td>
