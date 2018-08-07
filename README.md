@@ -649,6 +649,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/TheHive-Project/Cortex" target="_blank">Cortex</a>
+        </td>
+        <td>
+            Cortex allows observables, such as IPs, email addresses, URLs, domain names, files or hashes, to be analyzed one by one or in bulk mode using a single web interface. The web interface acts as a frontend for numerous analyzers, removing the need for integrating these yourself during analysis. Analysts can also use the Cortex REST API to automate parts of their analysis.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://crits.github.io/" target="_blank">CRITS</a>
         </td>
         <td>
@@ -1073,6 +1081,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/TheHive-Project/Hippocampe" target="_blank">Hippocampe</a>
+        </td>
+        <td>
+            Hippocampe aggregates threat feeds from the Internet in an Elasticsearch cluster. It has a REST API which allows to search into its 'memory'. It is based on a Python script which fetchs URLs corresponding to feeds, parses and indexes them.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/S03D4-164/Hiryu" target="_blank">Hiryu</a>
         </td>
         <td>
@@ -1129,6 +1145,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/KasperskyLab/klara" target="_blank">KLara</a>
+        </td>
+        <td>
+            KLara, a distributed system written in Python, allows researchers to scan one or more Yara rules over collections with samples, getting notifications by e-mail as well as the web interface when scan results are ready.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/TAXIIProject/libtaxii" target="_blank">libtaxii</a>
         </td>
         <td>
@@ -1157,6 +1181,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             Machinae is a tool for collecting intelligence from public sites/feeds about various security-related pieces of data: IP addresses, domain names, URLs, email addresses, file hashes and SSL fingerprints.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/silascutler/MalPipe" target="_blank">MalPipe</a>
+        </td>
+        <td>
+            Amodular malware (and indicator) collection and processing framework. It is designed to pull malware, domains, URLs and IP addresses from multiple feeds, enrich the collected data and export the results.
         </td>
     </tr>
     <tr>
