@@ -1459,6 +1459,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/mitre/cti" target="_blank">Cyber Threat Intelligence Repository by MITRE</a>
+        </td>
+        <td>
+            The Cyber Threat Intelligence Repository of ATT&CK and CAPEC catalogs expressed in STIX 2.0 JSON.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://cryptome.org/2015/09/cti-guide.pdf" target="_blank">Definitive Guide to Cyber Threat Intelligence</a>
         </td>
         <td>
