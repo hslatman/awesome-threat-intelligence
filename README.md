@@ -454,6 +454,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://threatfeeds.io" target="_blank">threatfeeds.io</a>
+        </td>
+        <td>
+            threatfeeds.io lists free and open-source threat intelligence feeds and sources and provides direct download links and live summaries.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://threatconnect.com/blog/ingest-technical-blogs-reports/" target="_blank">Technical Blogs and Reports, by ThreatConnect</a>
         </td>
         <td>
