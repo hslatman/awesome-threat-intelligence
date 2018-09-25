@@ -180,6 +180,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://www.assetwatch.io/domainstream/" target="_blank">DomainStream</a>
+        </td>
+        <td>
+            来自每日扫描的各种证书透明度日志和 Passive DNS 数据的实时域名订阅，可以基于此查找互联网中感兴趣的新的子域名，或者查找潜在的网络钓鱼域名
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://rules.emergingthreats.net/fwrules/" target="_blank">Emerging Threats Firewall Rules</a>
         </td>
         <td>
@@ -648,6 +656,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/TheHive-Project/Cortex" target="_blank">Cortex</a>
+        </td>
+        <td>
+            Cortex 允许对如 IP 地址、电子邮件地址、URL、域名、文件或哈希，在 bulk 模式下使用 Web 界面逐个分析。前端接口可以充当许多分析器的前端，从而消除了在分析过程中将其整合在一起的需求。分析人员还可以使用 Cortex REST API 进行自动分析
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://crits.github.io/" target="_blank">CRITS</a>
         </td>
         <td>
@@ -1065,6 +1081,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/TheHive-Project/Hippocampe" target="_blank">Hippocampe</a>
+        </td>
+        <td>
+            Hippocampe 是一个从互联网中聚合威胁订阅的 Elasticsearch 集群。它拥有一个 REST API，基于一个可以 fetch 对应订阅的 URL 的 Python 脚本，还可以进行解析与索引
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/S03D4-164/Hiryu" target="_blank">Hiryu</a>
         </td>
         <td>
@@ -1121,6 +1145,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/KasperskyLab/klara" target="_blank">KLara</a>
+        </td>
+        <td>
+            KLara 是一个使用 Python 编写的分布式系统，可以扫描一个或多个 Yara 规则、通过邮件获取通知、通过 Web 界面查看扫描结果
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/TAXIIProject/libtaxii" target="_blank">libtaxii</a>
         </td>
         <td>
@@ -1149,6 +1181,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             Machinae 是一个用于从公开站点/订阅源收集各种与安全相关数据的工具，包括 IP 地址、域名、URL、电子邮件地址、文件哈希值与 SSL 指纹
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/silascutler/MalPipe" target="_blank">MalPipe</a>
+        </td>
+        <td>
+            Amodular 是一个针对恶意软件与 IOC 指标收集与处理的框架。旨在从多个不同的源中提取恶意软件、域名、URL 和 IP 地址，汇总收集到的数据并导出结果
         </td>
     </tr>
     <tr>
