@@ -399,7 +399,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://rescure.fruxlabs.com/" target="_blank">[RES]cure Threat Intel Feed</a>
+            <a href="https://rescure.fruxlabs.com/" target="_blank">REScure Threat Intel Feed</a>
         </td>
         <td>
             [RES]cure is an independant threat intelligence project performed by the Fruxlabs Crack Team to enhance their understanding of the underlying architecture of distributed systems, the nature of threat intelligence and how to efficiently collect, store, consume and distribute threat intelligence. Feeds are generated every 6 hours.
