@@ -399,6 +399,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://rescure.fruxlabs.com/" target="_blank">[RES]cure Threat Intel Feed</a>
+        </td>
+        <td>
+            [RES]cure is an independant threat intelligence project performed by the Fruxlabs Crack Team to enhance their understanding of the underlying architecture of distributed systems, the nature of threat intelligence and how to efficiently collect, store, consume and distribute threat intelligence. Feeds are generated every 6 hours.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://report.cs.rutgers.edu/mrtg/drop/dropstat.cgi?start=-86400">Rutgers Blacklisted IPs</a>
         </td>
         <td>IP List of SSH Brute force attackers is created from a merged of locally observed IPs and 2 hours old IPs registered at badip.com and blocklist.de</td>
