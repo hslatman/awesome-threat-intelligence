@@ -61,6 +61,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.binarydefense.com/banlist.txt" target="_blank">Binary Defense IP Banlist</a>
+        </td>
+        <td>
+            Binary Defense Systems Artillery Threat Intelligence Feed and IP Banlist Feed.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.circl.lu/projects/bgpranking/" target="_blank">BGP Ranking</a>
         </td>
         <td>
