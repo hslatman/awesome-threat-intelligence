@@ -1667,4 +1667,4 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
 
 ## License
 
-Licensed under [Apache License 2.0](LICENSE)
+Licensed under [Apache License 2.0](LICENSE).
