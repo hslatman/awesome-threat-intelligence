@@ -705,6 +705,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://www.intelstitch.com" target="_blank">IntelStitch</a>
+        </td>
+        <td>
+            IntelStitch streamlines the aggregation, enforcement and sharing of cyber threat intelligence. IntelStitch can collect and process intelligence from traditional threat feeds as well as more dynamic sources including Pastebin pastes, tweets, and forums so that it can be integrated with downstream security tools.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://technet.microsoft.com/en-us/security/dn458536" target="_blank">Interflow</a>
         </td>
         <td>
