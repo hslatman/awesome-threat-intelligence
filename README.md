@@ -312,6 +312,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td><a href="http://malc0de.com/bl/">Malc0de DNS Sinkhole</a></td>
         <td>The files in this link will be updated daily with domains that have been indentified distributing malware during the past 30 days. Collected by malc0de.</td>
     </tr>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://maldatabase.com/" target="_blank">Maldatabase</a>
+        </td>
+        <td>
+            Maldatabase is designed to help malware data science and threat intelligence feeds. Provided data contain good information about, among other fields, contacted domains, list of executed processes and dropped files by each sample. These feeds allow you to improve your monitoring and security tools. Free services are available for Security Researchers and Students. 
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="http://www.malshare.com/" target="_blank">MalShare.com</a>
