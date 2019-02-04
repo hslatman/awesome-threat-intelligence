@@ -1331,6 +1331,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/spacepatcher/softrace" target="_blank">Softrace</a>
+        </td>
+        <td>
+            Lightweight National Software Reference Library RDS storage.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/SecurityRiskAdvisors/sra-taxii2-server" target="_blank">SRA TAXII2 Server</a>
         </td>
         <td>
