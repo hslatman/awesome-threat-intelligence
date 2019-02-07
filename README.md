@@ -922,7 +922,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             <a href="https://www.threatintellist.com/" target="_blank">Threat Intel List</a>
         </td>
         <td>
-            Threat Intel List analyses and maintains a database containing threat intelligence from hundreds of of security IP feeds, mainly related to online attacks, online service abuse, malwares, botnets, command and control servers and other cybercrime activities.
+            Threat Intel List analyses and maintains a database containing threat intelligence from hundreds of security IP feeds, mainly related to online attacks, online service abuse, malwares, botnets, command and control servers and other cybercrime activities.
         </td>
     </tr>
     <tr>
