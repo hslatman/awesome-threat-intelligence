@@ -595,6 +595,14 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
     </tr>
     <tr>
         <td>
+            <a href="https://www.misp-project.org/datamodels/#misp-core-format" target="_blank">MISP Core Format</a>
+        </td>
+        <td>
+            The MISP core format (<a href="https://tools.ietf.org/html/draft-dulaunoy-misp-core-format-07" targe="_blank">RFC Draft</a>) is a simple JSON format used by MISP and other tools to exchange events and attributes. The JSON schema 2.4 is described on the MISP core software and many sample files are available in the OSINT feed.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=openc2" target="_blank">OpenC2</a>
         </td>
         <td>
