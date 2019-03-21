@@ -1176,6 +1176,22 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/fhightower/ioc-finder" target="_blank">IOC Finder</a>
+        </td>
+        <td>
+            Python library for finding indicators of compromise in text. Uses grammars rather than regexes for improved comprehensibility. As of February, 2019, it parses over 18 indicator types.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/ioc-fang/ioc_fanger" target="_blank">IOC Fanger (and Defanger)</a>
+        </td>
+        <td>
+            Python library for fanging (`hXXp://example[.]com` => `http://example.com`) and defanging (`http://example.com` => `hXXp://example[.]com`) indicators of compromise in text.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/armbues/ioc_parser" target="_blank">ioc_parser</a>
         </td>
         <td>
