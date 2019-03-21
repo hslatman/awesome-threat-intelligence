@@ -165,6 +165,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.cyberthreatexchange.com/" target="_blank">Cyber Threat Exchange</a>
+        </td>
+        <td>
+            The Threat Exchange is an online marketplace platform for buying, selling and sharing cyber threat intelligence feeds.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.cymon.io/" target="_blank">Cymon</a>
         </td>
         <td>
@@ -918,10 +926,26 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://www.threatpipes.com" target="_blank">ThreatPipes</a>
+        </td>
+        <td>
+            Threat Intelligence Plumbing. ThreatPipes connects threat intelligence sources and security tools so that they can work together in powerful new ways. ThreatPipes streamlines the aggregation, enforcement and sharing of cyber threat intelligence.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://developers.facebook.com/docs/threat-exchange/" target="_blank">ThreatExchange</a>
         </td>
         <td>
             Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in <b>beta</b>. Reference code can be found at <a href="https://github.com/facebook/ThreatExchange" target="_blank">GitHub</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.threatintellist.com/" target="_blank">Threat Intel List</a>
+        </td>
+        <td>
+            Threat Intel List analyses and maintains a database containing threat intelligence from hundreds of security IP feeds, mainly related to online attacks, online service abuse, malwares, botnets, command and control servers and other cybercrime activities.
         </td>
     </tr>
     <tr>
