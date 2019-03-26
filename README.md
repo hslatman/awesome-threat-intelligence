@@ -32,7 +32,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="http://s3.amazonaws.com/alexa-static/top-1m.csv.zip" target="_blank">Alexa Top 1 Million sites</a>
         </td>
         <td>
-            Probable Whitelist of the top 1 Million sites from Amazon(Alexa).
+            The top 1 Million sites from Amazon(Alexa). <a href="http://threatglass.com/pages/about" target="_blank">Never</a> user this as a <a href="https://www.netresec.com/?page=Blog&month=2017-04&post=Domain-Whitelist-Benchmark%3a-Alexa-vs-Umbrella" target="_blank">whitelist</a>.
         </td>
     </tr>
     <tr>
