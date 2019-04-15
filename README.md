@@ -576,6 +576,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             The ZeuS Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks ZeuS Command & Control servers (hosts) around the world and provides you a domain- and a IP-blocklist.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://IOCFeed.mrlooquer.com/" target="_blank">1st Dual Stack Threat Feed by MrLooquer</a>
+        </td>
+        <td>
+Mrlooquer has created the first threat feed focused on systems with dual stack. Since IPv6 protocol has begun to be part of malware and fraud communications, It is necessary to detect and mitigate the threats in both protocols (IPv4 and IPv6).
+        </td>
+    </tr>
 </table>
 
 ## Formats
