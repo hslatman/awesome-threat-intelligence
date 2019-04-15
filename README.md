@@ -750,7 +750,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             <a href="https://github.com/byt3smith/malstrom" target="_blank">Malstrom</a>
         </td>
         <td>
-            Malstrom aims to be a repository for threat tracking and forensic artifacts, but also stores YARA rules and notes for investigation.
+            Malstrom aims to be a repository for threat tracking and forensic artifacts, but also stores YARA rules and notes for investigation. Note: Github project has been archived (no new contributions accepted).
         </td>
     </tr>
     <tr>
@@ -970,14 +970,6 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             The X-Force Exchange (XFE) by IBM XFE is a free SaaS product that you can use to search for threat intelligence information, collect your findings, and share your insights with other members of the XFE community.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://yara.adlice.com/" target="_blank">Yara Share</a>
-        </td>
-        <td>
-            Yara Share is an online Yara rule editor and sharing platform.
         </td>
     </tr>
     <tr>
@@ -1453,14 +1445,6 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             An extension for Chrome that creates hover popups on every page for IPv4, MD5, SHA2, and CVEs. It can be used for lookups during threat investigations.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.fidelissecurity.com/resources/fidelis-threatscanner" target="_blank">ThreatScanner</a>
-        </td>
-        <td>
-            ThreatScanner by Fidelis Cybersecurity runs a script to hunt for IOCs or YARA rules on a single machine and automatically generates a report that provides details of suspicious artifacts.
         </td>
     </tr>
     <tr>
