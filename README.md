@@ -1457,6 +1457,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/InQuest/ThreatIngestor" target="_blank">ThreatIngestor</a>
+        </td>
+        <td>
+            Flexible, configuration-driven, extensible framework for consuming threat intelligence. ThreatIngestor can watch Twitter, RSS feeds, and other sources, extract meaningful information like C2 IPs/domains and YARA signatures, and send that information to other systems for analysis.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke" target="_blank">ThreatPinch Lookup</a>
         </td>
         <td>
