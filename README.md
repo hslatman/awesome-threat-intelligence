@@ -1216,6 +1216,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/InQuest/python-iocextract" target="_blank">iocextract</a>
+        </td>
+        <td>
+            Extracts URLs, IP addresses, MD5/SHA hashes, email addresses, and YARA rules from text corpora. Includes some encoded and “defanged” IOCs in the output, and optionally decodes/refangs them.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/stephenbrannon/IOCextractor" target="_blank">IOCextractor</a>
         </td>
         <td>
