@@ -245,6 +245,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://intercept.sh/threatlists/" target="_blank">FastIntercept</a>
+        </td>
+        <td>
+	    Intercept Security hosts a number of free IP Reputation lists from their global honeypot network.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://feodotracker.abuse.ch/" target="_blank">ZeuS Tracker</a>
         </td>
         <td>
