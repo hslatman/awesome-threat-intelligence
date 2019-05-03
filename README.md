@@ -325,6 +325,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
+        </td>
+        <td>
+            I-Blocklist maintains several types of lists containing IP addresses belonging to various categories. Some of these main categories include countries, ISPs and organizations. Other lists include web attacks, TOR, spyware and proxies. Many are free to use, and available in various formats.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt" target="_blank">IPsum</a>
         </td>
         <td>
