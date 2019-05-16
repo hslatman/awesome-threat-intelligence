@@ -187,6 +187,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
           DataPlane.org is a community-powered Internet data, feeds, and measurement resource for operators, by operators. We provide reliable and trustworthy service at no cost.
         </td>
     </tr>
+   <tr>
+        <td>
+            <a href="https://osint.digitalside.it/" target="_blank">DigitalSide Threat-Intel</a>
+        </td>
+        <td>
+          Cointains sets of Open Source Cyber Threat Intellegence indicators, monstly based on malware analysis and compromised URLs, IPs and domains. The purpose of this project is to develop and test new ways to hunt, analyze, collect and share relevants IoCs to be used by SOC/CSIRT/CERT/individuals with minimun effort. Reports are shared in three ways: <a href="https://osint.digitalside.it/Threat-Intel/stix2/" target="_blank">STIX2</a>, <a href="https://osint.digitalside.it/Threat-Intel/csv/" target="_blank">CSV</a> and <a href="https://osint.digitalside.it/Threat-Intel/digitalside-misp-feed/" target="_blank">MISP Feed</a>. Reports are published also in the <a href="https://github.com/davidonzo/Threat-Intel/" target="_blank">project's Git repository</a>.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/martenson/disposable-email-domains">Disposable Email Domains</a>
