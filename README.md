@@ -326,6 +326,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     <tr>
     <tr>
         <td>
+            <a href="https://support.kaspersky.com/datafeeds" target="_blank">Kaspersky Threat Data Feeds</a>
+        </td>
+        <td>
+Continuously updated and inform your business or clients about risks and implications associated with cyber threats. The real-time data helps you to mitigate threats more effectively and defend against attacks even before they are launched. Demo Data Feeds contain truncated sets of IoCs (up to 1%) compared to the commercial ones
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://majestic.com/reports/majestic-million" target="_blank">Majestic Million</a>
         </td>
         <td>
@@ -584,14 +592,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 Mrlooquer has created the first threat feed focused on systems with dual stack. Since IPv6 protocol has begun to be part of malware and fraud communications, It is necessary to detect and mitigate the threats in both protocols (IPv4 and IPv6).
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://support.kaspersky.com/datafeeds" target="_blank">Kaspersky Threat Data Feeds</a>
-        </td>
-        <td>
-Continuously updated and inform your business or clients about risks and implications associated with cyber threats. The real-time data helps you to mitigate threats more effectively and defend against attacks even before they are launched. Demo Data Feeds contain truncated sets of IoCs (up to 1%) compared to the commercial ones
-        </td>
-    </tr>
 </table>
 
 ## Formats
@@ -775,6 +775,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             It uses a distributed architecture which enables sharing of security and threat information within and between communities for a collectively stronger ecosystem.
             Offering multiple configuration options, Interflow allows users to decide what communities to form, what data feeds to consume, and with whom.
             Interflow is currently in private preview.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.kaspersky.com/enterprise-security/threat-intelligence" target="_blank">Kaspersky Threat Intelligence Portal</a>
+        </td>
+        <td>
+            A website that provides a knowledge base describing cyber threats, legitimate objects, and their relationships, brought together into a single web service. Subscribing to Kaspersky Lab’s Threat Intelligence Portal provides you with a single point of entry to four complementary services: Kaspersky Threat Data Feeds, Threat Intelligence Reporting, Kaspersky Threat Lookup and Kaspersky Research Sandbox, all available in human-readable and machine-readable formats.
         </td>
     </tr>
     <tr>
@@ -1010,14 +1018,6 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             The open, distributed, machine and analyst-friendly threat intelligence repository. Made by and for incident responders.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.kaspersky.com/enterprise-security/threat-intelligence" target="_blank">Kaspersky Threat Intelligence Portal</a>
-        </td>
-        <td>
-            A website that provides a knowledge base describing cyber threats, legitimate objects, and their relationships, brought together into a single web service. Subscribing to Kaspersky Lab’s Threat Intelligence Portal provides you with a single point of entry to four complementary services: Kaspersky Threat Data Feeds, Threat Intelligence Reporting, Kaspersky Threat Lookup and Kaspersky Research Sandbox, all available in human-readable and machine-readable formats.
         </td>
     </tr>
 </table>
@@ -1268,6 +1268,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             Jager is a tool for pulling useful IOCs (indicators of compromise) out of various input sources (PDFs for now, plain text really soon, webpages eventually) and putting them into an easy to manipulate JSON format.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://support.kaspersky.com/13850" target="_blank">Kaspersky CyberTrace</a>
+        </td>
+        <td>
+            Threat intelligence fusion and analysis tool that integrates threat data feeds with SIEM solutions. Users can immediately leverage threat intelligence for security monitoring and incident report (IR) activities in the workflow of their existing security operations.
         </td>
     </tr>
     <tr>
@@ -1549,14 +1557,6 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             Threat hunter based on osquery, Salt Open and Cymon API. It can query open network sockets and check them against threat intelligence sources
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://support.kaspersky.com/13850" target="_blank">Kaspersky CyberTrace</a>
-        </td>
-        <td>
-            Threat intelligence fusion and analysis tool that integrates threat data feeds with SIEM solutions. Users can immediately leverage threat intelligence for security monitoring and incident report (IR) activities in the workflow of their existing security operations.
         </td>
     </tr>
 </table>
