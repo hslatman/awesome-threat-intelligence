@@ -1726,7 +1726,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="https://www.ncsc.gov.uk/content/files/protected_files/guidance_files/MWR_Threat_Intelligence_whitepaper-2015.pdf" target="_blank">Threat Intelligence: Collecting, Analysing, Evaluating</a>
+            <a href="https://www.mwrinfosecurity.com/assets/Whitepapers/Threat-Intelligence-Whitepaper.pdf" target="_blank">Threat Intelligence: Collecting, Analysing, Evaluating</a>
         </td>
         <td>
             This report by MWR InfoSecurity clearly describes several different types of threat intelligence, including strategic, tactical and operational variations. It also discusses the processes of requirements elicitation, collection, analysis, production and evaluation of threat intelligence. Also included are some quick wins and a maturity model for each of the types of threat intelligence defined by MWR InfoSecurity.
