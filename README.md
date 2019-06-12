@@ -173,14 +173,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://www.cymon.io/" target="_blank">Cymon</a>
-        </td>
-        <td>
-            Cymon is an aggregator of indicators from multiple sources with history, so you have a single interface to multiple threat feeds. It also provides an API to search a database along with a pretty web interface.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://dataplane.org/" target="_blank">DataPlane.org</a>
         </td>
         <td>
