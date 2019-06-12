@@ -157,10 +157,10 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://www.cybercure.ai/" target="_blank">Cyber Cure free intelligience feeds</a>
+            <a href="https://www.cybercure.ai/" target="_blank">Cyber Cure free intelligence feeds</a>
         </td>
         <td>
-            CyberCure offers free cyber threat intelligence feeds that includes list of IP addresses that are currently infected and attacking on the internet. list of urls used by malware and list of hash files of known malware that is currently spreading. CyberCure is only using sensors to collect the intelligience with very low false postives. detailed documentation is available as well, <a href="https://docs.cybercure.ai" target="_blank">You can see the documentation here.</a>
+            Cyber Cure offers free cyber threat intelligence feeds with lists of IP addresses that are currently infected and attacking on the internet. There are list of urls used by malware and list of hash files of known malware that is currently spreading. CyberCure is using sensors to collect intelligence with a very low false positive rate. Detailed <a href="https://docs.cybercure.ai" target="_blank">documentation</a> is available as well.
         </td>
     </tr>
     <tr>
