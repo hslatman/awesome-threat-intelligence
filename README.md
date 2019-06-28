@@ -844,6 +844,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://www.opencti.io/en/" target="_blank">OpenCTI</a>
+        </td>
+        <td>
+            OpenCTI, the Open Cyber Threat Intelligence platform, allows organizations to manage their cyber threat intelligence knowledge and observables. Its goal is to structure, store, organize and visualize technical and non-technical information about cyber threats. Data is structured around a knowledge schema based on the STIX2 standards. OpenCTI can be integrated with other tools and platforms, including MISP, TheHive, and MITRE ATT&CK, a.o.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.fireeye.com/services/freeware.html" target="_blank">OpenIOC</a>
         </td>
         <td>
