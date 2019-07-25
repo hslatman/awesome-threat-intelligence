@@ -31,7 +31,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="http://s3.amazonaws.com/alexa-static/top-1m.csv.zip" target="_blank">Alexa Top 1 Million sites</a>
         </td>
         <td>
-            Alexa 上前一百万站点可作为白名单
+            亚马逊提供的 Alexa TOP 100 万排名的网站。永远<a href="http://threatglass.com/pages/about" target="_blank">不要</a>作为<a href="https://www.netresec.com/?page=Blog&month=2017-04&post=Domain-Whitelist-Benchmark%3a-Alexa-vs-Umbrella" target="_blank">白名单</a>使用
         </td>
     </tr>
     <tr>
@@ -156,10 +156,26 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://www.cymon.io/" target="_blank">Cymon</a>
+            <a href="https://www.cyberthreatexchange.com/" target="_blank">Cyber Threat Exchange</a>
         </td>
         <td>
-            Cymon 是一个多源威胁情报聚合工具，享有到多个威胁情报订阅的单独接口。也提供一个漂亮的 Web 界面使用 API 来搜索数据库
+            Threat Exchange 是一个购买、出售与共享网络威胁情报的在线市场平台
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://dataplane.org/" target="_blank">DataPlane.org</a>
+        </td>
+        <td>
+            DataPlane.org 是社区驱动的互联网数据、订阅和测量资源的提供方。免费提供可靠与值得信赖的服务
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://osint.digitalside.it/" target="_blank">DigitalSide Threat-Intel</a>
+        </td>
+        <td>
+            Cointains 开源网络威胁情报指标集合，基于恶意软件分析的 URL、IP 和域名。该项目的目的是开发和测试寻找、分析、收集与共享相关 IOC 指标的新方法，以便 SOC/CSIRT/CERT/个人尽可能地方便。报告以三种方式共享：<a href="https://osint.digitalside.it/Threat-Intel/stix2/" target="_blank"> STIX2 </a>，<a href ="https://osint.digitalside.it/Threat-Intel/csv/" target="_blank"> CSV </a>和<a href ="https://osint.digitalside.it/Threat-Intel/digitalside-misp-feed/ "target="_ blank"> MISP Feed </a>。报告也发布在<a href="https://github.com/davidonzo/Threat-Intel/" target="_blank">GitHub</a>中
         </td>
     </tr>
     <tr>
@@ -216,6 +232,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             最新的 exploits 列表
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://intercept.sh/threatlists/" target="_blank">FastIntercept</a>
+        </td>
+        <td>
+	        Intercept Security 依托其在全球的蜜网提供免费的 IP 信誉列表
         </td>
     </tr>
     <tr>
@@ -284,10 +308,26 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://infosec.cert-pa.it" target="_blank">Infosec - CERT-PA</a>
+        </td>
+        <td>
+            恶意软件样本的<a href="https://infosec.cert-pa.it/analyze/submission.html" target="_blank">收集与分析</a>、<a href="https://infosec.cert-pa.it/analyze/statistics.html" target="_blank">黑名单<a href="https://infosec.cert-pa.it/cve.html">漏洞数据库</a>等其他服务。由<a href="https://www.cert-pa.it">CERT-PA</a>创建并管理
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
         </td>
         <td>
             I-Blocklist 维护包括 IP 地址在内的多种类型的列表，主要有国家、ISP 和组织。其他列表包括 Web 攻击、Tor、间谍软件、代理，许多都可以免费使用，并且有多种格式
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt" target="_blank">IPsum</a>
+        </td>
+        <td>
+            IPsum 是一个威胁情报源，基于 30 多个不同的、公开的可疑或恶意的 IP 地址列表。 每天自动检索并解析所有列表，并将最终结果推送到此存储库。列表由 IP 地址和出现的总数组成。 由<a href="https://twitter.com/stamparm"> Miroslav Stampar </a>创建并管理
         </td>
     </tr>
     <tr>
@@ -302,6 +342,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td><a href="http://malc0de.com/bl/">Malc0de DNS Sinkhole</a></td>
         <td>
             由 Malc0de 每天更新的文件，包含过去三十天内已经识别出分发恶意软件的域名
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://maldatabase.com/" target="_blank">Maldatabase</a>
+        </td>
+        <td>
+            Maldatabase 旨在帮助恶意软件数据科学与威胁情报订阅。提供的数据包含样本通信的域名、执行的进程列表与释放的文件等其他信息。 这些源可以帮助您改进监控与安全工具。安全研究人员与学生都可以免费获得服务。
         </td>
     </tr>
     <tr>
@@ -338,10 +386,10 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
 	<tr>
         <td>
-            <a href="https://www.metadefender.com/threat-intelligence-feeds" target="_blank">Metadefender.com</a>
+            <a href="https://www.opswat.com/developers/threat-intelligence-feed" target="_blank">MetaDefender Cloud</a>
         </td>
         <td>
-            Metadefender 云威胁情报源包含最新的恶意软件哈希签名，包括 MD5 和 SHA1，SHA256。是过去 24 小时内，Metadefender 云发现的新的恶意哈希值。定语提供每日更新及恶意软件的检测和报告，提供可操作、及时的威胁情报
+            MetaDefender 云威胁情报源包含最新的恶意软件哈希签名，包括 MD5 和 SHA1，SHA256。是过去 24 MetaDefender 云发现的新的恶意哈希值。定语提供每日更新及恶意软件的检测和报告，提供可操作、及时的威胁情报
         </td>
     </tr>
     <tr>
@@ -389,6 +437,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             Ransomware Tracker 由 <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> 提供对与 Ransomware 有关的域名、IP、URL 状态进行跟踪与监视
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://rescure.fruxlabs.com/" target="_blank">REScure Threat Intel Feed</a>
+        </td>
+        <td>
+            [RES]cure 是由 Fruxlabs Crack 团队运营的独立威胁情报项目，旨在增强对分布式系统底层架构的理解、威胁情报的性质以及如何有效地收集、存储、使用和分发威胁情报。 每六小时发布一次
         </td>
     </tr>
     <tr>
@@ -490,6 +546,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://portal.underattack.today/" target="_blank">UnderAttack.today</a>
+        </td>
+        <td>
+            UnderAttack 是一个免费的情报平台，它共享有关可疑事件和攻击的 IP 地址与其他信息。可在<a href="https://portal.underattack.today" target="_blank">此处</a>免费注册
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://urlhaus.abuse.ch">URLhaus</a>
         </td>
         <td>
@@ -518,6 +582,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             ZeuS Tracker 由 <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> 提供对 ZeuS 的 C&C 主机的跟踪，提供给你域名与主机的黑名单
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://IOCFeed.mrlooquer.com/" target="_blank">1st Dual Stack Threat Feed by MrLooquer</a>
+        </td>
+        <td>
+            Mrlooquer 创建了第一个同时支持 IPv4 与 IPv6 的威胁源。由于 IPv6 协议已经开始成为恶意软件和欺诈通信的一部分，因此有必要检测和缓解两种协议（IPv4 与 IPv6）
         </td>
     </tr>
 </table>
@@ -688,6 +760,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://www.intelstitch.com" target="_blank">IntelStitch</a>
+        </td>
+        <td>
+            IntelStitch 简化了网络威胁情报的聚合、处理与共享。 IntelStitch 可以从传统威胁源以及更多动态源（包括 Pastebin、Twitter 和论坛）收集与处理情报，以便可以更好地与下游安全工具集成。
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://technet.microsoft.com/en-us/security/dn750892" target="_blank">Interflow</a>
         </td>
         <td>
@@ -699,7 +779,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://github.com/byt3smith/malstrom" target="_blank">Malstrom</a>
         </td>
         <td>
-            Malstrom 的目的是来跟踪与取证的神器，还包括 YARA 的规则库与一些调查的笔记
+            Malstrom 的目的是来跟踪与取证的神器，还包括 YARA 的规则库与一些调查的笔记。注：GitHub 仓库无人维护，没有新的 PR 被接受
         </td>
     </tr>
     <tr>
@@ -752,6 +832,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://www.opencti.io/en/" target="_blank">OpenCTI</a>
+        </td>
+        <td>
+            OpenCTI 是一个开放式网络威胁情报平台，允许组织管理其网络威胁情报知识。 其目标是构建、存储、组织和可视化有关网络威胁的技术和非技术信息。数据围绕 STIX2 标准的知识模式构建。OpenCTI 可以与其他工具和平台集成，包括 MISP、TheHive 和 MITRE ATT&CK
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.openioc.org/" target="_blank">OpenIOC</a>
         </td>
         <td>
@@ -776,7 +864,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://www.alienvault.com/open-threat-exchange" target="_blank">OTX - Open Threat Exchange</a>
+            <a href="https://otx.alienvault.com" target="_blank">OTX - Open Threat Exchange</a>
         </td>
         <td>
             AlienVault Open Threat Exchange (OTX) 为威胁研究人员和安全专业人士提供全球开放访问，其提供社区生成的威胁数据来实现协作研究，并自动更新汇聚多来源的威胁数据来完善安全基础设施建设
@@ -872,6 +960,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://www.threatpipes.com" target="_blank">ThreatPipes</a>
+        </td>
+        <td>
+            ThreatPipes 连接威胁情报源与安全工具，以便它们以强大的新方式协同工作。 ThreatPipes 简化了网络威胁情报的聚合、处理与共享的流程。
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://developers.facebook.com/docs/threat-exchange/" target="_blank">ThreatExchange</a>
         </td>
         <td>
@@ -900,14 +996,6 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             IBM XFE 开发的 X-Force Exhange (XFE) 是一款免费的 SaaS 产品，可用于搜索威胁情报信息，收集你的数据并与 XFE 社区的其他成员分享你的看法
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://yara.adlice.com/" target="_blank">Yara Share</a>
-        </td>
-        <td>
-            Yara Share 是一个在线 Yara 规则编辑器与共享平台
         </td>
     </tr>
     <tr>
@@ -1028,7 +1116,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://github.com/spacepatcher/FireHOL-IP-Aggregator" target="_blank">FireHOL IP Aggregator</a>
         </td>
         <td>
-            在 PostgreSQL 中保留 FireHOL <a href="https://github.com/firehol/blocklist-ipsets" target="_blank">黑名单 IP 地址数据集</a>，包括历史更改，针对请求开发的基于 HTTP 的 API 服务
+            保留 FireHOL <a href="https://github.com/firehol/blocklist-ipsets" target="_blank">黑名单 IP 地址数据集</a>，包括历史更改，针对请求开发的基于 HTTP 的 API 服务
         </td>
     </tr>
     <tr>
@@ -1105,6 +1193,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/fhightower/ioc-finder" target="_blank">IOC Finder</a>
+        </td>
+        <td>
+            用于查找文本中 IOC 指标的 Python 库。使用语法而不是正则表达式来提高可理解性。截至 2019 年 2 月，可以解析 18 种类型的 IOC 指标
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/armbues/ioc_parser" target="_blank">ioc_parser</a>
         </td>
         <td>
@@ -1117,6 +1213,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             一个可以创建/编辑基本 OpenIOC 对象的 Python 库
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/InQuest/python-iocextract" target="_blank">iocextract</a>
+        </td>
+        <td>
+            从文本中提取 URL、IP 地址、MD5/SHA 哈希、电子邮件地址与 YARA 规则。在输出中包含一些编码或处理后的 IOC 指标，可选择将其解码/反处理
         </td>
     </tr>
     <tr>
@@ -1217,6 +1321,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/fhightower/onemillion" target="_blank">OneMillion</a>
+        </td>
+        <td>
+            用于确定域名是否在 Alexa 或 Cisco 的 TOP 100 万域名列表中的 Python 库
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/STIXProject/openioc-to-stix" target="_blank">openioc-to-stix</a>
         </td>
         <td>
@@ -1289,6 +1401,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/spacepatcher/softrace" target="_blank">Softrace</a>
+        </td>
+        <td>
+            轻量级国家软件参考库 RDS 存储
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/SecurityRiskAdvisors/sra-taxii2-server" target="_blank">SRA TAXII2 Server</a>
         </td>
         <td>
@@ -1345,18 +1465,18 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke" target="_blank">ThreatPinch Lookup</a>
+            <a href="https://github.com/InQuest/ThreatIngestor" target="_blank">ThreatIngestor</a>
         </td>
         <td>
-            一个用于在每个页面查找 IPv4、MD5、SHA2 以及 CVEs 的 Chrome 扩展程序
+            用于消费威胁情报的灵活的、配置驱动的、可扩展的框架。 ThreatIngestor 可以处理 Twitter、RSS 和其他来源，从中提取有意义的信息，如 C&C 的 IP、域名或 YARA 签名，并将该信息发送到其他系统进行分析
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://www.fidelissecurity.com/resources/fidelis-threatscanner" target="_blank">ThreatScanner</a>
+            <a href="https://chrome.google.com/webstore/detail/threatpinch-lookup/ljdgplocfnmnofbhpkjclbefmjoikgke" target="_blank">ThreatPinch Lookup</a>
         </td>
         <td>
-            Fidelis Cybersecurity 开发的 ThreatScanner 在本地运行一个搜索 IOC 或 YARA 规则的脚本，并自动生成可疑信息的报告
+            一个用于在每个页面查找 IPv4、MD5、SHA2 以及 CVEs 的 Chrome 扩展程序
         </td>
     </tr>
     <tr>
