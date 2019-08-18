@@ -1144,6 +1144,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/UnkL4b/GitMiner" target="_blank">GitMiner</a>
+        </td>
+        <td>
+            Gitminer is an advanced search tool and automation in Github. This tool aims to facilitate research by code or code snippets on github through the site's search page.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/BinaryDefense/goatrider" target="_blank">GoatRider</a>
         </td>
         <td>
