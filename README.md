@@ -977,7 +977,11 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             <a href="https://www.threatpipes.com" target="_blank">ThreatPipes</a>
         </td>
         <td>
-            Threat Intelligence Plumbing. ThreatPipes connects threat intelligence sources and security tools so that they can work together in powerful new ways. ThreatPipes streamlines the aggregation, enforcement and sharing of cyber threat intelligence.
+            Stay two steps ahead of your adversaries. Get a complete picture of how they will exploit you.
+            <br />
+            ThreatPipes is a reconnaissance tool that automatically queries 100’s of data sources to gather intelligence on IP addresses, domain names, e-mail addresses, names and more.
+            <br />
+            You simply specify the target you want to investigate, pick which modules to enable and then ThreatPipes will collect data to build up an understanding of all the entities and how they relate to each other.
         </td>
     </tr>
     <tr>
