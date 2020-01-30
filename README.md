@@ -387,6 +387,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://malware-traffic-analysis.net/" target="_blank">Malware-Traffic-Analysis.net</a>
+        </td>
+        <td>
+            This blog focuses on network traffic related to malware infections. Contains traffic analysis exercises, tutorials, malware samples, pcap files of malicious network traffic, and technical blog posts with observations.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.malwaredomains.com/" target="_blank">MalwareDomains.com</a>
         </td>
         <td>
