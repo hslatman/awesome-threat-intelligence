@@ -363,6 +363,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://malpedia.caad.fkie.fraunhofer.de/" target="_blank">Malpedia</a>
+        </td>
+        <td>
+The primary goal of Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research. 
+        </td>
+    </tr>    
+    <tr>
+        <td>
             <a href="http://www.malshare.com/" target="_blank">MalShare.com</a>
         </td>
         <td>
