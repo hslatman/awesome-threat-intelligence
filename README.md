@@ -1010,10 +1010,10 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/defpoint/threat_Note" target="_blank">Threat_Note</a>
+            <a href="https://github.com/brianwarehime/threatnote" target="_blank">threatnote.io</a>
         </td>
         <td>
-            DPS' Lightweight Investigation Notebook.
+            The new and improved threatnote.io - A tool for CTI analysts and teams to manage intel requirements, reporting, and CTI processes in an all-in-one platform
         </td>
     </tr>
     <tr>
