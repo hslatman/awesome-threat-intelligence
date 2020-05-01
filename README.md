@@ -426,7 +426,7 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
-            <a href="http://www.nothink.org/honeypots.php">NoThink!</a>
+            <a href="http://www.nothink.org">NoThink!</a>
         </td>
         <td>SNMP, SSH, Telnet Blacklisted IPs from Matteo Cantoni's Honeypots</td>
     </tr>
@@ -523,14 +523,6 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
         </td>
         <td>
             Strongarm is a DNS blackhole that takes action on indicators of compromise by blocking malware command and control. Strongarm aggregates free indicator feeds, integrates with commercial feeds, utilizes Percipient's IOC feeds, and operates DNS resolvers and APIs for you to use to protect your network and business. Strongarm is free for personal use.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.talosintelligence.com/aspis/" target="_blank">Talos Aspis</a>
-        </td>
-        <td>
-            Project Aspis is a closed collaboration between Talos and hosting providers to identify and deter major threat actors. Talos shares its expertise, resources, and capabilities including network and system forensics, reverse engineering, and threat intelligence at no cost to the provider.
         </td>
     </tr>
     <tr>
