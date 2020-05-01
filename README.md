@@ -527,14 +527,6 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
-            <a href="https://www.talosintelligence.com/aspis/" target="_blank">Talos Aspis</a>
-        </td>
-        <td>
-            Project Aspis is a closed collaboration between Talos and hosting providers to identify and deter major threat actors. Talos shares its expertise, resources, and capabilities including network and system forensics, reverse engineering, and threat intelligence at no cost to the provider.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://threatfeeds.io" target="_blank">threatfeeds.io</a>
         </td>
         <td>
