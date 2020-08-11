@@ -440,6 +440,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr> 
     <tr>
         <td>
+            <a href="https://novasense-threats.com" target="_blank">NovaSense Threats</a>
+        </td>
+        <td>
+            NovaSense is the Snapt threat intelligence center, and provides insights and tools for pre-emptive threat protection and attack mitigation. NovaSense protects clients of all sizes from attackers, abuse, botnets, DoS attacks and more.
+        </td>
+    </tr>     
+    <tr>
+        <td>
             <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
         </td>
         <td>
