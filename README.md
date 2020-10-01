@@ -1469,6 +1469,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/0x4d31/sqhunter" target="_blank">sqhunter</a>
+        </td>
+        <td>
+            Threat hunter based on osquery, Salt Open and Cymon API. It can query open network sockets and check them against threat intelligence sources
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/SecurityRiskAdvisors/sra-taxii2-server" target="_blank">SRA TAXII2 Server</a>
         </td>
         <td>
@@ -1577,14 +1585,6 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             YETI is a proof-of-concept implementation of TAXII that supports the Inbox, Poll and Discovery services defined by the TAXII Services Specification.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/0x4d31/sqhunter" target="_blank">sqhunter</a>
-        </td>
-        <td>
-            Threat hunter based on osquery, Salt Open and Cymon API. It can query open network sockets and check them against threat intelligence sources
         </td>
     </tr>
 </table>
