@@ -32,7 +32,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="http://s3.amazonaws.com/alexa-static/top-1m.csv.zip" target="_blank">Alexa Top 1 Million sites</a>
         </td>
         <td>
-            The top 1 Million sites from Amazon(Alexa). <a href="http://threatglass.com/pages/about" target="_blank">Never</a> use this as a <a href="https://www.netresec.com/?page=Blog&month=2017-04&post=Domain-Whitelist-Benchmark%3a-Alexa-vs-Umbrella" target="_blank">whitelist</a>.
+            The top 1 Million sites from Amazon(Alexa). Never use this as a <a href="https://www.netresec.com/?page=Blog&month=2017-04&post=Domain-Whitelist-Benchmark%3a-Alexa-vs-Umbrella" target="_blank">whitelist</a>.
         </td>
     </tr>
     <tr>
@@ -141,18 +141,10 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://intel.criticalstack.com/" target="_blank">Critical Stack Intel</a>
+            <a href="https://intelstack.com/" target="_blank">Critical Stack Intel</a>
         </td>
         <td>
-            The free threat intelligence parsed and aggregated by Critical Stack is ready for use in any Bro production system. You can specify which feeds you trust and want to ingest.
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://www.c1fapp.com/" target="_blank">C1fApp</a>
-        </td>
-        <td>
-            C1fApp is a threat feed aggregation application, providing a single feed, both Open Source and private. Provides statistics dashboard, open API for search and is been running for a few years now. Searches are on historical data.
+            The free threat intelligence parsed and aggregated by Critical Stack is ready for use in any Bro production system. You can specify which feeds you trust and want to ingest. Will soon be made unavailable and may become available on https://developer.capitalone.com/resources/open-source.
         </td>
     </tr>
     <tr>
@@ -161,14 +153,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             Cyber Cure offers free cyber threat intelligence feeds with lists of IP addresses that are currently infected and attacking on the internet. There are list of urls used by malware and list of hash files of known malware that is currently spreading. CyberCure is using sensors to collect intelligence with a very low false positive rate. Detailed <a href="https://docs.cybercure.ai" target="_blank">documentation</a> is available as well.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.cyberthreatexchange.com/" target="_blank">Cyber Threat Exchange</a>
-        </td>
-        <td>
-            The Threat Exchange is an online marketplace platform for buying, selling and sharing cyber threat intelligence feeds.
         </td>
     </tr>
     <tr>
@@ -201,14 +185,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             Free intelligence source for current and historical DNS information, WHOIS information, finding other websites associated with certain IPs, subdomain knowledge and technologies. There is a <a href="https://securitytrails.com/">IP and domain intelligence API available</a> as well. 
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://www.assetwatch.io/domainstream/" target="_blank">DomainStream</a>
-        </td>
-        <td>
-            Live domain name feed from various Certificate Transparency Logs and Passive DNS Data that is being scanned everyday. Use this to find new subdomains of your interest when it appears on the internet or find probable phishing domains.
         </td>
     </tr>
     <tr>
@@ -256,7 +232,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="https://feodotracker.abuse.ch/" target="_blank">ZeuS Tracker</a>
         </td>
         <td>
-            The Feodo Tracker <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks the Feodo trojan.
+            The Feodo Tracker <a href="https://abuse.ch/" target="_blank">abuse.ch</a> tracks the Feodo trojan.
         </td>
     </tr>
     <tr>
@@ -304,7 +280,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="https://github.com/SupportIntelligence/Icewater" target="_blank">Icewater</a>
         </td>
         <td>
-            12,805 Free Yara rules created by <a href="http://icewater.io/" target="_blank">http://icewater.io</a>
+            12,805 Free Yara rules created by Project Icewater.
         </td>
     </tr>
     <tr>
@@ -312,7 +288,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="https://infosec.cert-pa.it" target="_blank">Infosec - CERT-PA</a>
         </td>
         <td>
-            Malware samples <a href="https://infosec.cert-pa.it/analyze/submission.html" target="_blank">collection and analysis</a>, <a href="https://infosec.cert-pa.it/analyze/statistics.html" target="_blank">blocklist service, <a href="https://infosec.cert-pa.it/cve.html">vulnerabilities database</a> and more. Created and managed by <a href="https://www.cert-pa.it">CERT-PA</a>
+            Malware samples <a href="https://infosec.cert-pa.it/analyze/submission.html" target="_blank">collection and analysis</a>, <a href="https://infosec.cert-pa.it/analyze/statistics.html" target="_blank">blocklist service, <a href="https://infosec.cert-pa.it/cve.html">vulnerabilities database</a> and more. Created and managed by CERT-PA.
         </td>
     </tr>
     <tr>
@@ -472,14 +448,6 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
-            <a href="https://ransomwaretracker.abuse.ch/" target="_blank">Ransomware Tracker</a>
-        </td>
-        <td>
-            The Ransomware Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks and monitors the status of domain names, IP addresses and URLs that are associated with Ransomware, such as Botnet C&amp;C servers, distribution sites and payment sites.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://rescure.fruxlabs.com/" target="_blank">REScure Threat Intel Feed</a>
         </td>
         <td>
@@ -567,14 +535,6 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
-            <a href="http://www.threatglass.com/" target="_blank">Threatglass</a>
-        </td>
-        <td>
-            An online tool for sharing, browsing and analyzing web-based malware. Threatglass allows users to graphically browse website infections by viewing screenshots of the stages of infection, as well as by analyzing network characteristics such as host relationships and packet captures.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://www.threatminer.org/" target="_blank">ThreatMiner</a>
         </td>
         <td>
@@ -592,7 +552,7 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
         <td>
             <a href="https://portal.underattack.today/" target="_blank">UnderAttack.today</a>
         </td>
-        <td>UnderAttack is a free intelligence platform, it shares IPs and information about suspicious events and attacks. Registration is free at <a href="https://portal.underattack.today" target="_blank">https://portal.underattack.today</a></td>
+        <td>UnderAttack is a free intelligence platform, it shares IPs and information about suspicious events and attacks. Registration is free.</td>
     </tr>
     <tr>
         <td>
@@ -621,7 +581,7 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             <a href="https://zeustracker.abuse.ch/" target="_blank">ZeuS Tracker</a>
         </td>
         <td>
-            The ZeuS Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks ZeuS Command & Control servers (hosts) around the world and provides you a domain- and a IP-blocklist.
+            The ZeuS Tracker by <a href="https://abuse.ch/" target="_blank">abuse.ch</a> tracks ZeuS Command & Control servers (hosts) around the world and provides you a domain- and a IP-blocklist.
         </td>
     </tr>
     <tr>
@@ -804,25 +764,6 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             IntelMQ is a solution for CERTs for collecting and processing security feeds, pastebins, tweets using a message queue protocol. It's a community driven initiative called IHAP (Incident Handling Automation Project) which was conceptually designed by European CERTs during several InfoSec events. Its main goal is to give to incident responders an easy way to collect & process threat intelligence thus improving the incident handling processes of CERTs.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.intelstitch.com" target="_blank">IntelStitch</a>
-        </td>
-        <td>
-            IntelStitch streamlines the aggregation, enforcement and sharing of cyber threat intelligence. IntelStitch can collect and process intelligence from traditional threat feeds as well as more dynamic sources including Pastebin pastes, tweets, and forums so that it can be integrated with downstream security tools.
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://technet.microsoft.com/en-us/security/dn458536" target="_blank">Interflow</a>
-        </td>
-        <td>
-            Interflow is a security and threat information exchange platform created by Microsoft for professionals working in cybersecurity.
-            It uses a distributed architecture which enables sharing of security and threat information within and between communities for a collectively stronger ecosystem.
-            Offering multiple configuration options, Interflow allows users to decide what communities to form, what data feeds to consume, and with whom.
-            Interflow is currently in private preview.
         </td>
     </tr>
     <tr>
@@ -1094,7 +1035,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://bitbucket.org/camp0/aiengine" target="_blank">AIEngine</a>
         </td>
         <td>
-            AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others. Source available on <a href="https://bitbucket.org/camp0/aiengine" target="_blank">Bitbucket</a>.
+            AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.
         </td>
     </tr>
     <tr>
@@ -1207,7 +1148,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc" target="_blank">Google APT Search Engine</a>
         </td>
         <td>
-            APT Groups, Operations and Malware Search Engine. The sources used for this Google Custom Search are listed on <a href="https://gist.github.com/Neo23x0/c4f40629342769ad0a8f3980942e21d3" target="_blank"this</a> GitHub gist.
+            APT Groups, Operations and Malware Search Engine. The sources used for this Google Custom Search are listed on <a href="https://gist.github.com/Neo23x0/c4f40629342769ad0a8f3980942e21d3" target="_blank">this</a> GitHub gist.
         </td>
     </tr>
     <tr>
@@ -1392,6 +1333,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             A set of configuration files to use with EclecticIQ's OpenTAXII implementation, along with a callback for when data is sent to the TAXII Server's inbox.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/microsoft/msticpy" target="_blank">MSTIC Jupyter and Python Security Tools</a>
+        </td>
+        <td>
+            msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks. 
         </td>
     </tr>
     <tr>
@@ -1696,16 +1645,15 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="https://www.threatconnect.com/wp-content/uploads/ThreatConnect-The-Diamond-Model-of-Intrusion-Analysis.pdf" target="_blank">The Diamond Model of Intrusion Analysis</a>
+            <a href="docs/diamond.pdf" target="_blank">The Diamond Model of Intrusion Analysis</a>
         </td>
         <td>
-            This paper presents the Diamond Model, a cognitive framework and analytic instrument to support and improve intrusion analysis. Supporting increased measurability, testability and repeatability
-            in intrusion analysis in order to attain higher effectivity, efficiency and accuracy in defeating adversaries is one of its main contributions.
+            This paper presents the Diamond Model, a cognitive framework and analytic instrument to support and improve intrusion analysis. Supporting increased measurability, testability and repeatability in intrusion analysis in order to attain higher effectivity, efficiency and accuracy in defeating adversaries is one of its main contributions.
         </td>
     </tr>
     <tr>
         <td>
-            <a href="http://www.dtic.mil/dtic/tr/fulltext/u2/a547092.pdf" target="_blank">F3EAD</a>
+            <a href="docs/a547092.pdf" target="_blank">The Targeting Process: D3A and F3EAD</a>
         </td>
         <td>
             F3EAD is a military methodology for combining operations and intelligence.
@@ -1713,7 +1661,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="http://dx.doi.org/10.6028/NIST.SP.800-150" target="_blank">Guide to Cyber Threat Information Sharing by NIST</a>
+            <a href="docs/NIST.SP.800-150.pdf" target="_blank">Guide to Cyber Threat Information Sharing by NIST</a>
         </td>
         <td>
             The Guide to Cyber Threat Information Sharing (NIST Special Publication 800-150) assists organizations in establishing computer security incident response capabilities that leverage the collective knowledge, experience, and abilities of their partners by actively sharing threat intelligence and ongoing coordination. The guide provides guidelines for coordinated incident handling, including producing and consuming data, participating in information sharing communities, and protecting incident-related data.
@@ -1745,7 +1693,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="http://www.dtic.mil/doctrine/new_pubs/jp2_0.pdf" target="_blank">Joint Publication 2-0: Joint Intelligence</a>
+            <a href="docs/jp2_0.pdf" target="_blank">Joint Publication 2-0: Joint Intelligence</a>
         </td>
         <td>
             This publication by the U.S army forms the core of joint intelligence doctrine and lays the foundation to fully integrate operations, plans and intelligence into a cohesive team. The concepts presented are applicable to (Cyber) Threat Intelligence too.
@@ -1778,7 +1726,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="http://rvasec.com/slides/2014/Bianco_Pyramid%20of%20Pain.pdf" target="_blank">Pyramid of Pain</a>
+            <a href="docs/pyramidofpain.pdf" target="_blank">Pyramid of Pain</a>
         </td>
         <td>
             The Pyramid of Pain is a graphical way to express the difficulty of obtaining different levels of indicators and the amount of resources adversaries have to expend when obtained by defenders.
@@ -1786,7 +1734,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="http://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1452241511" target="_blank">Structured Analytic Techniques For Intelligence Analysis</a>
+            <a href="https://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1452241511" target="_blank">Structured Analytic Techniques For Intelligence Analysis</a>
         </td>
         <td>
             This book contains methods that represent the most current best practices in intelligence, law enforcement, homeland security, and business analysis.
