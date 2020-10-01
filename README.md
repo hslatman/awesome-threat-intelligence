@@ -317,6 +317,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://labs.inquest.net" target="_blank">InQuest Labs</a>
+        </td>
+        <td>
+            An open, interactive, and API driven data portal for security researchers. Search a large corpus of file samples, aggregate reputation information, and IOCs extracted from public sources. Augment YARA development with tooling to generate triggers, deal with mixed-case hex, and generate base64 compatible regular expressions.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
         </td>
         <td>
