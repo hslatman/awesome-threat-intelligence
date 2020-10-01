@@ -1337,6 +1337,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/microsoft/msticpy" target="_blank">MSTIC Jupyter and Python Security Tools</a>
+        </td>
+        <td>
+            msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks. 
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/paulpc/nyx" target="_blank">nyx</a>
         </td>
         <td>
