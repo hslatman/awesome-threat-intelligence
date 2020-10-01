@@ -232,7 +232,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="https://feodotracker.abuse.ch/" target="_blank">ZeuS Tracker</a>
         </td>
         <td>
-            The Feodo Tracker <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks the Feodo trojan.
+            The Feodo Tracker <a href="https://abuse.ch/" target="_blank">abuse.ch</a> tracks the Feodo trojan.
         </td>
     </tr>
     <tr>
@@ -581,7 +581,7 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             <a href="https://zeustracker.abuse.ch/" target="_blank">ZeuS Tracker</a>
         </td>
         <td>
-            The ZeuS Tracker by <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> tracks ZeuS Command & Control servers (hosts) around the world and provides you a domain- and a IP-blocklist.
+            The ZeuS Tracker by <a href="https://abuse.ch/" target="_blank">abuse.ch</a> tracks ZeuS Command & Control servers (hosts) around the world and provides you a domain- and a IP-blocklist.
         </td>
     </tr>
     <tr>
@@ -1035,7 +1035,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://bitbucket.org/camp0/aiengine" target="_blank">AIEngine</a>
         </td>
         <td>
-            AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others. Source available on <a href="https://bitbucket.org/camp0/aiengine" target="_blank">Bitbucket</a>.
+            AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.
         </td>
     </tr>
     <tr>
@@ -1734,7 +1734,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="http://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1452241511" target="_blank">Structured Analytic Techniques For Intelligence Analysis</a>
+            <a href="https://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1452241511" target="_blank">Structured Analytic Techniques For Intelligence Analysis</a>
         </td>
         <td>
             This book contains methods that represent the most current best practices in intelligence, law enforcement, homeland security, and business analysis.
