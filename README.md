@@ -280,7 +280,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="https://github.com/SupportIntelligence/Icewater" target="_blank">Icewater</a>
         </td>
         <td>
-            12,805 Free Yara rules created by <a href="http://icewater.io/" target="_blank">http://icewater.io</a>
+            12,805 Free Yara rules created by Project Icewater.
         </td>
     </tr>
     <tr>
