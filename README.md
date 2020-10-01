@@ -317,6 +317,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://labs.inquest.net" target="_blank">InQuest Labs</a>
+        </td>
+        <td>
+            An open, interactive, and API driven data portal for security researchers. Search a large corpus of file samples, aggregate reputation information, and IOCs extracted from public sources. Augment YARA development with tooling to generate triggers, deal with mixed-case hex, and generate base64 compatible regular expressions.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
         </td>
         <td>
@@ -438,6 +446,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             NormShield Services provide thousands of domain information (including whois information) that potential phishing attacks may come from. Breach and blacklist services also available. There is free sign up for public services for continuous monitoring.
         </td>
     </tr> 
+    <tr>
+        <td>
+            <a href="https://novasense-threats.com" target="_blank">NovaSense Threats</a>
+        </td>
+        <td>
+            NovaSense is the Snapt threat intelligence center, and provides insights and tools for pre-emptive threat protection and attack mitigation. NovaSense protects clients of all sizes from attackers, abuse, botnets, DoS attacks and more.
+        </td>
+    </tr>     
     <tr>
         <td>
             <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
@@ -1650,6 +1666,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
         </td>
         <td>
             The Cyber Threat Intelligence Repository of ATT&CK and CAPEC catalogs expressed in STIX 2.0 JSON.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.tandfonline.com/doi/full/10.1080/08850607.2020.1780062" target="_blank">Cyber Threat Intelligence: A Product Without a Process?</a>
+        </td>
+        <td>
+            A research paper describing how current cyber threat intelligence products fall short and how they can be improved by introducing and evaluating sound methodologies and processes.
         </td>
     </tr>
     <tr>
