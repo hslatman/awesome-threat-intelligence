@@ -503,6 +503,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://www.sophos.com/intelix" target="_blank">SophosLabs Intelix</a>
+        </td>
+        <td>
+            SophosLabs Intelix is the threat intelligence platform that powers Sophos products and partners. You can access intelligence based on file hash, url etc. as well as submit samples for analysis. Through REST API's you can easily and quickly add this threat intelligence to your systems.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://sslbl.abuse.ch/" target="_blank">SSL Blacklist</a>
         </td>
         <td>
