@@ -438,6 +438,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             OpenPhish receives URLs from multiple streams and analyzes them using its proprietary phishing detection algorithms. There are free and commercial offerings available.
         </td>
     </tr>
+        <tr>
+        <td>
+            <a href="https://feed.seguranca-informatica.pt/index.php" target="_blank">0xSI_f33d</a>
+        </td>
+        <td>
+            Free service for detecting possbible phishing and malware domains, blacklisted IPs within the Portuguese cyberspace.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://www.phishtank.com/developer_info.php" target="_blank">PhishTank</a>
