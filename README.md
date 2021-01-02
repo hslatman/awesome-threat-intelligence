@@ -316,6 +316,13 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
     </tr>
     <tr>
+	<td>
+            <a href="https://jamesbrine.com.au" target="_blank">James Brine Threat Intelligence Feeds</a>
+        </td>
+        <td>
+		JamesBrine provides daily threat intelligence feeds for malicious IP addresses from internationally located honeypots on cloud and private infrastructure covering a variety of protocols including SSH, FTP, RDP, GIT, SNMP and REDIS. The previous day's IOCs are available in STIX2 as well as additional IOCs such as suspicious URIs and newly registered domains which have a high probaility of use in phishing campaigns.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://support.kaspersky.com/datafeeds" target="_blank">Kaspersky Threat Data Feeds</a>
@@ -335,7 +342,6 @@ Continuously updated and inform your business or clients about risks and implica
     <tr>
         <td><a href="http://malc0de.com/bl/">Malc0de DNS Sinkhole</a></td>
         <td>The files in this link will be updated daily with domains that have been indentified distributing malware during the past 30 days. Collected by malc0de.</td>
-    </tr>
     </tr>
     <tr>
         <td>
