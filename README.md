@@ -493,6 +493,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             SophosLabs Intelix is the threat intelligence platform that powers Sophos products and partners. You can access intelligence based on file hash, url etc. as well as submit samples for analysis. Through REST API's you can easily and quickly add this threat intelligence to your systems.
         </td>
     </tr>
+     <tr>
+        <td>
+            <a href="https://spyse.com/" target="_blank">Spyse</a>
+        </td>
+        <td>
+            Spyse is a cybersecurity search engine that collects and analyze internet assets. Used for quick target overview during recon, attack surface mapping, forensics, and more.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://sslbl.abuse.ch/" target="_blank">SSL Blacklist</a>
