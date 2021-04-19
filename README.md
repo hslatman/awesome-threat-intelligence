@@ -163,6 +163,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
           DataPlane.org is a community-powered Internet data, feeds, and measurement resource for operators, by operators. We provide reliable and trustworthy service at no cost.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://focsec.com" target="_blank">Focsec.com</a>
+        </td>
+        <td>
+          Focsec.com provides a API for detecting VPNs, Proxys, Bots and TOR requests. Always up-to-date data helps with detecting suspicious logins, fraud and abuse. Code examples can be found in the <a href="https://docs.focsec.com" target="_blank">documentation</a>.
+        </td>
+   </tr>	
    <tr>
         <td>
             <a href="https://osint.digitalside.it/" target="_blank">DigitalSide Threat-Intel</a>
