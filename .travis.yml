@@ -1,7 +1,0 @@
-language: ruby
-rvm:
-    - 2.2
-before_script:
-    - gem install awesome_bot
-script:
-    - awesome_bot README.md --white-list CONTRIBUTING.md,http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt,http://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1452241511,https://cryptome.org/2015/09/cti-guide.pdf,https://abuse.ch/,https://www.recordedfuture.com/,https://isc.sans.edu/suspicious_domains.html,http://danger.rulez.sk/projects/bruteforceblocker/blist.php,https://intel.malwaretech.com,http://example.com --allow-ssl --allow-redirect
