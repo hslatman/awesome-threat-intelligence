@@ -25,8 +25,8 @@ jobs:
           args: --verbose --no-progress **/*.md **/*.html
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-      - name: Fail if there were link errors
-        run: exit ${{ steps.lychee.outputs.exit_code }}
+      #- name: Fail if there were link errors
+      #  run: exit ${{ steps.lychee.outputs.exit_code }}
         
       # - name: Create Issue From File
       #   uses: peter-evans/create-issue-from-file@v2
