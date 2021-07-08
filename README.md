@@ -385,6 +385,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://www.malwarepatrol.net/" target="_blank">Malware Patrol</a>
+        </td>
+        <td>
+            Malware Patrol provides block lists, data feeds and threat intelligence to companies of all sizes. Because our specialty is cyber threat intelligence, all our resources go into making sure it is of the highest quality possible. We believe a security team and it's tools are only as good as the data used. This means our feeds are not filled with scraped, unverified indicators. We value quality over quantity. 
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://malware-traffic-analysis.net/" target="_blank">Malware-Traffic-Analysis.net</a>
         </td>
         <td>
