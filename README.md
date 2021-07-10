@@ -377,6 +377,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://bazaar.abuse.ch/" target="_blank">MalwareBazaar</a>
+        </td>
+        <td>
+            MalwareBazaar is a project from abuse.ch with the goal of sharing malware samples with the infosec community, AV vendors and threat intelligence providers.
+        </td>
+    </tr>	
+    <tr>
+        <td>
             <a href="https://www.malwaredomainlist.com/" target="_blank">Malware Domain List</a>
         </td>
         <td>
