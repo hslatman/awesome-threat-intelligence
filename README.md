@@ -421,7 +421,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             NormShield Services provide thousands of domain information (including whois information) that potential phishing attacks may come from. Breach and blacklist services also available. There is free sign up for public services for continuous monitoring.
         </td>
-    </tr> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.obstracts.com/" target="_blank">Obstracts</a>
+        </td>
+        <td>
+            The RSS reader for cybersecurity teams. Turn any blog into structured and actionable threat intelligence.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
@@ -503,6 +511,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.stixify.com/" target="_blank">Stixify</a>
+        </td>
+        <td>
+            Your automated threat intelligence analyst. Extract machine readable intelligence from unstructured data.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://strongarm.io" target="_blank">Strongarm, by Percipient Networks</a>
         </td>
         <td>
@@ -574,6 +590,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             VirusShare.com is a repository of malware samples to provide security researchers, incident responders, forensic analysts, and the morbidly curious access to samples of malicious code. Access to the site is granted via invitation only.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.vulmatch.com/" target="_blank">Vulmatch</a>
+        </td>
+        <td>
+            Straightforward vulnerability management. Know when software you use is vulnerable, how it is being exploited, and how to detect an attack.
         </td>
     </tr>
     <tr>
