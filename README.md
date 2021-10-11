@@ -1062,6 +1062,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/svdwi/BlueBox" target="_blank">BlueBox</a>
+        </td>
+        <td>
+            BlueBox is an OSINT solution to get threat intelligence data about a specific file, an IP, a domain or URL and analyze them.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://botscout.com/">BotScout</a>
         </td>
         <td>
