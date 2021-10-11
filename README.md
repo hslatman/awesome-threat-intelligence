@@ -782,6 +782,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/intelowlproject/IntelOwl/" target="_blank">IntelOwl</a>
+        </td>
+        <td>
+            Intel Owl is an OSINT solution to get threat intelligence data about a specific file, an IP or a domain from a single API at scale. Intel Owl is composed of analyzers that can be run to retrieve data from external sources (like VirusTotal or AbuseIPDB) or to generate intel from internal analyzers (like Yara or Oletools). It can be integrated easily in your stack of security tools (<a href="https://github.com/intelowlproject/pyintelowl" target="_blank">pyintelowl</a>) to automate common jobs usually performed, for instance, by SOC analysts manually.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.kaspersky.com/enterprise-security/threat-intelligence" target="_blank">Kaspersky Threat Intelligence Portal</a>
         </td>
         <td>
