@@ -549,6 +549,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://www.siemrules.com" target="_blank">SIEM Rules</a>
+        </td>
+        <td>
+            Your detection engineering database. View, modify, and deploy SIEM rules for threat hunting and detection.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://threatfeeds.io" target="_blank">threatfeeds.io</a>
         </td>
         <td>
