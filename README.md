@@ -600,6 +600,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://www.vulmatch.com/" target="_blank">Vulmatch</a>
+        </td>
+        <td>
+            Straightforward vulnerability management. Know when software you use is vulnerable, how it is being exploited, and how to detect an attack.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Yara-Rules/rules" target="_blank">Yara-Rules</a>
         </td>
         <td>
