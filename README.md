@@ -1183,6 +1183,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://www.gigasheet.co" target="_blank">Gigasheet</a>
+        </td>
+        <td>
+            Gigasheet is a SaaS product used to analyze massive, and disparate cybersecurity data sets. Import massive log files, netflow, pcaps, big CSVs and more.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/BinaryDefense/goatrider" target="_blank">GoatRider</a>
         </td>
         <td>
