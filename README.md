@@ -454,6 +454,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>     
     <tr>
         <td>
+            <a href="https://www.obstracts.com/" target="_blank">Obstracts</a>
+        </td>
+        <td>
+            The RSS reader for cybersecurity teams. Turn any blog into structured and actionable threat intelligence.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
         </td>
         <td>
