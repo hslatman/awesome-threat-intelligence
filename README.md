@@ -1167,6 +1167,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://cybergordon.com/" target="_blank">CyberGordon</a>
+        </td>
+        <td>
+            CyberGordon is a threat intelligence search engine. It leverages 30+ sources.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/CylanceSPEAR/CyBot" target="_blank">CyBot</a>
         </td>
         <td>
