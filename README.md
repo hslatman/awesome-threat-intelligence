@@ -509,6 +509,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://www.stixify.com/" target="_blank">Stixify</a>
+        </td>
+        <td>
+            Your automated threat intelligence analyst. Extract machine readable intelligence from unstructured data.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Neo23x0/signature-base" target="_blank">signature-base</a>
         </td>
         <td>
