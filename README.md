@@ -1102,6 +1102,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://analyze.intezer.com" target="_blank">Analyze (Intezer)</a>
+        </td>
+        <td>
+            Analyze is an all-in-one malware analysis platform that is able to perform static, dynamic, and genetic code analysis on all types of files. Users can track malware families, extract IOCs/MITRE TTPs, and download YARA signatures. There is a community edition to get started for free.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/1aN0rmus/TekDefense-Automater" target="_blank">Automater</a>
         </td>
         <td>
