@@ -573,6 +573,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://taranis.ng" target="_blank">Taranis NG</a>
+        </td>
+        <td>
+            Taranis NG is an OSINT gathering and analysis tool for CSIRT teams and organisations. It supports the basic analyst workflow Assess (read news items) → Analyse (create structured report items) → Publish. Collect from web, twitter, e-mail, rss/atom, slack, etc. Publish to email, ftp, misp, twitter, wordpress. Built in team to team collaboration, and a self asset management portal.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://threatfeeds.io" target="_blank">threatfeeds.io</a>
         </td>
         <td>
