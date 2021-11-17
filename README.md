@@ -1544,6 +1544,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/traut/stixview" target="_blank">Stixview</a>
+        </td>
+        <td>
+            Stixview is a JS library for embeddable interactive STIX2 graphs.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/STIXProject/stix-viz" target="_blank">stix-viz</a>
         </td>
         <td>
