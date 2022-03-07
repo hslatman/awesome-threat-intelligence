@@ -589,6 +589,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://threatjammer.com" target="_blank">Threat Jammer</a>
+        </td>
+        <td>
+            Threat Jammer is a REST API service that allows developers, security engineers, and other IT professionals to access high-quality threat intelligence data from a variety of sources and integrate it into their applications with the sole purpose of detecting and blocking malicious activity.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.threatminer.org/" target="_blank">ThreatMiner</a>
         </td>
         <td>
