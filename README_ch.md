@@ -148,6 +148,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://app.crowdsec.net/" target="_blank">CrowdSec Console</a>
+        </td>
+        <td>
+            最大的众包CTI，近乎实时地更新，这要归功于CrowdSec--一个新一代的、开源的、免费的、协作的IDS/IPS软件. <a href="https://crowdsec.net" target="_blank">CrowdSec</a> 能够分析访问者的行为并对各种攻击提供适当的响应。用户可以与社区共享有关威胁的警报，并从网络效应中受益。 IP 地址是从真实攻击中收集的，并非完全来自 Honey Pot 网络. 用户可以与社区分享有关威胁的警报，并从网络效应中受益. IP 地址是从真实攻击中收集的，并非完全来自蜜罐网络.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.cybercure.ai/" target="_blank">Cyber Cure free intelligience feeds</a>
         </td>
         <td>
