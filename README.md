@@ -149,6 +149,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://app.crowdsec.net/" target="_blank">CrowdSec Console</a>
+        </td>
+        <td>
+            The largest crowd-sourced CTI, updated in near real-time, thanks to CrowdSec a next-gen, open-source, free, and collaborative IDS/IPS software. <a href="https://crowdsec.net" target="_blank">CrowdSec</a>  is able to analyze visitor behavior & provide an adapted response to all kinds of attacks. Users can share their alerts about threats with the community and benefit from the network effect. The IP addresses are collected from real attacks and are not coming exclusively from a honeypot network.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.cybercure.ai/" target="_blank">Cyber Cure free intelligence feeds</a>
         </td>
         <td>
