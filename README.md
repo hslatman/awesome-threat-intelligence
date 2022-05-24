@@ -509,6 +509,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://account.seclookup.com" target="_blank">Seclookup Scan</a>
+        </td>
+        <td>
+             <a href="https://account.seclookup.com" target="_blank">Seclookup API</a> Seclookup APIs can enrich domain threat indicators in SIEM, provide comprehensive information on domain names, improve threat detection & response, and automate threat investigations. Security service at seclookup provides smart threat intelligence APIs that can be easily integrated in your services and products. We provide the service at mass i.e millions of lookups in month.</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.stixify.com/" target="_blank">Stixify</a>
         </td>
         <td>
