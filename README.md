@@ -137,6 +137,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
         <td>
             Probable Whitelist of the top 1 million sites resolved by Cisco Umbrella (was OpenDNS).
+	</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://cloudmersive.com/virus-api" target="_blank">Cloudmersive Virus Scan</a>
+        </td>
+        <td>
+            Cloudmersive Virus Scan APIs scan files, URLs, and cloud storage for viruses. They leverage continuously updated signatures for millions of threats, and advanced high-performance scanning capabilities. The service is free, but requires you register for an account to retrieve your personal API key.
         </td>
     </tr>
     <tr>
