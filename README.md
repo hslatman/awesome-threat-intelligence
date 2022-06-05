@@ -502,6 +502,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://rstcloud.net/" target="_blank">RST Cloud Threat Intel Feed</a>
+        </td>
+        <td>
+            Aggregated Indicators of Compromise collected and cross-verified from multiple open and community-supported sources, enriched and ranked using our intelligence platform.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://report.cs.rutgers.edu/mrtg/drop/dropstat.cgi?start=-86400">Rutgers Blacklisted IPs</a>
         </td>
         <td>IP List of SSH Brute force attackers is created from a merged of locally observed IPs and 2 hours old IPs registered at badip.com and blocklist.de</td>
