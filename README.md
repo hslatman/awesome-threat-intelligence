@@ -1045,6 +1045,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/typedb-osi/typedb-cti" target="_blank">TypeDB CTI</a>
+        </td>
+        <td>
+		TypeDB Data - CTI is an open source threat intelligence platform for organisations to store and manage their cyber threat intelligence (CTI) knowledge. It enables threat intel professionals to bring together their disparate CTI information into one database and find new insights about cyber threats. This repository provides a schema that is based on STIX2, and contains MITRE ATT&CK as an example dataset to start exploring this threat intelligence platform. More in this <a href="https://blog.vaticle.com/introducing-a-knowledge-graph-for-cyber-threat-intelligence-with-typedb-bdb559a92d2a" target="_blank">blog post</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://beta.virusbay.io/" target="_blank">VirusBay</a>
         </td>
         <td>
