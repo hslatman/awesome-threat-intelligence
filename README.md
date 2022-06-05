@@ -605,6 +605,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://threatfox.abuse.ch/" target="_blank">threatfox.abuse.ch</a>
+        </td>
+        <td>
+            ThreatFox is a free platform from abuse.ch with the goal of sharing indicators of compromise (IOCs) associated with malware with the infosec community, AV vendors and threat intelligence providers.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://threatconnect.com/blog/ingest-technical-blogs-reports/" target="_blank">Technical Blogs and Reports, by ThreatConnect</a>
         </td>
         <td>
