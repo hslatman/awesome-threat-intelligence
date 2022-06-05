@@ -4,13 +4,13 @@
 
 威胁情报的简明定义：基于证据的知识，包括上下文、机制、指标、影响与和可行的建议，关于现有或新出现对资产的威胁或风险，可被用来告知有关威胁响应的决定
 
-Feel free to [contribute](CONTRIBUTING.md).
+提交前请查看 [contribute](CONTRIBUTING.md).
 
 - [资源](#资源)
 - [格式](#格式)
 - [框架与平台](#框架与平台)
 - [工具](#工具)
-- [研究、标准、书籍](#research)
+- [研究、标准、书籍](#研究、标准、书籍)
 
 
 ## 资源
@@ -31,7 +31,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="http://s3.amazonaws.com/alexa-static/top-1m.csv.zip" target="_blank">Alexa Top 1 Million sites</a>
         </td>
         <td>
-            亚马逊提供的 Alexa TOP 100 万排名的网站。永远<a href="http://threatglass.com/pages/about" target="_blank">不要</a>作为<a href="https://www.netresec.com/?page=Blog&month=2017-04&post=Domain-Whitelist-Benchmark%3a-Alexa-vs-Umbrella" target="_blank">白名单</a>使用
+            亚马逊提供的 Alexa TOP 100 万排名的网站。永远不要将它作为<a href="https://www.netresec.com/?page=Blog&month=2017-04&post=Domain-Whitelist-Benchmark%3a-Alexa-vs-Umbrella" target="_blank">白名单</a>使用
         </td>
     </tr>
     <tr>
@@ -56,6 +56,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             提供不到两千个恶意 IP 地址和其他一些资源的公共服务
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.binarydefense.com/banlist.txt" target="_blank">Binary Defense IP Banlist</a>
+        </td>
+        <td>
+            Binary Defense 的威胁情报订阅源和 IP 黑名单列表
         </td>
     </tr>
     <tr>
@@ -132,18 +140,10 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://intel.criticalstack.com/" target="_blank">Critical Stack Intel</a>
+            <a href="https://intelstack.com/" target="_blank">Critical Stack Intel</a>
         </td>
         <td>
-            Critical Stack 提供的免费威胁情报解析与聚合工具，可以应用到生产系统中。也可以指定你信任的情报来源或能提取情报的来源
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://www.c1fapp.com/" target="_blank">C1fApp</a>
-        </td>
-        <td>
-            C1fApp 是一个威胁情报订阅聚合应用，提供开源订阅与私有订阅。带有统计面板、用来搜索几年内数据的开放 API
+            由 Critical Stack 提供的免费威胁情报解析与聚合工具，可以应用到任何 Bro 生产系统中。也可以指定你信任的情报来源或能提取情报的来源，可能 https://developer.capitalone.com/resources/open-source 是可用的
         </td>
     </tr>
     <tr>
@@ -164,14 +164,6 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://www.cyberthreatexchange.com/" target="_blank">Cyber Threat Exchange</a>
-        </td>
-        <td>
-            Threat Exchange 是一个购买、出售与共享网络威胁情报的在线市场平台
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://dataplane.org/" target="_blank">DataPlane.org</a>
         </td>
         <td>
@@ -183,7 +175,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://osint.digitalside.it/" target="_blank">DigitalSide Threat-Intel</a>
         </td>
         <td>
-            Cointains 开源网络威胁情报指标集合，基于恶意软件分析的 URL、IP 和域名。该项目的目的是开发和测试寻找、分析、收集与共享相关 IOC 指标的新方法，以便 SOC/CSIRT/CERT/个人尽可能地方便。报告以三种方式共享：<a href="https://osint.digitalside.it/Threat-Intel/stix2/" target="_blank"> STIX2 </a>，<a href ="https://osint.digitalside.it/Threat-Intel/csv/" target="_blank"> CSV </a>和<a href ="https://osint.digitalside.it/Threat-Intel/digitalside-misp-feed/ "target="_ blank"> MISP Feed </a>。报告也发布在<a href="https://github.com/davidonzo/Threat-Intel/" target="_blank">GitHub</a>中
+            开源网络威胁情报指标集合，基于恶意软件分析的 URL、IP 和域名。该项目的目的是开发和测试寻找、分析、收集与共享相关 IOC 指标的新方法，以便 SOC/CSIRT/CERT/个人尽可能地方便。报告以三种方式共享：<a href="https://osint.digitalside.it/Threat-Intel/stix2/" target="_blank"> STIX2 </a>，<a href ="https://osint.digitalside.it/Threat-Intel/csv/" target="_blank"> CSV </a>和<a href ="https://osint.digitalside.it/Threat-Intel/digitalside-misp-feed/ "target="_ blank"> MISP Feed </a>。报告也发布在<a href="https://github.com/davidonzo/Threat-Intel/" target="_blank">GitHub</a>中
         </td>
     </tr>
     <tr>
@@ -200,14 +192,6 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             提供当前和历史 DNS 信息、WHOIS 信息，子域名信息，还提供了一个<a href="https://securitytrails.com/"> IP 与域名情报的 API</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.assetwatch.io/domainstream/" target="_blank">DomainStream</a>
-        </td>
-        <td>
-            来自每日扫描的各种证书透明度日志和 Passive DNS 数据的实时域名订阅，可以基于此查找互联网中感兴趣的新的子域名，或者查找潜在的网络钓鱼域名
         </td>
     </tr>
     <tr>
@@ -303,7 +287,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://github.com/SupportIntelligence/Icewater" target="_blank">Icewater</a>
         </td>
         <td>
-            由 <a href="http://icewater.io/" target="_blank">http://icewater.io</a> 提供的 12805 条免费的 Yara 规则
+            由 Icewater 提供的 12805 条免费的 Yara 规则
         </td>
     </tr>
     <tr>
@@ -311,15 +295,15 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://infosec.cert-pa.it" target="_blank">Infosec - CERT-PA</a>
         </td>
         <td>
-            恶意软件样本的<a href="https://infosec.cert-pa.it/analyze/submission.html" target="_blank">收集和分析</a>、<a href="https://infosec.cert-pa.it/analyze/statistics.html" target="_blank">黑名单服务、<a href="https://infosec.cert-pa.it/cve.html">漏洞数据库</a>等。创建并管理自定义的<a href="https://www.cert-pa.it">CERT-PA</a>
+            恶意软件样本的<a href="https://infosec.cert-pa.it/analyze/submission.html" target="_blank">收集与分析</a>、<a href="https://infosec.cert-pa.it/analyze/statistics.html" target="_blank">黑名单<a href="https://infosec.cert-pa.it/cve.html">漏洞数据库</a>等其他服务。由 CERT-PA 创建并管理
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://infosec.cert-pa.it" target="_blank">Infosec - CERT-PA</a>
+            <a href="https://labs.inquest.net" target="_blank">InQuest Labs</a>
         </td>
         <td>
-            恶意软件样本的<a href="https://infosec.cert-pa.it/analyze/submission.html" target="_blank">收集与分析</a>、<a href="https://infosec.cert-pa.it/analyze/statistics.html" target="_blank">黑名单<a href="https://infosec.cert-pa.it/cve.html">漏洞数据库</a>等其他服务。由<a href="https://www.cert-pa.it">CERT-PA</a>创建并管理
+            一个开放、交互式的、由 API 驱动的，面向安全研究人员的数据门户。可以搜索大量的文件样本，聚合了文件的信誉信息以及从公共资源中提取的 IOC 指标。使用工具来增强 Yara 开发、生成触发器、处理大小写混合的十六进制并生成与 base64 兼容的正则表达式
         </td>
     </tr>
     <tr>
@@ -336,6 +320,22 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             IPsum 是一个威胁情报源，基于 30 多个不同的、公开的可疑或恶意的 IP 地址列表。 每天自动检索并解析所有列表，并将最终结果推送到此存储库。列表由 IP 地址和出现的总数组成。 由<a href="https://twitter.com/stamparm"> Miroslav Stampar </a>创建并管理
+        </td>
+    </tr>
+    <tr>
+	    <td>
+            <a href="https://jamesbrine.com.au" target="_blank">James Brine Threat Intelligence Feeds</a>
+        </td>
+        <td>
+		    JamesBrine 通过云上和私有服务器上的蜜罐跟踪恶意 IP 地址，提供包括 SSH、FTP、RDP、GIT、SNMP 和 REDIS 在内的每日更新威胁情报。IOC 以 STIX2 格式提供，其披露的域名在钓鱼活动中很常见
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://support.kaspersky.com/datafeeds" target="_blank">Kaspersky Threat Data Feeds</a>
+        </td>
+        <td>
+            持续更新并告知您的企业或客户与网络威胁相关的风险和影响。实时数据可帮助您更有效地缓解威胁，甚至在攻击发起之前就防御攻击。与商业数据相比，演示数据订阅只包含部分 IoC（最多 1%）
         </td>
     </tr>
     <tr>
@@ -362,6 +362,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://malpedia.caad.fkie.fraunhofer.de/" target="_blank">Malpedia</a>
+        </td>
+        <td>
+            Malpedia 的主要目标是在调查恶意软件时提供快速识别和可用的上下文。
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.malshare.com/" target="_blank">MalShare.com</a>
         </td>
         <td>
@@ -376,12 +384,36 @@ Feel free to [contribute](CONTRIBUTING.md).
             Maltiverse 项目是一个庞大而丰富的 IoC 数据库，可以进行复杂的查询和聚合以调查恶意软件的活动及其基础设施。也提供了一个很棒的 IoC 批量查询服务
         </td>
     </tr>
+        <tr>
+        <td>
+            <a href="https://bazaar.abuse.ch/" target="_blank">MalwareBazaar</a>
+        </td>
+        <td>
+            MalwareBazaar 是一个来自 abuse.ch 的项目，其目标是与社区、反病毒供应商和威胁情报提供商共享恶意软件样本
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://www.malwaredomainlist.com/" target="_blank">Malware Domain List</a>
         </td>
         <td>
             可搜索的恶意网站列表，反向查询出注册人信息，重点关注网络钓鱼、木马和漏洞利用工具包
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.malwarepatrol.net/" target="_blank">Malware Patrol</a>
+        </td>
+        <td>
+            Malware Patrol 为各种规模的公司提供黑名单列表、数据订阅和威胁情报。该公司精于网络威胁情报，重视情报的质量而非情报的数量，确保情报的质量是第一要务。
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://malware-traffic-analysis.net/" target="_blank">Malware-Traffic-Analysis.net</a>
+        </td>
+        <td>
+            该博客重点介绍与恶意软件相关的网络流量，包含流量分析练习题、教程、恶意软件样本、网络流量 pcap 文件以及技术分析报告
         </td>
     </tr>
     <tr>
@@ -409,7 +441,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://www.nothink.org/honeypots.php">NoThink!</a>
+            <a href="http://www.nothink.org">NoThink!</a>
         </td>
         <td>
             来自 Matteo Cantoni 蜜罐提供的 SNMP、SSH、Telnet 黑名单 IP
@@ -422,7 +454,23 @@ Feel free to [contribute](CONTRIBUTING.md).
         <td>
             NormShield Services 提供了数千个潜在网络钓鱼攻击的域名信息（包括 whois 信息），免费注册公共服务以进行持续监控
         </td>
-    </tr> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://novasense-threats.com" target="_blank">NovaSense Threats</a>
+        </td>
+        <td>
+            NovaSense 是 Snapt 的威胁情报中心，提供用于先发制人的威胁防护和缓解攻击的工具。NovaSense 保护各种规模的客户免受攻击者的侵害
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.obstracts.com/" target="_blank">Obstracts</a>
+        </td>
+        <td>
+            网络安全团队的 RSS 阅读器，能够将任何博客转变为结构化和可运营的威胁情报
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
@@ -437,14 +485,6 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             PhishTank 提供了可疑钓鱼网站的 URL，它们的数据来自各个报告的人，它们也在外部订阅中获得数据，这是一项免费服务，但有时需要 API key
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://ransomwaretracker.abuse.ch/" target="_blank">Ransomware Tracker</a>
-        </td>
-        <td>
-            Ransomware Tracker 由 <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> 提供对与 Ransomware 有关的域名、IP、URL 状态进行跟踪与监视
         </td>
     </tr>
     <tr>
@@ -474,6 +514,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://www.stixify.com/" target="_blank">Stixify</a>
+        </td>
+        <td>
+            自动化威胁情报分析工具，从非结构化数据中提取可机读威胁情报
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Neo23x0/signature-base" target="_blank">signature-base</a>
         </td>
         <td>
@@ -486,6 +534,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             Spamhaus 项目包含包括垃圾邮件以及恶意软件活动在内的多种威胁情报
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.sophos.com/intelix" target="_blank">SophosLabs Intelix</a>
+        </td>
+        <td>
+            SophosLabs Intelix 是为 Sophos 的产品和合作伙伴提供支持的威胁情报平台。可以基于文件哈希、URL 等进行查询，也可以提交样本进行分析。通过 REST API 可以快速地将威胁情报集成到已有系统中
         </td>
     </tr>
     <tr>
@@ -514,10 +570,18 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://www.talosintelligence.com/aspis/" target="_blank">Talos Aspis</a>
+            <a href="https://www.siemrules.com" target="_blank">SIEM Rules</a>
         </td>
         <td>
-            Aspis 是一个 Talos 和主机提供商的封闭合作项目，用来识别与阻止主要威胁。Talos 与主机提供商共享其专业知识、资源与能力，包括网络与系统取证、逆向工程与威胁情报
+            检测工程数据库，用于查看、修改和部署 SIEM 规则以进行威胁狩猎
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://threatfeeds.io" target="_blank">threatfeeds.io</a>
+        </td>
+        <td>
+            threatfeeds.io 列出了免费和开源的威胁情报来源，并提供直接下载链接和实时摘要信息
         </td>
     </tr>
     <tr>
@@ -526,14 +590,6 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             在九十多个开源博客中提取 IOCs (<a href="https://en.wikipedia.org/wiki/Indicator_of_compromise" target="_blank">Indicators of Compromise</a>)，博客内容使用 markdown 排版
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://www.threatglass.com/" target="_blank">Threatglass</a>
-        </td>
-        <td>
-            一个用于共享、浏览、与分析基于网络的恶意软件的在线工具，Threatglass 允许用户通过浏览器来查看恶意软件在感染阶段的屏幕截图以及网络特性的分析（包括主机关系与数据包捕获）
         </td>
     </tr>
     <tr>
@@ -557,7 +613,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://portal.underattack.today/" target="_blank">UnderAttack.today</a>
         </td>
         <td>
-            UnderAttack 是一个免费的情报平台，它共享有关可疑事件和攻击的 IP 地址与其他信息。可在<a href="https://portal.underattack.today" target="_blank">此处</a>免费注册
+            UnderAttack 是一个免费的情报平台，它共享有关可疑事件和攻击的 IP 地址与其他信息。可以免费注册
         </td>
     </tr>
     <tr>
@@ -760,6 +816,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://www.eclecticiq.com/platform" target="_blank">EclecticIQ Platform</a>
+        </td>
+        <td>
+            EclecticIQ Platform 是基于 STIX/TAXII 的威胁情报平台（TIP），使分析人员能够更快、更好、更深入地调查，同时以机器速度分发威胁情报
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.enisa.europa.eu/topics/csirt-cert-services/community-projects/incident-handling-automation" target="_blank">IntelMQ</a>
         </td>
         <td>
@@ -768,18 +832,18 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://www.intelstitch.com" target="_blank">IntelStitch</a>
+            <a href="https://github.com/intelowlproject/IntelOwl/" target="_blank">IntelOwl</a>
         </td>
         <td>
-            IntelStitch 简化了网络威胁情报的聚合、处理与共享。 IntelStitch 可以从传统威胁源以及更多动态源（包括 Pastebin、Twitter 和论坛）收集与处理情报，以便可以更好地与下游安全工具集成。
+            Intel Owl 是一种 OSINT 解决方案，可从单个 API 大规模获取有关特定哈希、IP 或域名的威胁情报数据。Intel Owl 可以运行多个外部分析器从外部来源（如 VirusTotal 或 AbuseIPDB）检索数据或从内部分析器（如 Yara 或 Oletools）生成情报。它可以轻松集成到安全工具集 (<a href="https://github.com/intelowlproject/pyintelowl" target="_blank">pyintelowl</a>) 中，以自动化通常由 SOC 分析师手动执行的常见工作。
         </td>
     </tr>
     <tr>
         <td>
-            <a href="https://technet.microsoft.com/en-us/security/dn750892" target="_blank">Interflow</a>
+            <a href="https://www.kaspersky.com/enterprise-security/threat-intelligence" target="_blank">Kaspersky Threat Intelligence Portal</a>
         </td>
         <td>
-            Interflow  是由 Microsoft 为网络安全分析人员创建的安全和威胁信息交换平台，它使用分布式架构，可以在社区内外构建更强大的生态系统来分享安全与威胁信息。Interflow 提供多种配置选项，允许用户决定要组建那些社区，整合那些数据订阅以及与谁共享。Interflow 目前仍然是 private preview 状态
+            提供描述网络威胁、合法对象及其关系知识库的网站。订阅卡巴斯基实验室的威胁情报可提供四项补充服务：卡巴斯基威胁数据源、威胁情报报告、卡巴斯基威胁查找和卡巴斯基研究沙盒，所有这些服务均以人类可读和机器可读格式提供。
         </td>
     </tr>
     <tr>
@@ -848,7 +912,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://www.openioc.org/" target="_blank">OpenIOC</a>
+            <a href="https://www.fireeye.com/services/freeware.html" target="_blank">OpenIOC</a>
         </td>
         <td>
             OpenIOC 是一个开放的共享威胁情报的框架，它的目的是用计读的格式互通内部与外部的威胁情报信息
@@ -888,7 +952,15 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://www.passivetotal.org/" target="_blank">PassiveTotal</a>
+            <a href="https://github.com/Lookingglass/opentpx/" target="_blank">Open Threat Partner eXchange</a>
+        </td>
+        <td>
+            Open Threat Partner eXchange（OpenTPX）由开源格式和工具组成，用于交换机器可读的威胁情报和网络安全运营数据。它是一种基于 JSON 的格式，允许在连接的系统之间共享数据
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://community.riskiq.com/" target="_blank">PassiveTotal</a>
         </td>
         <td>
             RiskIQ 提供的 PassiveTotal 平台是一个威胁分析平台，可以为威胁分析人员提供尽可能多的数据，来阻止曾经发生过的攻击，提供了不同类型的解决方案和与其他系统的整合
@@ -920,10 +992,10 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://soltra.com/" target="_blank">Soltra Edge</a>
+            <a href="https://www.celerium.com/automate" target="_blank">Soltra</a>
         </td>
         <td>
-            Soltra Edge 的免费版本，支持扩展社区防御模型。扩展性好，操作性交互度很高，基于开箱即用的行业标准，包括 STIX 和 TAXII
+            Soltra 支持高操作性交互度、高可扩展性的社区防御模型，使用包括 STIX（2.1）与 TAXII 在内的行业标准构建
         </td>
     </tr>
     <tr>
@@ -971,7 +1043,10 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://www.threatpipes.com" target="_blank">ThreatPipes</a>
         </td>
         <td>
-            ThreatPipes 连接威胁情报源与安全工具，以便它们以强大的新方式协同工作。 ThreatPipes 简化了网络威胁情报的聚合、处理与共享的流程。
+            <br />
+            ThreatPipes 可以自动查询 100 余个数据源，以收集与 IP 地址、域名、电子邮件地址、名称等有关的情报
+            <br />
+            只需指定要调查的目标，选择要启用的模块，然后 ThreatPipes 将自动收集数据
         </td>
     </tr>
     <tr>
@@ -992,10 +1067,10 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://github.com/defpoint/threat_Note" target="_blank">Threat_Note</a>
+            <a href="https://github.com/brianwarehime/threatnote" target="_blank">threatnote.io</a>
         </td>
         <td>
-            DPS 的轻量级调查笔记本
+            经过改进的 Threatnote.io-CTI 分析团队使用的工具，可以在多平台上管理情报、报告和 CTI 流程
         </td>
     </tr>
     <tr>
@@ -1036,7 +1111,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://bitbucket.org/camp0/aiengine" target="_blank">AIEngine</a>
         </td>
         <td>
-            AIEngine 是下一代交互式支持 Python/Ruby/Java/Lua 编程的包检测引擎，无需任何人工干预，具有 NIDS 的功能、DNS 域名分类、网络流量收集、网络取证等许多功能，源码在<a href="https://bitbucket.org/camp0/aiengine" target="_blank">Bitbucket</a>
+            AIEngine 是下一代交互式支持 Python/Ruby/Java/Lua 编程的包检测引擎，无需任何人工干预，具有 NIDS 的功能、DNS 域名分类、网络流量收集、网络取证等许多功能
         </td>
     </tr>
     <tr>
@@ -1045,6 +1120,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             Automater 是一个集合 URL/Domain、IP Address 和 Md5 的 OSINT 工具，旨在让入侵分析变得更轻松
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/svdwi/BlueBox" target="_blank">BlueBox</a>
+        </td>
+        <td>
+            BlueBox 是一个 OSINT 解决方案，用于获取有关特定哈希、IP、域名或 URL 的威胁情报数据并对其进行分析。
         </td>
     </tr>
     <tr>
@@ -1097,6 +1180,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://cybergordon.com/" target="_blank">CyberGordon</a>
+        </td>
+        <td>
+            Cyber​​Gordon 是一个威胁情报搜索引擎，一共集成了 30 多个情报来源
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/CylanceSPEAR/CyBot" target="_blank">CyBot</a>
         </td>
         <td>
@@ -1137,6 +1228,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://www.gigasheet.co" target="_blank">Gigasheet</a>
+        </td>
+        <td>
+            Gigasheet 是一个 SaaS 产品，用于分析大量不同的网络安全数据集，支持导入海量日志文件、netflow、pcaps、大型 CSV 等
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/BinaryDefense/goatrider" target="_blank">GoatRider</a>
         </td>
         <td>
@@ -1148,7 +1247,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc" target="_blank">Google APT Search Engine</a>
         </td>
         <td>
-            APT 组织与恶意软件搜索引擎，用于此 Google 自定义搜索的来源列表在 <a href="https://gist.github.com/Neo23x0/c4f40629342769ad0a8f3980942e21d3" target="_blank"this</a> GitHub 中
+            APT 组织与恶意软件搜索引擎，用于此 Google 自定义搜索的来源列表在 <a href="https://gist.github.com/Neo23x0/c4f40629342769ad0a8f3980942e21d3" target="_blank">GitHub</a> 中
         </td>
     </tr>
     <tr>
@@ -1209,6 +1308,14 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/ioc-fang/ioc_fanger" target="_blank">IOC Fanger (and Defanger)</a>
+        </td>
+        <td>
+            用于在 fanging（`hXXp://example[.]com` => `http://example.com`） 与 defanging（`http://example.com` => `hXXp://example[.]com`） 转换的 Python 库
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/armbues/ioc_parser" target="_blank">ioc_parser</a>
         </td>
         <td>
@@ -1253,6 +1360,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             Jager 是一个从各种数据源（现在已支持 PDF，很快支持纯文本，最终会支持网页）提取有用的 IOC 并将其变成易于操作的 JSON 格式的工具
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://support.kaspersky.com/13850" target="_blank">Kaspersky CyberTrace</a>
+        </td>
+        <td>
+            威胁情报融合和分析工具，将威胁数据与 SIEM 解决方案集成在一起。用户可以利用威胁情报在现有安全运营工作流程中进行安全监控和事件报告
         </td>
     </tr>
     <tr>
@@ -1317,6 +1432,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             一组用于使用 EclecticIQ 的 OpenTAXII 实例的配置文件，当数据送达 TAXII 服务器的收件箱时带有回调
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://github.com/microsoft/msticpy" target="_blank">MSTIC Jupyter and Python Security Tools</a>
+        </td>
+        <td>
+            msticpy 是用于调查和狩猎的 Jupyter Notebook
         </td>
     </tr>
     <tr>
@@ -1396,7 +1519,7 @@ Feel free to [contribute](CONTRIBUTING.md).
             <a href="https://www.fireeye.com/services/freeware/redline.html" target="_blank">Redline</a>
         </td>
         <td>
-            主机调查工具，分析其可用于 ICO 分析的数据
+            主机调查工具，分析其可用于 IOC 分析的数据
         </td>
     </tr>
     <tr>
@@ -1413,6 +1536,14 @@ Feel free to [contribute](CONTRIBUTING.md).
         </td>
         <td>
             轻量级国家软件参考库 RDS 存储
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/0x4d31/sqhunter" target="_blank">sqhunter</a>
+        </td>
+        <td>
+            基于 osquery、Salt Open 与 Cymon API 的狩猎工具，可以通过网络查询威胁情报
         </td>
     </tr>
     <tr>
@@ -1527,26 +1658,18 @@ Feel free to [contribute](CONTRIBUTING.md).
             YETI 是一个 TAXII 的概念验证，带有收件箱、轮询和 TAXII 的特定服务支持
         </td>
     </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/0x4d31/sqhunter" target="_blank">sqhunter</a>
-        </td>
-        <td>
-            基于 osquery、Salt Open 和 Cymon API 的威胁狩猎。它可以查询 open 的网络套接字并根据威胁情报来源进行检查
-        </td>
-    </tr>
 </table>
 
 
 
-## <a name="research"></a> 研究、标准、书籍
+## 研究、标准、书籍
 
 威胁情报的各种材料，包括研究与白皮书
 
 <table>
     <tr>
         <td>
-            <a href="https://github.com/gasgas4/APT_CyberCriminal_Campaign" target="_blank">APT & Cyber Criminal Campaign Collection</a>
+            <a href="https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections" target="_blank">APT & Cyber Criminal Campaign Collection</a>
         </td>
         <td>
             广泛收集各种组织信息，来源多样
@@ -1586,6 +1709,22 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/mitre/cti" target="_blank">Cyber Threat Intelligence Repository by MITRE</a>
+        </td>
+        <td>
+            以 STIX 2.0 JSON 表示的 ATT&CK 和 CAPEC 目录的网络威胁情报存储库
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.tandfonline.com/doi/full/10.1080/08850607.2020.1780062" target="_blank">Cyber Threat Intelligence: A Product Without a Process?</a>
+        </td>
+        <td>
+            研究当前网络威胁情报产品的不足之处，以及如何通过引入和评估合理的方法和流程来加以改进
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://cryptome.org/2015/09/cti-guide.pdf" target="_blank">Definitive Guide to Cyber Threat Intelligence</a>
         </td>
         <td>
@@ -1602,7 +1741,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://www.threatconnect.com/wp-content/uploads/ThreatConnect-The-Diamond-Model-of-Intrusion-Analysis.pdf" target="_blank">The Diamond Model of Intrusion Analysis</a>
+            <a href="docs/diamond.pdf" target="_blank">The Diamond Model of Intrusion Analysis</a>
         </td>
         <td>
             本文介绍了钻石模型，一种支持和改善入侵分析认知的框架和分析工具。Supporint 为入侵分析中增加了可检测性、可测试性和可重复性来获得更高的有效性，击败对手的效率和准确度是其主要贡献之一
@@ -1610,7 +1749,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://www.dtic.mil/dtic/tr/fulltext/u2/a547092.pdf" target="_blank">F3EAD</a>
+            <a href="docs/a547092.pdf" target="_blank">The Targeting Process: D3A and F3EAD</a>
         </td>
         <td>
             F3EAD 是一个将行动与情报相结合的军事方法
@@ -1618,7 +1757,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://dx.doi.org/10.6028/NIST.SP.800-150" target="_blank">Guide to Cyber Threat Information Sharing by NIST</a>
+            <a href="docs/NIST.SP.800-150.pdf" target="_blank">Guide to Cyber Threat Information Sharing by NIST</a>
         </td>
         <td>
             Guide to Cyber Threat Information Sharing (NIST Special Publication 800-150) 协助组织建立计算机安全事件响应能力，利用合作伙伴的知识、经验和能力，积极分享威胁情报并持续协调。该指南提供协调事件处理的指导方针，包括生成和使用数据，参与信息共享社区
@@ -1650,7 +1789,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://www.dtic.mil/doctrine/new_pubs/jp2_0.pdf" target="_blank">Joint Publication 2-0: Joint Intelligence</a>
+            <a href="docs/jp2_0.pdf" target="_blank">Joint Publication 2-0: Joint Intelligence</a>
         </td>
         <td>
             美军的这本出版物以情报学说为核心，为运作、计划情报融入一个凝聚力的团队奠定了基础，所提出的概念也适用于网络威胁情报
@@ -1682,7 +1821,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://rvasec.com/slides/2014/Bianco_Pyramid%20of%20Pain.pdf" target="_blank">Pyramid of Pain</a>
+            <a href="docs/pyramidofpain.pdf" target="_blank">Pyramid of Pain</a>
         </td>
         <td>
             Pyramid of Pain 以图形化方式来表达不同级别指标数据的困难度，以及防守者发现时攻击方获得的资源量
@@ -1690,7 +1829,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="http://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1452241511" target="_blank">Structured Analytic Techniques For Intelligence Analysis</a>
+            <a href="https://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1452241511" target="_blank">Structured Analytic Techniques For Intelligence Analysis</a>
         </td>
         <td>
             这本书包含了代表威胁情报、法律执行、国土安全以及商业分析最佳实践的方法
@@ -1698,7 +1837,7 @@ Feel free to [contribute](CONTRIBUTING.md).
     </tr>
     <tr>
         <td>
-            <a href="https://www.ncsc.gov.uk/content/files/protected_files/guidance_files/MWR_Threat_Intelligence_whitepaper-2015.pdf" target="_blank">Threat Intelligence: Collecting, Analysing, Evaluating</a>
+            <a href="https://www.mwrinfosecurity.com/assets/Whitepapers/Threat-Intelligence-Whitepaper.pdf" target="_blank">Threat Intelligence: Collecting, Analysing, Evaluating</a>
         </td>
         <td>
             MWR InfoSecurity 的报告清楚的描述了威胁情报几种不同的类型，包括战略、战术和执行变化。还讨论了需求启发、收集、分析、生成和评估威胁情报的过程。也包括了其定义的每种威胁情报的成熟度模型
