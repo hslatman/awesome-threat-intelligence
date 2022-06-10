@@ -339,12 +339,6 @@
         </td>
     </tr>
     <tr>
-        <td><a href="http://malc0de.com/bl/">Malc0de DNS Sinkhole</a></td>
-        <td>
-            由 Malc0de 每天更新的文件，包含过去三十天内已经识别出分发恶意软件的域名
-        </td>
-    </tr>
-    <tr>
         <td>
             <a href="https://maldatabase.com/" target="_blank">Maldatabase</a>
         </td>
