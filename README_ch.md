@@ -978,14 +978,6 @@
     </tr>
     <tr>
         <td>
-            <a href="https://www.celerium.com/automate" target="_blank">Soltra</a>
-        </td>
-        <td>
-            Soltra 支持高操作性交互度、高可扩展性的社区防御模型，使用包括 STIX（2.1）与 TAXII 在内的行业标准构建
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://www.anomali.com/product/staxx" target="_blank">STAXX (Anomali)</a>
         </td>
         <td>
