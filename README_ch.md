@@ -1655,7 +1655,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://attack.mitre.org/index.php/Main_Page" target="_blank">ATT&CK</a>
+            <a href="https://attack.mitre.org/" target="_blank">ATT&CK</a>
         </td>
         <td>
             Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK™) 是用于描述攻击者在企业内网可能采取行动的一个模型与框架。ATT&CK 对于 post-access 是一个持续进步的共同参考，其可以在网络入侵中意识到什么行动最可能发生。MITRE 正在积极致力于相关信息的构建，就像 CAPEC、STIX 和 MAEC
