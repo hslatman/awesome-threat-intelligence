@@ -1078,14 +1078,6 @@
 <table>
     <tr>
         <td>
-            <a href="http://actortrackr.com/" target="_blank">ActorTrackr</a>
-        </td>
-        <td>
-            ActorTrackr 是一个用来存储/搜索/链接事件相关数据的开源 Web 应用程序。主要来源是用户以及各种公共资料库，也有一些来自  <a href="https://github.com/dougiep16/actortrackr" target="_blank">GitHub</a>
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://bitbucket.org/camp0/aiengine" target="_blank">AIEngine</a>
         </td>
         <td>
