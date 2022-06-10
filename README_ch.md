@@ -276,14 +276,6 @@
     </tr>
     <tr>
         <td>
-            <a href="https://riskdiscovery.com/honeydb/" target="_blank">HoneyDB</a>
-        </td> 
-        <td>
-            HoneyDB 提供蜜罐活动的实时数据，这些数据来自在互联网中部署的 <a href="https://github.com/foospidy/HoneyPy" target="_blank">HoneyPy</a> 蜜罐。此外，HoneyDB 还提供对所收集的蜜罐活动的 API 访问，其中还包括各种来自蜜罐相关的 Twitter 推送的聚合
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/SupportIntelligence/Icewater" target="_blank">Icewater</a>
         </td>
         <td>
