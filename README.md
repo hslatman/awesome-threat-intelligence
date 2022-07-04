@@ -269,10 +269,10 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="http://greynoise.io/" target="_blank">Grey Noise</a>
+            <a href="http://greynoise.io/" target="_blank">GreyNoise</a>
         </td>
         <td>
-            Grey Noise is a system that collects and analyzes data on Internet-wide scanners.It collects data on benign scanners such as Shodan.io, as well as malicious actors like SSH and telnet worms. 
+            GreyNoise collects and analyzes data on Internet-wide scanning activity. It collects data on benign scanners such as Shodan.io, as well as malicious actors like SSH and telnet worms. 
         </td>
     </tr>
     <tr>
