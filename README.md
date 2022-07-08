@@ -852,6 +852,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             The Collective Intelligence Framework (CIF) allows you to combine known malicious threat information from many sources and use that information for IR, detection and mitigation. Code available on <a href="https://github.com/csirtgadgets/massive-octo-spice" target="_blank">GitHub</a>.
         </td>
     </tr>
+<tr>
+        <td>
+            <a href="https://cyware.com/ctix-stix-taxii-cyber-threat-intelligence-exchange" target="_blank">CTIX</a>
+        </td>
+        <td>
+            CTIX is a smart, client-server threat intelligence platform (TIP) for ingestion, enrichment, analysis, and bi-directional sharing of threat data within your trusted network.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://www.eclecticiq.com/platform" target="_blank">EclecticIQ Platform</a>
