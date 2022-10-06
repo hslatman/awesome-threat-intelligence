@@ -533,6 +533,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/securityscorecard/SSC-Threat-Intel-IoCs" target="_blank">SecurityScorecard IoCs</a>
+        </td>
+        <td>
+            Public access IoCs from technical blogs posts and reports by SecurityScorecard.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.stixify.com/" target="_blank">Stixify</a>
         </td>
         <td>
