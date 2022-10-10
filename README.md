@@ -1012,14 +1012,6 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://www.celerium.com/automate" target="_blank">Soltra</a>
-        </td>
-        <td>
-            Soltra supports a community defense model that is highly interoperable and extensible. It is built with industry standards supported out of the box, including STIX (up to 2.1) and TAXII.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://www.anomali.com/platform/staxx" target="_blank">STAXX (Anomali)</a>
         </td>
         <td>
