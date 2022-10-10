@@ -794,10 +794,10 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://www.dhs.gov/ais" target="_blank">AIS</a>
+            <a href="https://www.cisa.gov/ais" target="_blank">AIS</a>
         </td>
         <td>
-            The Department of Homeland Security’s (DHS) free Automated Indicator Sharing (AIS) capability enables the exchange of cyber threat indicators between the Federal Government and the private sector at machine speed. Threat indicators are pieces of information like malicious IP addresses or the sender address of a phishing email (although they can also be much more complicated).
+            The Cybersecurity and Infrastructure Security Agency (CISA) free Automated Indicator Sharing (AIS) capability enables the exchange of cyber threat indicators between the Federal Government and the private sector at machine speed. Threat indicators are pieces of information like malicious IP addresses or the sender address of a phishing email (although they can also be much more complicated).
         </td>
     </tr>
     <tr>
