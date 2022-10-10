@@ -88,7 +88,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt" target="_blank">C&amp;C Tracker</a>
         </td>
         <td>
-            A feed of known, active and non-sinkholed C&amp;C IP addresses, from Bambenek Consulting.
+            A feed of known, active and non-sinkholed C&amp;C IP addresses, from Bambenek Consulting. Requires license for commercial use.
         </td>
     </tr>
     <tr>
@@ -189,7 +189,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://dnstrails.com/">DNSTrails</a>
+            <a href="https://securitytrails.com/dns-trails">DNS Trails</a>
         </td>
         <td>
             Free intelligence source for current and historical DNS information, WHOIS information, finding other websites associated with certain IPs, subdomain knowledge and technologies. There is a <a href="https://securitytrails.com/">IP and domain intelligence API available</a> as well. 
@@ -676,14 +676,6 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
-            <a href="https://zeustracker.abuse.ch/" target="_blank">ZeuS Tracker</a>
-        </td>
-        <td>
-            The ZeuS Tracker by <a href="https://abuse.ch/" target="_blank">abuse.ch</a> tracks ZeuS Command & Control servers (hosts) around the world and provides you a domain- and a IP-blocklist.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://IOCFeed.mrlooquer.com/" target="_blank">1st Dual Stack Threat Feed by MrLooquer</a>
         </td>
         <td>
@@ -766,7 +758,7 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
             <a href="http://veriscommunity.net/index.html" target="_blank">VERIS</a>
         </td>
         <td>
-            The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. In addition to providing a structured format, VERIS also collects data from the community to report on breaches in the Verizon Data Breach Investigations Report (<a target="_blank" href="http://www.verizonenterprise.com/verizon-insights-lab/dbir/">DBIR</a>) and publishes this database online at <a target="_blank" href="http://vcdb.org/index.html">VCDB.org</a>.
+            The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. In addition to providing a structured format, VERIS also collects data from the community to report on breaches in the Verizon Data Breach Investigations Report (<a target="_blank" href="http://www.verizonenterprise.com/verizon-insights-lab/dbir/">DBIR</a>) and publishes this database online in a GitHub <a target="_blank" href="https://github.com/vz-risk/VCDB">repository.org</a>.
         </td>
     </tr>
 </table>
@@ -1020,14 +1012,6 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://www.celerium.com/automate" target="_blank">Soltra</a>
-        </td>
-        <td>
-            Soltra supports a community defense model that is highly interoperable and extensible. It is built with industry standards supported out of the box, including STIX (up to 2.1) and TAXII.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://www.anomali.com/platform/staxx" target="_blank">STAXX (Anomali)</a>
         </td>
         <td>
@@ -1138,10 +1122,10 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
 <table>
     <tr>
         <td>
-            <a href="https://actortrackr.com/" target="_blank">ActorTrackr</a>
+            <a href="https://github.com/jalewis/actortrackr" target="_blank">ActorTrackr</a>
         </td>
         <td>
-            ActorTrackr is an open source web application for storing/searching/linking actor related data. The primary sources are from users and various public repositories. Source available on <a href="https://github.com/dougiep16/actortrackr" target="_blank">GitHub</a>.
+            ActorTrackr is an open source web application for storing/searching/linking actor related data. The primary sources are from users and various public repositories. Source available on <a href="https://github.com/jalewis/actortrackr" target="_blank">GitHub</a>.
         </td>
     </tr>
     <tr>
@@ -1733,7 +1717,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="https://attack.mitre.org/wiki/Main_Page" target="_blank">ATT&CK</a>
+            <a href="https://attack.mitre.org/" target="_blank">ATT&CK</a>
         </td>
         <td>
             Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK™) is a model and framework for describing the actions an adversary may take while operating within an enterprise network. ATT&CK is a constantly growing common reference for post-access techniques that brings greater awareness of what actions may be seen during a network intrusion. MITRE is actively working on integrating with related construct, such as CAPEC, STIX and MAEC.
