@@ -1928,7 +1928,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="https://www.sans.org/reading-room/whitepapers/analyst/who-039-s-cyberthreat-intelligence-how-35767" target="_blank">Who's Using Cyberthreat Intelligence and How?</a>
+            <a href="docs/sans-whos-using-cyberthreat-intelligence-and-how.pdf" target="_blank">Who's Using Cyberthreat Intelligence and How?</a>
         </td>
         <td>
             A whitepaper by the SANS Institute describing the usage of Threat Intelligence including a survey that was performed.
