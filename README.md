@@ -1733,7 +1733,7 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
-            <a href="https://attack.mitre.org/wiki/Main_Page" target="_blank">ATT&CK</a>
+            <a href="https://attack.mitre.org/" target="_blank">ATT&CK</a>
         </td>
         <td>
             Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK™) is a model and framework for describing the actions an adversary may take while operating within an enterprise network. ATT&CK is a constantly growing common reference for post-access techniques that brings greater awareness of what actions may be seen during a network intrusion. MITRE is actively working on integrating with related construct, such as CAPEC, STIX and MAEC.
