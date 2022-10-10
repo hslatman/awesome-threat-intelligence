@@ -490,6 +490,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://www.celerium.com/pickupstix" target="_blank">PickupSTIX</a>
+        </td>
+        <td>
+            PickupSTIX is a feed of free, open-source, and non-commercialized cyber threat intelligence. Currently, PickupSTIX uses three public feeds and distributes about 100 new pieces of intelligence each day. PickupSTIX translates the various feeds into STIX, which can communicate with any TAXII server. The data is free to use and is a great way to begin using cyber threat intelligence.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://rescure.fruxlabs.com/" target="_blank">REScure Threat Intel Feed</a>
         </td>
         <td>
