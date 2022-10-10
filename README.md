@@ -88,7 +88,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="http://osint.bambenekconsulting.com/feeds/c2-ipmasterlist.txt" target="_blank">C&amp;C Tracker</a>
         </td>
         <td>
-            A feed of known, active and non-sinkholed C&amp;C IP addresses, from Bambenek Consulting.
+            A feed of known, active and non-sinkholed C&amp;C IP addresses, from Bambenek Consulting. Requires license for commercial use.
         </td>
     </tr>
     <tr>
