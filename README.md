@@ -285,7 +285,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://riskdiscovery.com/honeydb/" target="_blank">HoneyDB</a>
+            <a href="https://honeydb.io/" target="_blank">HoneyDB</a>
         </td> 
         <td>
             HoneyDB provides real time data of honeypot activity. This data comes from honeypots deployed on the Internet using the <a href="https://github.com/foospidy/HoneyPy" target="_blank">HoneyPy</a> honeypot. In addition, HoneyDB provides API access to collected honeypot activity, which also includes aggregated data from various honeypot Twitter feeds.
