@@ -758,7 +758,7 @@ Standardized formats for sharing Threat Intelligence (mostly IOCs).
             <a href="http://veriscommunity.net/index.html" target="_blank">VERIS</a>
         </td>
         <td>
-            The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. In addition to providing a structured format, VERIS also collects data from the community to report on breaches in the Verizon Data Breach Investigations Report (<a target="_blank" href="http://www.verizonenterprise.com/verizon-insights-lab/dbir/">DBIR</a>) and publishes this database online at <a target="_blank" href="http://vcdb.org/index.html">VCDB.org</a>.
+            The Vocabulary for Event Recording and Incident Sharing (VERIS) is a set of metrics designed to provide a common language for describing security incidents in a structured and repeatable manner. VERIS is a response to one of the most critical and persistent challenges in the security industry - a lack of quality information. In addition to providing a structured format, VERIS also collects data from the community to report on breaches in the Verizon Data Breach Investigations Report (<a target="_blank" href="http://www.verizonenterprise.com/verizon-insights-lab/dbir/">DBIR</a>) and publishes this database online in a GitHub <a target="_blank" href="https://github.com/vz-risk/VCDB">repository.org</a>.
         </td>
     </tr>
 </table>
