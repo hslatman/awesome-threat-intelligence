@@ -155,6 +155,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             Cyber Cure offers free cyber threat intelligence feeds with lists of IP addresses that are currently infected and attacking on the internet. There are list of urls used by malware and list of hash files of known malware that is currently spreading. CyberCure is using sensors to collect intelligence with a very low false positive rate. Detailed <a href="https://docs.cybercure.ai" target="_blank">documentation</a> is available as well.
         </td>
     </tr>
+<tr>
+        <td>
+            <a href="https://cyware.com/community/ctix-feeds" target="_blank">Cyware Threat Intelligence Feeds</a>
+        </td>
+        <td>
+            Cyware’s Threat Intelligence feeds brings to you the valuable threat data from a wide range of open and trusted sources to deliver a consolidated stream of valuable and actionable threat intelligence. Our threat intel feeds are fully compatible with STIX 1.x and 2.0, giving you the latest information on malicious malware hashes, IPs and domains uncovered across the globe in real-time.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://dataplane.org/" target="_blank">DataPlane.org</a>
@@ -846,6 +854,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             The Collective Intelligence Framework (CIF) allows you to combine known malicious threat information from many sources and use that information for IR, detection and mitigation. Code available on <a href="https://github.com/csirtgadgets/massive-octo-spice" target="_blank">GitHub</a>.
+        </td>
+    </tr>
+<tr>
+        <td>
+            <a href="https://cyware.com/ctix-stix-taxii-cyber-threat-intelligence-exchange" target="_blank">CTIX</a>
+        </td>
+        <td>
+            CTIX is a smart, client-server threat intelligence platform (TIP) for ingestion, enrichment, analysis, and bi-directional sharing of threat data within your trusted network.
         </td>
     </tr>
     <tr>
