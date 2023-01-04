@@ -444,6 +444,13 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://noisetotal.io/">NoiseTotal</a>
+        </td>
+        <td>NoiseTotal project collects wiered IOCs, alerts, vulnerabilities etc. that look like malicious but actually benign. These false positives are time consuming to investigate and are causing security team panic. NoiseTotal aims to collects these samples with solid root cause. </td>
+    </tr>
+    <tr>	
+    <tr>
+        <td>
             <a href="http://www.nothink.org">NoThink!</a>
         </td>
         <td>SNMP, SSH, Telnet Blacklisted IPs from Matteo Cantoni's Honeypots</td>
