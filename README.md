@@ -684,6 +684,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="http://vulncheck.com/xdb/" target="_blank">VulnCheck XDB</a>
+        </td>
+        <td>
+            The largest public, searchable collection of public exploits and corresponding vulnerable software, developed for penetration testers and vulnerability researchers.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Yara-Rules/rules" target="_blank">Yara-Rules</a>
         </td>
         <td>
