@@ -577,6 +577,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://spur.us" target="_blank">Spur</a>
+        </td>
+        <td>
+            Spur provides tools and data to detect VPNs, Residential Proxies, and Bots. Free plan allows users to lookup an IP and get its classification, VPN provider, popular geolocations behind the IP, and some more useful context.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://sslbl.abuse.ch/" target="_blank">SSL Blacklist</a>
         </td>
         <td>
