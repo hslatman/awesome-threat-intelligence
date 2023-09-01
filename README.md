@@ -1283,6 +1283,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/signalscorps/file2stix" target="_blank">file2stix</a>
+        </td>
+        <td>
+            Turn unstructured files into structured STIX 2.1 intelligence. file2stix is a Python library that takes a file input (PDF, HTML, DOC, etc.) and automatically extracts threat intelligence artifacts (as STIX Objects).
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/byt3smith/Forager" target="_blank">Forager</a>
         </td>
         <td>
