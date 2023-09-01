@@ -1904,6 +1904,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="https://www.manning.com/books/spring-security-in-action-second-edition" target="_blank">Spring Security in Action, Second Edition</a>
+        </td>
+        <td>
+            Design and develop Spring applications that are secure right from the start.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.amazon.com/Structured-Analytic-Techniques-Intelligence-Analysis/dp/1452241511" target="_blank">Structured Analytic Techniques For Intelligence Analysis</a>
         </td>
         <td>
