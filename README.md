@@ -666,6 +666,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://tranco-list.eu/" target="_blank">Tranco List</a>
+        </td>
+        <td>
+		A Research-Oriented Top Sites Ranking Hardened Against Manipulation. Considered by many as an Alexa 1M succesor, research oriented. Do not use this as a whitelist!
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://raw.githubusercontent.com/WSTNPHX/scripts-n-tools/master/malware-email-addresses.txt">WSTNPHX Malware Email Addresses</a>
         </td>
         <td>Email addresses used by malware collected by VVestron Phoronix (WSTNPHX)</td>
