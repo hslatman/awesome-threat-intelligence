@@ -21,6 +21,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
+            <a href="https://feed.ellio.tech" target="_blank">ELLIO: IP Feed (community free version)</a>
+        </td>
+        <td>
+            A threat list of known malicious IP addresses anticipated to pose potential threats to your network in the near future, known benign scanners, and IP addresses of actors with unknown intent. It is provided with a 24-hour delay for personal, non-commercial use but still provides exceptional protection compared to other open IP threat lists/feeds..
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
         </td>
         <td>
