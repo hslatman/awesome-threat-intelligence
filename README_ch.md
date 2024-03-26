@@ -6,11 +6,13 @@
 
 提交前请查看 [contribute](CONTRIBUTING.md).
 
-- [资源](#资源)
-- [格式](#格式)
-- [框架与平台](#框架与平台)
-- [工具](#工具)
-- [研究、标准、书籍](#研究、标准、书籍)
+- [威胁情报大合集](#威胁情报大合集)
+  - [资源](#资源)
+  - [格式](#格式)
+  - [框架与平台](#框架与平台)
+  - [工具](#工具)
+  - [研究、标准、书籍](#研究标准书籍)
+  - [许可证](#许可证)
 
 
 ## 资源
@@ -36,26 +38,10 @@
     </tr>
     <tr>
         <td>
-            <a href="https://apility.io" target="_blank">Apility.io</a>
-        </td>
-        <td>
-            Apility.io 是一个简单的反滥用 API 的黑名单，它可以从多个来源帮助用户查询 IP、域名、电子邮件是否被列入黑名单
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml" target="_blank">APT Groups and Operations</a>
         </td>
         <td>
             一个包含有 APT 组织信息、行动和策略的表格
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.autoshun.org/" target="_blank">AutoShun</a>
-        </td>
-        <td>
-            提供不到两千个恶意 IP 地址和其他一些资源的公共服务
         </td>
     </tr>
     <tr>
@@ -140,6 +126,14 @@
     </tr>
     <tr>
         <td>
+            <a href="https://cloudmersive.com/virus-api" target="_blank">Cloudmersive Virus Scan</a>
+        </td>
+        <td>
+            Cloudmersive 服务 API，支持扫描文件、URL 与云存储。百万级威胁检测规则持续更新，扫描性能很高。无需付费，只需要注册账号获取用户 API Key 即可
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://intelstack.com/" target="_blank">Critical Stack Intel</a>
         </td>
         <td>
@@ -164,10 +158,26 @@
     </tr>
     <tr>
         <td>
+            <a href="https://cyware.com/community/ctix-feeds" target="_blank">Cyware Threat Intelligence Feeds</a>
+        </td>
+        <td>
+            Cyware 提供的威胁情报订阅源，为用户提供各种可信来源的威胁情报数据，整合有价值的、可运营的威胁情报。该威胁情报数据源与 STIX 1.x 和 STIX 2.0 完全兼容，可以为用户实时提供最新的全球恶意软件哈希、IP 和域名
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://dataplane.org/" target="_blank">DataPlane.org</a>
         </td>
         <td>
             DataPlane.org 是社区驱动的互联网数据、订阅和测量资源的提供方。免费提供可靠与值得信赖的服务
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://focsec.com" target="_blank">Focsec.com</a>
+        </td>
+        <td>
+            Focsec.com 对外提供检测 VPN、代理、机器人和 TOR 请求的 API。使用该 API 有助于检测可疑登录、欺诈和滥用行为，具体示例代码可以在<a href="https://docs.focsec.com" target="_blank">文档</a>中找到
         </td>
     </tr>
     <tr>
@@ -340,20 +350,6 @@
     </tr>
     <tr>
         <td>
-            <a href="https://majestic.com/reports/majestic-million" target="_blank">Majestic Million</a>
-        </td>
-        <td>
-            由 Majestic 为前一百万的网站中排出可能的白名单，按照引用子网的数量排序。更多关于排名的信息可以在 <a href="https://blog.majestic.com/development/majestic-million-csv-daily/" target="_blank">博客</a>中找到
-        </td>
-    </tr>
-    <tr>
-        <td><a href="http://malc0de.com/bl/">Malc0de DNS Sinkhole</a></td>
-        <td>
-            由 Malc0de 每天更新的文件，包含过去三十天内已经识别出分发恶意软件的域名
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://maldatabase.com/" target="_blank">Maldatabase</a>
         </td>
         <td>
@@ -481,6 +477,14 @@
     </tr>
     <tr>
         <td>
+            <a href="https://feed.seguranca-informatica.pt/index.php" target="_blank">0xSI_f33d</a>
+        </td>
+        <td>
+            检测钓鱼域名、恶意软件域名、Portuguese 黑名单 IP 的免费服务
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.phishtank.com/developer_info.php" target="_blank">PhishTank</a>
         </td>
         <td>
@@ -489,10 +493,26 @@
     </tr>
     <tr>
         <td>
+            <a href="https://www.celerium.com/pickupstix" target="_blank">PickupSTIX</a>
+        </td>
+        <td>
+            PickupSTIX 是免费、开源、非商业化的网络威胁情报源。目前 PickupSTIX 使用三个公共数据源，每天分发约 100 条新的情报数据。PickupSTIX 将各种威胁信息转换为 STIX 格式，因为 STIX 格式的数据可以与任何 TAXII 服务器互传。这些数据均可以免费使用，是开始入门威胁情报的好方法
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://rescure.fruxlabs.com/" target="_blank">REScure Threat Intel Feed</a>
         </td>
         <td>
             [RES]cure 是由 Fruxlabs Crack 团队运营的独立威胁情报项目，旨在增强对分布式系统底层架构的理解、威胁情报的性质以及如何有效地收集、存储、使用和分发威胁情报。 每六小时发布一次
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://rstcloud.net/" target="_blank">RST Cloud Threat Intel Feed</a>
+        </td>
+        <td>
+            从多个开放来源和社区收集并经过交叉验证的 IOC 指标数据，使用 RST 提供的情报信息进行富化和排名
         </td>
     </tr>
     <tr>
@@ -510,6 +530,14 @@
         <td>
             Suspicious Domains Threat 由 <a href="https://isc.sans.edu/suspicious_domains.html" target="_blank">SANS ICS</a> 提供对恶意域名的跟踪，提供三个列表分为 <a href="https://isc.sans.edu/feeds/suspiciousdomains_High.txt" target="_blank">高</a>, <a href="https://isc.sans.edu/feeds/suspiciousdomains_Medium.txt" target="_blank">中</a> or <a href="https://isc.sans.edu/feeds/suspiciousdomains_Low.txt" target="_blank">低</a> 三个层级，高级名单的错报低，低级名单的错报高。还有一个域名的 <a href="https://isc.sans.edu/feeds/suspiciousdomains_whitelist_approved.txt" target="_blank">白名单</a><br/>
             另外，也有黑名单 <a href="https://isc.sans.edu/block.txt" target="_blank">IP blocklist</a> 由 <a href="https://dshield.org">DShield</a> 提供
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/securityscorecard/SSC-Threat-Intel-IoCs" target="_blank">SecurityScorecard IoCs</a>
+        </td>
+        <td>
+            SecurityScorecard 发布的技术文章和分析报告
         </td>
     </tr>
     <tr>
@@ -546,10 +574,18 @@
     </tr>
     <tr>
         <td>
+            <a href="https://spur.us" target="_blank">Spur</a>
+        </td>
+        <td>
+            Spur 能够检测 VPN、住宅代理和机器人。免费接口允许用户查询特定 IP 并获取其分类，以及 VPN 提供商、IP 所属地理位置以及一些更有用的上下文信息
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://sslbl.abuse.ch/" target="_blank">SSL Blacklist</a>
         </td>
         <td>
-                SSL Blacklist (SSLBL) 是由 abuse.ch 维护的项目，旨在提供一个与恶意软件、僵尸网络活动有关的不良 SSL 证书列表。SSLBL 提供恶意 SSL 证书的 SHA1 指纹，并且提供多种黑名单
+            SSL Blacklist (SSLBL) 是由 abuse.ch 维护的项目，旨在提供一个与恶意软件、僵尸网络活动有关的不良 SSL 证书列表。SSLBL 提供恶意 SSL 证书的 SHA1 指纹，并且提供多种黑名单
         </td>
     </tr>
     <tr>
@@ -578,6 +614,14 @@
     </tr>
     <tr>
         <td>
+            <a href="https://www.talosintelligence.com/" target="_blank">Talos</a>
+        </td>
+        <td>
+            Cisco Talos Intelligence Group 是全球最大的商业威胁情报团队之一，由世界一流的研究人员、分析人员和工程师组成。该团队通过无与伦比的遥测数据，构建复杂的信息系统，为思科的客户、产品和服务提供准确、快速、可运营的威胁情报。该团队帮助思科的客户抵御已知与新出现的威胁，发现通用软件中的新漏洞，并在威胁进一步侵入整个互联网之前进行拦截。该团队发布了许多开源研究和分析工具，还维护着 Snort.org、ClamAV 和 SpamCop 的官方规则集合。此外，思科还对外提供了一个易用的<a href="https://www.talosintelligence.com/reputation">界面</a>查看网空对象的信誉信息
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://threatfeeds.io" target="_blank">threatfeeds.io</a>
         </td>
         <td>
@@ -586,10 +630,26 @@
     </tr>
     <tr>
         <td>
+            <a href="https://threatfox.abuse.ch/" target="_blank">threatfox.abuse.ch</a>
+        </td>
+        <td>
+            ThreatFox 是 abuse.ch 提供的一个免费服务，为社区、反病毒软件厂商和威胁情报厂商共享恶意软件相关的 IOC
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://threatconnect.com/blog/ingest-technical-blogs-reports/" target="_blank">Technical Blogs and Reports, by ThreatConnect</a>
         </td>
         <td>
             在九十多个开源博客中提取 IOCs (<a href="https://en.wikipedia.org/wiki/Indicator_of_compromise" target="_blank">Indicators of Compromise</a>)，博客内容使用 markdown 排版
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://threatjammer.com" target="_blank">Threat Jammer</a>
+        </td>
+        <td>
+            Threat Jammer 是 REST API 服务，支持开发人员、安全工程师和其他 IT 专业人员检索来自各种来源的高质量威胁情报数据，并将其集成到应用程序中，以此检测和阻止恶意活动
         </td>
     </tr>
     <tr>
@@ -638,14 +698,6 @@
         </td>
         <td>
             收集不同 Yara 规则的开源库，经过分类并尽量保持时效性
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://zeustracker.abuse.ch/" target="_blank">ZeuS Tracker</a>
-        </td>
-        <td>
-            ZeuS Tracker 由 <a href="https://www.abuse.ch/" target="_blank">abuse.ch</a> 提供对 ZeuS 的 C&C 主机的跟踪，提供给你域名与主机的黑名单
         </td>
     </tr>
     <tr>
@@ -812,6 +864,14 @@
         </td>
         <td>
             Collective Intelligence Framework (CIF) 允许你将已知的多源恶意威胁信息联结起来，可以用于 IR、检测与缓解，代码在 <a href="https://github.com/csirtgadgets/massive-octo-spice" target="_blank">GitHub</a> 上可用
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://cyware.com/ctix-stix-taxii-cyber-threat-intelligence-exchange" target="_blank">CTIX</a>
+        </td>
+        <td>
+            CTIX 是一个威胁情报平台（TIP），用于在可信网络内提取、丰富、分析和双向共享威胁情报数据
         </td>
     </tr>
     <tr>
@@ -992,14 +1052,6 @@
     </tr>
     <tr>
         <td>
-            <a href="https://www.celerium.com/automate" target="_blank">Soltra</a>
-        </td>
-        <td>
-            Soltra 支持高操作性交互度、高可扩展性的社区防御模型，使用包括 STIX（2.1）与 TAXII 在内的行业标准构建
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://www.anomali.com/product/staxx" target="_blank">STAXX (Anomali)</a>
         </td>
         <td>
@@ -1019,7 +1071,7 @@
             <a href="https://github.com/tripwire/tardis" target="_blank">TARDIS</a>
         </td>
         <td>
-            Threat Analysis, Reconnaissance, and Data Intelligence System (TARDIS) 是一个使用攻击签名执行历史搜索的开源框架
+            Threat Analysis, Reconnaissance, and Data Intelligence System（TARDIS）是使用攻击特征进行检索的开源框架
         </td>
     </tr>
     <tr>
@@ -1055,6 +1107,14 @@
         </td>
         <td>
             Facebook 创建了 ThreatExchange 可以方便的使用结构化、易用的 API 来共享威胁数据，该 API 提供隐私控制，以便与所需的组织进行共享，该项目仍然处于测试阶段，参考代码可以在 <a href="https://github.com/facebook/ThreatExchange" target="_blank">GitHub</a> 中找到
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/typedb-osi/typedb-cti" target="_blank">TypeDB CTI</a>
+        </td>
+        <td>
+            TypeDB Data - CTI 是一个开源威胁情报平台，存储和管理威胁情报。该平台使分析人员能够将不同来源的威胁信息整合到一处，并发现有关网络威胁的新见解。该平台基于 STIX2 搭建架构，并且支持 MITRE ATT&CK。更多信息可参见<a href="https://blog.vaticle.com/introducing-a-knowledge-graph-for-cyber-threat-intelligence-with-typedb-bdb559a92d2a" target="_blank">博客文章</a>
         </td>
     </tr>
     <tr>
@@ -1112,6 +1172,14 @@
         </td>
         <td>
             AIEngine 是下一代交互式支持 Python/Ruby/Java/Lua 编程的包检测引擎，无需任何人工干预，具有 NIDS 的功能、DNS 域名分类、网络流量收集、网络取证等许多功能
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://analyze.intezer.com" target="_blank">Analyze (Intezer)</a>
+        </td>
+        <td>
+            Analytics 是一个一体化恶意软件分析平台，能够对所有类型的文件执行静态分析、动态分析和同源代码分析。用户可以利用该平台跟踪恶意软件家族、提取 IOC/MITRE TTP 并下载 YARA 签名。Intezer 也提供了社区版可以免费使用
         </td>
     </tr>
     <tr>
@@ -1556,6 +1624,14 @@
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/traut/stixview" target="_blank">Stixview</a>
+        </td>
+        <td>
+            Stixview 是一个用于控制交互式 STIX2 图数据的 JavaScript 库
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/STIXProject/stix-viz" target="_blank">stix-viz</a>
         </td>
         <td>
@@ -1784,7 +1860,7 @@
             <a href="https://www.isao.org" target="_blank">ISAO Standards Organization</a>
         </td>
         <td>
-            ISAO Standards Organization 一个非政府组织，成立于2015年10月1日.。其任务是通过确定与网络安全风险、事件和最佳实践有关的有效信息共享标准与准则，来改善国家的网络安全态势
+            ISAO Standards Organization 一个非政府组织，成立于2015年10月1日。其任务是通过确定与网络安全风险、事件和最佳实践有关的有效信息共享标准与准则，来改善国家的网络安全态势
         </td>
     </tr>
     <tr>
@@ -1837,7 +1913,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://www.mwrinfosecurity.com/assets/Whitepapers/Threat-Intelligence-Whitepaper.pdf" target="_blank">Threat Intelligence: Collecting, Analysing, Evaluating</a>
+            <a href="./docs/mwr-threat-intelligence-whitepaper.pdf" target="_blank">Threat Intelligence: Collecting, Analysing, Evaluating</a>
         </td>
         <td>
             MWR InfoSecurity 的报告清楚的描述了威胁情报几种不同的类型，包括战略、战术和执行变化。还讨论了需求启发、收集、分析、生成和评估威胁情报的过程。也包括了其定义的每种威胁情报的成熟度模型
@@ -1869,7 +1945,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://www.sans.org/reading-room/whitepapers/analyst/who-039-s-cyberthreat-intelligence-how-35767" target="_blank">Who's Using Cyberthreat Intelligence and How?</a>
+            <a href="docs/sans-whos-using-cyberthreat-intelligence-and-how.pdf" target="_blank">Who's Using Cyberthreat Intelligence and How?</a>
         </td>
         <td>
             由 SANS 研究所出品，描述包括策略执行在内的威胁情报使用情况的白皮书
