@@ -290,6 +290,13 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         <td>
             HoneyDB provides real time data of honeypot activity. This data comes from honeypots deployed on the Internet using the <a href="https://github.com/foospidy/HoneyPy" target="_blank">HoneyPy</a> honeypot. In addition, HoneyDB provides API access to collected honeypot activity, which also includes aggregated data from various honeypot Twitter feeds.
         </td>
+    <tr>
+        <td>
+            <a href="https://www.hudsonrock.com/free-tools" target="_blank">Hudson Rock Cybercrime Intelligence</a>
+        </td> 
+        <td>
+            Hudson Rock provides free tools that don't require registration and can indicate if a specific digital asset was compromised in a global Infostelaers attack.
+        </td>
     </tr>
     <tr>
         <td>
