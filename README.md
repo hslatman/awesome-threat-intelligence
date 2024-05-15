@@ -818,14 +818,6 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
-            <a href="https://www.fidelissecurity.com/resources/fidelis-barncat" target="_blank">Barncat</a>
-        </td>
-        <td>
-            Fidelis Cybersecurity offers free access to Barncat after registration. The platform is intended to be used by CERTs, researchers, governments, ISPs and other, large organizations. The database holds various configuration settings used by attackers.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://github.com/csirtgadgets/bearded-avenger" target="_blank">Bearded Avenger</a>
         </td>
         <td>
@@ -1166,6 +1158,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             AIEngine is a next generation interactive/programmable Python/Ruby/Java/Lua packet inspection engine with capabilities of learning without any human intervention, NIDS(Network Intrusion Detection System) functionality, DNS domain classification, network collector, network forensics and many others.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/referefref/aiocrioc" target="_blank">AIOCRIOC</a>
+        </td>
+        <td>
+            Artificial Intelligence Ocular Character Recognition Indicator of Compromise (AIOCRIOC) is a tool that combines web scraping, the OCR capabilities of Tesseract and OpenAI compatible LLM API's such as GPT-4 to parse and extract IOCs from reports and other web content including embedded images with contextual data.
         </td>
     </tr>
     <tr>
@@ -1620,13 +1620,21 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://stixvalidator.com" target="_blank">Stixvalidator.com</a>
+        </td>
+        <td>
+            Stixvalidator.com is an online free STIX and STIX2 validator service.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/traut/stixview" target="_blank">Stixview</a>
         </td>
         <td>
             Stixview is a JS library for embeddable interactive STIX2 graphs.
         </td>
     </tr>
-    <tr>
+	<tr>
         <td>
             <a href="https://github.com/STIXProject/stix-viz" target="_blank">stix-viz</a>
         </td>
