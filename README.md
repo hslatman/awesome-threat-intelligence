@@ -690,6 +690,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
 Mrlooquer has created the first threat feed focused on systems with dual stack. Since IPv6 protocol has begun to be part of malware and fraud communications, It is necessary to detect and mitigate the threats in both protocols (IPv4 and IPv6).
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://app.validin.com/">Validin DNS Database</a>
+        </td>
+        <td>
+            Free intelligence source for current and historical DNS information, finding other websites associated with certain IPs, and subdomain knowledge There is a <a href="https://app.validin.com/docs">free API for IP and domain intelligence</a> as well. 
+        </td>
+    </tr>
 </table>
 
 ## Formats
