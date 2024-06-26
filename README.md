@@ -662,6 +662,12 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://urldna.io">urlDNA.io</a>
+        </td>
+        <td>urlDNA.io is a tool designed to enhance online security by extracting information from URLs and querying the comprehensive URL database. urlDNA.io mission is to protect brands against phishing and other malicious activities by providing detailed insights. By offering a centralized platform and API urlDNA.io empowers and security professionals to effectively identify online threats.</td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://urlhaus.abuse.ch">URLhaus</a>
         </td>
         <td>URLhaus is a project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution.</td>
