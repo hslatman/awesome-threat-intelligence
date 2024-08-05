@@ -1,0 +1,36 @@
+name: Links
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+  # repository_dispatch:
+  # workflow_dispatch:
+  # schedule:
+  #   - cron: "00 18 * * *"
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.0.8
+        with:
+          args: --verbose --no-progress **/*.md **/*.html
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      #- name: Fail if there were link errors
+      #  run: exit ${{ steps.lychee.outputs.exit_code }}
+        
+      # - name: Create Issue From File
+      #   uses: peter-evans/create-issue-from-file@v2
+      #   with:
+      #     title: Link Checker Report
+      #     content-filepath: ./lychee/out.md
+      #     labels: report, automated issue
