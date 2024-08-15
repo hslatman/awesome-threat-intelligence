@@ -45,6 +45,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://beesting.tools/" target="_blank">BeeSting Honeypot Project</a>
+        </td>
+        <td>
+            Records and enriches interactions from a globally distributed honeypot network to provide high-fidelity indicators with appropriate tagging and context.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.binarydefense.com/banlist.txt" target="_blank">Binary Defense IP Banlist</a>
         </td>
         <td>
