@@ -1275,6 +1275,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/ls1911/GenAIPot" target="_blank">GenAIPot</a>
+        </td>
+        <td>
+GenAIPot is the first open-source A.I. honeypot that pushes the boundaries of cybersecurity. Unlike traditional honeypots, GenAIPot leverages cutting-edge Generative AI to emulate services making it harder to detect. What sets it apart is its ability to generate deceptive content in real-time based on the user instructions, tailored to specific setup. By dynamically responding to free-text user inputs and utilizing OpenAI's chatgpt API services, GenAIPot demonstrates the next evolution in cybersecurity of honeypots and deception based systems.
+	</td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.gigasheet.co" target="_blank">Gigasheet</a>
         </td>
         <td>
