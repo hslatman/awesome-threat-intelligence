@@ -464,7 +464,19 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             OpenPhish receives URLs from multiple streams and analyzes them using its proprietary phishing detection algorithms. There are free and commercial offerings available.
         </td>
     </tr>
-        <tr>
+    <tr>
+        <td>
+            <a href="https://www.overwatchdata.ai/" target="_blank">Overwatch Data Cyber Pulse Feed</a>
+        </td>
+        <td>
+            Overwatch Data provides personalized threat intelligence feeds from news, social media and darkweb sources. Overwatch uses AI to organize and provide context on threat actors & malware. The Free Overwatch Cyber Pulse tool provides threat analysts:
+        1. feed of hacks, breaches, malware and vulnerabilities from a mix of sources including darkweb leaks sites, threat
+        intel blogs, and security social media
+        2. A perplexity like chatbot to chat with the cyber feed data or with the broader, news, social media and darkweb.
+        Sign up form at https://bit.ly/overwatch-signup
+        </td>
+    </tr>
+    <tr>
         <td>
             <a href="https://feed.seguranca-informatica.pt/index.php" target="_blank">0xSI_f33d</a>
         </td>
