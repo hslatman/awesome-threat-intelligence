@@ -309,6 +309,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://ipapi.is/" target="_blank">ipapi.is</a>
+        </td>
+        <td>
+            A reliable IP Address API from Developers for Developers with accurate Hosting Detection, IP Geolocation, IP to Organisation and ASN data. Hosting IP Ranges and IP Geolocation data can be downloaded from <a href="https://github.com/ipapi-is/ipapi">ipapi.is GitHub Repository</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt" target="_blank">IPsum</a>
         </td>
         <td>
