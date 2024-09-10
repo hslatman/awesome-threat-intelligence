@@ -269,6 +269,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://check-the-sum.fr" target="_blank">Check-The-Sum</a>
+        </td> 
+        <td>
+            Check-The-Sum freely shares various IP addresses, urls, hashes, payloads, and IOCs used by attackers and linked to Internet threats. It detects these threats via a network of honey pots. Threat statistics are also published and a free API is available.
+	</td>
+	</tr>
+	<tr>
+        <td>
             <a href="https://honeydb.io/" target="_blank">HoneyDB</a>
         </td> 
         <td>
