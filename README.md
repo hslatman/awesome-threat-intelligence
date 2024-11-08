@@ -165,6 +165,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://deepinfo.com/" target="_blank">Deepinfo Attack Surface Management Platform</a>
+        </td>
+        <td>
+          Deepinfo offers over 50 APIs to fulfill all your cybersecurity requirements. You can access the most extensive Internet data through well-designed APIs and get the comprehensive service you need. APIs are widely used by security teams, threat intelligence analysts, and researchers to protect their organizations from cyber threats.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://focsec.com" target="_blank">Focsec.com</a>
         </td>
         <td>
