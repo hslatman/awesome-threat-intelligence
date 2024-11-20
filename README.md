@@ -971,6 +971,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/ocsf" target="_blank">Open Cybersecurity Schema Framework</a>
+        </td>
+        <td>
+            The Open Cybersecurity Schema Framework is an open-source project, delivering an extensible framework for developing schemas, along with a vendor-agnostic core security schema. Vendors and other data producers can adopt and extend the schema for their specific domains. Data engineers can map differing schemas to help security teams simplify data ingestion and normalization, so that data scientists and analysts can work with a common language for threat detection and investigation. The goal is to provide an open standard, adopted in any environment, application, or solution, while complementing existing security standards and processes.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://otx.alienvault.com" target="_blank">OTX - Open Threat Exchange</a>
         </td>
         <td>
