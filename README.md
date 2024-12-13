@@ -1227,6 +1227,15 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/stanfrbd/cyberbro" target="_blank">Cyberbro</a>
+        </td>
+        <td>
+            Cyberbro is a self-hosted Python Flask application, also available as a Dockerized app, designed for effortless searching and reputation checking of observables. 
+            It extracts Indicators of Compromise (IoCs) from raw input and verifies their reputation using multiple services, custom APIs and scraping.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://cybergordon.com/" target="_blank">CyberGordon</a>
         </td>
         <td>
