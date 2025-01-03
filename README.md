@@ -674,6 +674,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             VirusShare.com is a repository of malware samples to provide security researchers, incident responders, forensic analysts, and the morbidly curious access to samples of malicious code. Access to the site is granted via invitation only.
         </td>
     </tr>
+	<tr>
+		<td>
+			<a href="https://www.virustotal.com/" target="_blank">VirusTotal</a>
+		</td>
+		<td>
+			VirusTotal is a powerful online service that enables users to analyze suspicious files, domains, IP addresses, and URLs to detect potential malware and other security breaches. By automatically examining these elements, VirusTotal helps identify harmful content and shares the findings with the broader security community, fostering collaboration and enhancing overall cybersecurity efforts.
+		</td>
+	</tr>
     <tr>
         <td>
             <a href="https://github.com/Yara-Rules/rules" target="_blank">Yara-Rules</a>
