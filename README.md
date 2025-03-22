@@ -490,6 +490,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://redteamnews.com/" target="_blank">Red Team News (+Feed)</a>
+        </td>
+        <td>
+            Red Team News is an aggregate of several feeds and data streams utilizing artificial intelligence to provide reviewed and high-quality factual articles about recent events. Referencing sources and providing proof of concepts. Due to it being a near-live feed it is your one-stop-shop for a lot of News relevant to cybersecurity experts, exploit developers, pentesters, and red-teamers alike.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://rescure.fruxlabs.com/" target="_blank">REScure Threat Intel Feed</a>
         </td>
         <td>
