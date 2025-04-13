@@ -585,6 +585,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://stellastra.com/cipher-suite" target="_blank">TLS Cipher Suites</a>
+        </td>
+        <td>
+            Database of TLS cipher suites, with a breakdown of deprecation and vulnerability status for ciphers, hashes, authentication and key-exchange mechanisms.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://strongarm.io" target="_blank">Strongarm, by Percipient Networks</a>
         </td>
         <td>
