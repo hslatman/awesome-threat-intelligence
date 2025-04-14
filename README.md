@@ -21,6 +21,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
+            <a href="https://secai.ai " target="_blank">SecAI</a>
+        </td>
+        <td>
+            SecAI is an AI-powered platform that streamlines the analysis of potential threats. Its RESEARCH Module provides in-depth, real-time investigations of IPs, domains, and URLs, leveraging its proprietary threat intelligence and integrating data from reputable external sources. Additionally, the CHAT Module offers an interactive interface, enabling intuitive threat analysis through natural language queries.
+        </td>
+    </tr>	
+    <tr>
+        <td>
             <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
         </td>
         <td>
