@@ -529,6 +529,17 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://shreshtait.com/blog/2024/02/recently-registered-domains-download/" target="_blank">Shreshta Newly Registered Domain(NRD) Community feeds</a>
+        </td>
+        <td>
+	    Background <a href="https://shreshtait.com/blog/2024/01/what-are-newly-registered-domain-names/" target="_blank">What are newly registered domain names</a>
+	    Two Newly Registered domain(NRD) community feeds which can be ingested in Protective DNS, SIEM, Email gateways. 1. NRD-1w – The domain names registered in the past week 2. NRD-1m – The domain names registered in the past month
+	    While these can be considered as policy feeds, these can be an excellent resource to hunt for badness.
+        </td>
+    </tr>
+    <tr>
+    <tr>
+        <td>
             <a href="https://www.stixify.com/" target="_blank">Stixify</a>
         </td>
         <td>
