@@ -277,6 +277,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.hudsonrock.com/threat-intelligence-cybercrime-tools" target="_blank">Hudson Rock</a>
+        </td> 
+        <td>
+            Hudson Rock free cybercrime intelligence tools that can indicate if a specific digital asset (domain, email address, etc) was compromised in global Infostealer malware attacks.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/SupportIntelligence/Icewater" target="_blank">Icewater</a>
         </td>
         <td>
