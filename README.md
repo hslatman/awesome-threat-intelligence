@@ -1347,6 +1347,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://hunt.io/" target="_blank">Hunt</a>
+        </td>
+        <td>
+            A tool to detect and neutralize malicious activities.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.fireeye.com/services/freeware/ioc-editor.html" target="_blank">IOC Editor</a>
         </td>
         <td>
