@@ -1966,6 +1966,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             The WOMBAT project aims at providing new means to understand the existing and emerging threats that are targeting the Internet economy and the net citizens. To reach this goal, the proposal includes three key workpackages: (i) real time gathering of a diverse set of security related raw data, (ii) enrichment of this input by means of various analysis techniques, and (iii) root cause identification and understanding of the phenomena under scrutiny.
         </td>
     </tr>
+<tr>
+        <td>
+            <a href="https://github.com/ChistaDev/Chista" target="_blank">Chista CTI Framework</a>
+        </td>
+        <td>
+            Chista is an Open Source Cyber Threat Intelligence (CTI) Framework designed to help users understand, predict and defend against cyber threats. It has a built-in API & CLI interface. So, it can be easily integrated with the other tools. It has different modules; phishing, source, ioc, leak, blacklist, threatProfile, etc. 
+        </td>
+    </tr>
 </table>
 
 
