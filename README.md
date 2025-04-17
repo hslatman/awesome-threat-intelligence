@@ -1730,6 +1730,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             YETI is a proof-of-concept implementation of TAXII that supports the Inbox, Poll and Discovery services defined by the TAXII Services Specification.
         </td>
     </tr>
+	<tr>
+	<td>
+	    <a href="https://github.com/aydinnyunus/wallet-tracker" target="_blank">Wallet Tracker</a>
+	</td>
+	<td>
+	    Detect real scammers with Wallet-Tracker CLI from anywhere.
+	</td>
+	</tr>
 </table>
 
 
