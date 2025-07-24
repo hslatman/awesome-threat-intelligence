@@ -826,6 +826,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://catalyst.prodaft.com/" target="_blank">CATALYST</a>
+        </td>
+        <td>
+            A threat intelligence platform by PRODAFT providing real-time insights and threat reports, in-depth threat actor profiling, attack diagnostics and exclusive intelligence. Integrates with the BLINDSPOT ecosystem and supports STIX 2.1 and OpenCTI.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/TheHive-Project/Cortex" target="_blank">Cortex</a>
         </td>
         <td>
