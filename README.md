@@ -642,6 +642,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://threatlandscapemonitoring.com/" target="_blank">Threat Landscape Monitoring</a>
+        </td>
+        <td>
+            This Threat Landscape Monitoring Platform ingest, enrich and summarize vast volumes of threat‑landscape data, extracting key TTPs, IOCs, threat actors, malware families, CVEs etc. to deliver actionable intelligence. It supports output in STIX format for seamless integration into SIEM/SOAR/TIP systems using REST and GraphQL APIs. Interactive dashboards present visual analysis and daily executive summaries are provided.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.threatminer.org/" target="_blank">ThreatMiner</a>
         </td>
         <td>
