@@ -693,6 +693,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://whisper.security" target="_blank">Whisper</a>
+        </td>
+        <td>
+            Real-time graph intelligence platform providing threat context through correlated internet infrastructure data. Unifies BGP routing, DNS, WHOIS, SSL/TLS, and hosting information into a queryable graph with sub-millisecond API response times. Helps reduce false positives and predict threats through multi-parameter scoring.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Yara-Rules/rules" target="_blank">Yara-Rules</a>
         </td>
         <td>
