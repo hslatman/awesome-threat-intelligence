@@ -1201,6 +1201,16 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             Automater is a URL/Domain, IP Address, and Md5 Hash OSINT tool aimed at making the analysis process easier for intrusion Analysts.
         </td>
     </tr>
+	<tr>
+    <td>
+        <a href="https://github.com/frknaykc/Awesome-Malicious-Infra-Hunting-Queries" target="_blank">
+            Awesome Malicious Infra Hunting Queries
+        </a>
+    </td>
+    <td>
+        Curated Shodan, Censys, and Netlas queries for hunting malicious internet-facing infrastructure such as C2 servers, phishing infrastructure, RATs, and loaders.
+    </td>
+</tr>
     <tr>
         <td>
             <a href="https://github.com/svdwi/BlueBox" target="_blank">BlueBox</a>
