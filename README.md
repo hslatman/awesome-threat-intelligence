@@ -1171,6 +1171,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/vincentkoc/autosecure" target="_blank">autosecure</a>
+        </td>
+        <td>
+            Threat-feed IP block automation for Linux and macOS firewalls (<code>iptables</code>, <code>nftables</code>, <code>pf</code>), with scheduled updates and dry-run support.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://bitbucket.org/camp0/aiengine" target="_blank">AIEngine</a>
         </td>
         <td>
