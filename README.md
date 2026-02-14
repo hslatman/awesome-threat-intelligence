@@ -332,6 +332,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
     </tr>
     <tr>
+        <td>
+            <a href="https://ismalicious.com/" target="_blank">isMalicious</a>
+        </td>
+        <td>
+            Real-time threat intelligence API aggregating 500M+ threat indicators from 600+ curated sources. Covers IPs, domains, URLs, and file hashes with sub-100ms lookups, streaming API, webhooks, and built-in monitoring. Free tier available.
+        </td>
+    </tr>
+    <tr>
     <tr>
         <td>
             <a href="https://support.kaspersky.com/datafeeds" target="_blank">Kaspersky Threat Data Feeds</a>
