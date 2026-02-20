@@ -866,6 +866,15 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
     </tr>
 <tr>
+	    <tr>
+        <td>
+            <a href="https://cvemate.com/" target="_blank">CveMate</a>
+        </td>
+        <td>
+            Vulnerability intelligence platform that consolidates CVE data, EPSS exploit prediction scores, Exploits and cross-compares Known Exploited Vulnerabilities (KEV) catalogs from CISA, ENISA, and CIRCL. Provides pairwise overlap analysis, Jaccard similarity, exclusive coverage gaps, and first-lister attribution across publishers.
+        </td>
+    </tr>
+
         <td>
             <a href="https://cyware.com/ctix-stix-taxii-cyber-threat-intelligence-exchange" target="_blank">CTIX</a>
         </td>
