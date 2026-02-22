@@ -554,6 +554,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://sikkerapi.com" target="_blank">SikkerAPI</a>
+        </td>
+        <td>
+            IP threat intelligence API powered by a global honeypot network. Provides real-time IP reputation scores, attack behavior classification across 15+ protocols, and STIX/TAXII feeds. Free tier available for public IP lookups.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.spamhaus.org/" target="_blank">The Spamhaus project</a>
         </td>
         <td>
