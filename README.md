@@ -357,6 +357,14 @@ Continuously updated and inform your business or clients about risks and implica
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/toborrm9/malicious_extension_sentry" target="_blank">MalExt - Malicious Browser Extensions</a>
+        </td>
+        <td>
+            Continuously updated database of malicious browser extensions removed from Chrome and Edge stores. Includes CLI scanner, browser extension, and web dashboard. Focuses on verified removals with high accuracy.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://malpedia.caad.fkie.fraunhofer.de/" target="_blank">Malpedia</a>
         </td>
         <td>
