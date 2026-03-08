@@ -1028,6 +1028,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://conflicts.app" target="_blank">Pharos AI</a>
+        </td>
+        <td>
+            Open-source real-time intelligence dashboard for conflict tracking. Aggregates 30+ OSINT feeds with geospatial visualization, actor dossiers, and event timelines. Self-hostable under AGPL-3.0.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://pulsedive.com/" target="_blank">Pulsedive</a>
         </td>
         <td>
