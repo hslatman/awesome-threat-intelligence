@@ -1260,6 +1260,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/wolffcatskyy/crowdsec-blocklist-import" target="_blank">crowdsec-blocklist-import</a>
+        </td>
+        <td>
+            A tool that aggregates 36+ free threat intelligence feeds (AbuseIPDB, Spamhaus, DShield, and more) into CrowdSec decisions, enabling centralized IP blocklist management. Supports daemon mode with scheduled updates, webhooks for real-time notifications, and Prometheus metrics for monitoring.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://cti-transmute.org/" target="_blank">CTI-Transmute</a>
         </td>
         <td>
