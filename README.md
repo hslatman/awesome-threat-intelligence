@@ -881,6 +881,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             EclecticIQ Platform is a STIX/TAXII based Threat Intelligence Platform (TIP) that empowers threat analysts to perform faster, better, and deeper investigations while disseminating intelligence at machine-speed.
         </td>
     </tr>
+	 <tr>
+        <td>
+            <a href="https://expose.team?utm_source=github.com&utm_campaign=hslatman_awesome_threat_intelligence" target="_blank">Expose Team</a>
+        </td>
+        <td>
+            AI-powered engine that cross-references billions of public data points across the internet and delivers a complete, structured overview in moments. You can search for people, companies, universities, domains, emails, phones, social media urls, etc.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://www.enisa.europa.eu/topics/csirt-cert-services/community-projects/incident-handling-automation" target="_blank">IntelMQ</a>
