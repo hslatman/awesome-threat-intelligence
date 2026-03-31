@@ -139,6 +139,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             Cyber Cure offers free cyber threat intelligence feeds with lists of IP addresses that are currently infected and attacking on the internet. There are list of urls used by malware and list of hash files of known malware that is currently spreading. CyberCure is using sensors to collect intelligence with a very low false positive rate. Detailed <a href="https://docs.cybercure.ai" target="_blank">documentation</a> is available as well.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://cyberbriefing.info" target="_blank">CyberBriefing</a>
+        </td>
+        <td>
+            Threat intelligence API with 991K+ cybersecurity articles (1998-2025), CVE cross-referencing, AI-generated briefings, and IOC feeds. Free tier available. Docs: <a href="https://cyberbriefing.info/docs" target="_blank">https://cyberbriefing.info/docs</a>.
+        </td>
+    </tr>
 <tr>
         <td>
             <a href="https://cyware.com/community/ctix-feeds" target="_blank">Cyware Threat Intelligence Feeds</a>
