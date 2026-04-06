@@ -1251,6 +1251,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/fatcrapinmybutt/cortex-osint" target="_blank">CORTEX</a>
+        </td>
+        <td>
+            Offline desktop intelligence platform that scans local files and builds interactive D3.js knowledge graphs. Extracts IOCs, threat actors, CVEs, MITRE ATT&CK references, and network indicators from unstructured documents using configurable JSON domain packs.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/CrowdStrike/CrowdFMS" target="_blank">CrowdFMS</a>
         </td>
         <td>
