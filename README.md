@@ -10,6 +10,7 @@ Feel free to [contribute](CONTRIBUTING.md).
 - [Frameworks & Platforms](#frameworks-and-platforms)
 - [Tools](#tools)
 - [Research, Standards & Books](#research)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including automated threat detection, security monitoring, and incident response agents. MIT licensed.
 
 
 ## Sources
