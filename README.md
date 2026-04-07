@@ -1251,6 +1251,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/UPinar/contrastapi" target="_blank">ContrastAPI</a>
+        </td>
+        <td>
+            Free security intelligence API with 25+ MCP tools for AI agents. Provides WHOIS, CVE lookup, SSL/TLS analysis, DNS records, subdomain enumeration, IOC enrichment, threat intelligence, and security header validation through a unified REST API.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/CrowdStrike/CrowdFMS" target="_blank">CrowdFMS</a>
         </td>
         <td>
