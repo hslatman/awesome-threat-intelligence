@@ -1767,6 +1767,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
 
 
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=hslatman_awesome-threat-intelligence) - Follow designers and frontend devs on GitHub, see what UI repos and tools they are into.
 ## <a name="research"></a>Research, Standards & Books
 
 All kinds of reading material about Threat Intelligence. Includes (scientific) research and whitepapers.
