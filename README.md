@@ -1539,6 +1539,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
     </tr>
     <tr>
+    <tr>
+        <td>
+            <a href="https://github.com/bad-antics/nullsec-logreaper" target="_blank">NullSec LogReaper</a>
+        </td>
+        <td>
+            DFIR log analysis and threat detection tool with automated IOC extraction, pattern matching, and timeline reconstruction. Processes syslog, auth logs, Windows Event logs, and cloud audit logs to identify malicious indicators and build attack timelines.
+        </td>
+    </tr>
         <td>
             <a href="https://github.com/fhightower/onemillion" target="_blank">OneMillion</a>
         </td>
