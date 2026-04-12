@@ -1998,7 +1998,22 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
         <td>
             The WOMBAT project aims at providing new means to understand the existing and emerging threats that are targeting the Internet economy and the net citizens. To reach this goal, the proposal includes three key workpackages: (i) real time gathering of a diverse set of security related raw data, (ii) enrichment of this input by means of various analysis techniques, and (iii) root cause identification and understanding of the phenomena under scrutiny.
         </td>
+		* [V-Pulse](https://v-pulse.streamlit.app) — Sovereign signal intelligence dashboard for 24/7 real-time threat monitoring.
+* [X-Dork](https://veritas-x-dork.streamlit.app) — Advanced reconnaissance and discovery engine.
+* [Ghost-Aggregator](https://v-ghost-aggregator.streamlit.app) — Multi-source forensic data collection engine.
     </tr>
+	<tr>
+            <td><a href="https://v-pulse.streamlit.app" target="_blank">V-Pulse</a></td>
+            <td>Sovereign signal intelligence dashboard for 24/7 real-time threat monitoring and alert synchronization.</td>
+        </tr>
+        <tr>
+            <td><a href="https://veritas-x-dork.streamlit.app" target="_blank">X-Dork</a></td>
+            <td>Advanced reconnaissance and discovery engine for institutional-grade intelligence gathering.</td>
+        </tr>
+        <tr>
+            <td><a href="https://v-ghost-aggregator.streamlit.app" target="_blank">Ghost-Aggregator</a></td>
+            <td>Automated multi-source forensic data collection engine for high-volume threat ingestion.</td>
+        </tr>
 </table>
 
 
