@@ -1763,6 +1763,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             YETI is a proof-of-concept implementation of TAXII that supports the Inbox, Poll and Discovery services defined by the TAXII Services Specification.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/rolandpg/zettelforge" target="_blank">ZettelForge</a>
+        </td>
+        <td>
+            Agentic memory system for CTI with entity extraction, STIX 2.1 knowledge graph, and blended retrieval. Offline-first, no API keys required. Source available on <a href="https://github.com/rolandpg/zettelforge" target="_blank">GitHub</a>.
+        </td>
+    </tr>
 </table>
 
 
