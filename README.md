@@ -2006,3 +2006,6 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
 ## License
 
 Licensed under [Apache License 2.0](LICENSE).
+
+
+* [ThreatPrism](http://173.249.14.219/threatprism/) - Cryptographically signed threat-intelligence feed using EIP-712 off-chain attestations. Every observation is verifiable via standard web3 libraries (viem/ethers/web3.py) without trusting the issuer. Schemas for threats and purple-team primitive benchmarks. Agent-native, protocol-ready.
