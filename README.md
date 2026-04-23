@@ -277,6 +277,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://hackmyip.com/" target="_blank">HackMyIP</a>
+        </td>
+        <td>
+            Free online security toolkit with 20+ tools including IP lookup, DNS lookup, port scanner, email breach checker, WebRTC/DNS leak tests, browser fingerprinting, and password strength checker. No registration or API key required.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://honeydb.io/" target="_blank">HoneyDB</a>
         </td> 
         <td>
