@@ -685,6 +685,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://voidly.ai" target="_blank">Voidly</a>
+        </td>
+        <td>
+            Internet-censorship threat intelligence aggregating OONI, CensoredPlanet and IODA measurements into citable incidents with evidence for network-layer attacks such as DNS poisoning, TCP reset injection, TLS interference and ISP-level blocking. Covers 19.6M measurements across 126 countries with a <a href="https://api.voidly.ai" target="_blank">public API</a>, real-time webhook alerts, RSS/Atom feeds, BibTeX/RIS citation export, and CC BY 4.0 datasets on <a href="https://huggingface.co/datasets/emperor-mew/global-censorship-index" target="_blank">HuggingFace</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://vuldb.com/?actor" target="_blank">VulDB CTI</a>
         </td>
         <td>
