@@ -616,6 +616,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
 	    Cisco Talos Intelligence Group is one of the largest commercial threat intelligence teams in the world, comprised of world-class researchers, analysts and engineers. These teams are supported by unrivaled telemetry and sophisticated systems to create accurate, rapid and actionable threat intelligence for Cisco customers, products and services. Talos defends Cisco customers against known and emerging threats, discovers new vulnerabilities in common software, and interdicts threats in the wild before they can further harm the internet at large. Talos maintains the official rule sets of Snort.org, ClamAV, and SpamCop, in addition to releasing many open-source research and analysis tools. Talos provides an easy to use web UI to check an <a href="https://www.talosintelligence.com/reputation">observable's reputation</a>.
         </td>
     </tr>
+	 <tr>
+    	<td>
+            <a href="https://github.com/spmedia/Threat-Actor-Usernames-Scrape" target="_blank">Threat Actor Usernames Scrape</a>
+        </td>
+        <td>
+            A collection & lists of intel and usernames scraped from various cybercrime sources & forums. DarkForums, HackForums, Patched, Cracked, BreachForums, OGUser, XSS, Dread, & more.
+        </td>
+    </tr>			
     <tr>
         <td>
             <a href="https://threatfeeds.io" target="_blank">threatfeeds.io</a>
