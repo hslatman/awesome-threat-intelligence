@@ -1627,6 +1627,15 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             Lightweight National Software Reference Library RDS storage.
         </td>
     </tr>
+	</tr>
+    <tr>
+        <td>
+            <a href="https://spoofchecker.com" target="_blank">SpoofChecker</a>
+        </td>
+        <td>
+            Domain impersonation monitoring.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/0x4d31/sqhunter" target="_blank">sqhunter</a>
