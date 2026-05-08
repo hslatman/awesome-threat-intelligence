@@ -1243,6 +1243,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://kev-deadline-planner.vercel.app/" target="_blank">CISA KEV Deadline Planner</a>
+        </td>
+        <td>
+            CISA KEV Deadline Planner is a browser-only tool for matching pasted CVEs against a bundled CISA Known Exploited Vulnerabilities snapshot, prioritizing overdue and due-soon items, and exporting Markdown, CSV, and ICS artifacts. Source available on <a href="https://github.com/Turner-Levey/kev-deadline-planner" target="_blank">GitHub</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/mlsecproject/combine" target="_blank">Combine</a>
         </td>
         <td>
