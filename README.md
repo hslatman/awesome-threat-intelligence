@@ -1254,7 +1254,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             <a href="https://github.com/UPinar/contrastapi" target="_blank">ContrastAPI</a>
         </td>
         <td>
-            Free security intelligence API with 25+ MCP tools for AI agents. Provides WHOIS, CVE lookup, SSL/TLS analysis, DNS records, subdomain enumeration, IOC enrichment, threat intelligence, and security header validation through a unified REST API.
+            Security intelligence API with 49 MCP tools for AI agents. Provides WHOIS, CVE lookup with composite risk score (CVSS+EPSS+KEV+PoC fusion), MITRE ATLAS (AI/ML attack catalog) and D3FEND defenses, SSL/TLS analysis, DNS records, subdomain enumeration, IOC enrichment, threat intelligence, web intelligence (robots.txt, redirect-chain, email/brand/SEO), and security header validation through a unified REST API. Anonymous + Pro tier (API key).
         </td>
     </tr>
     <tr>
