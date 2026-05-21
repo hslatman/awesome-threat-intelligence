@@ -1156,6 +1156,8 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
 
 
 
+
+- [OWASP Agent Memory Guard](https://github.com/vgudur-dev/owasp-agent-memory-guard) - OWASP reference implementation for ASI06 memory poisoning defense in agentic AI systems. Scan-before-write pattern for LLM agent memory.
 ## Tools
 
 All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly IOC based.
