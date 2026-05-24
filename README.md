@@ -109,6 +109,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>    
     <tr>
         <td>
+            <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank">CISA Known Exploited Vulnerabilities Catalog</a>
+        </td>
+        <td>
+            The Cybersecurity and Infrastructure Security Agency (CISA) Known Exploited Vulnerabilities Catalog lists vulnerabilities that are known to be exploited in the wild and provides remediation due dates for U.S. federal civilian executive branch agencies.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://s3-us-west-1.amazonaws.com/umbrella-static/index.html" target="_blank">Cisco Umbrella</a>
         </td>
         <td>
@@ -1528,6 +1536,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks. 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/projectdiscovery/nuclei-templates" target="_blank">nuclei-templates</a>
+        </td>
+        <td>
+            Community-curated Nuclei templates for detecting vulnerabilities, misconfigurations, exposures and technologies using reproducible YAML-based checks.
         </td>
     </tr>
     <tr>
