@@ -1120,6 +1120,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             Facebook created ThreatExchange so that participating organizations can share threat data using a convenient, structured, and easy-to-use API that provides privacy controls to enable sharing with only desired groups. This project is still in <b>beta</b>. Reference code can be found at <a href="https://github.com/facebook/ThreatExchange" target="_blank">GitHub</a>.
         </td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://ti-mindmap-hub.com/" target="_blank">TI Mindmap HUB</a>
+        </td>
+        <td>
+            An AI-powered Cyber Threat Intelligence platform that automatically processes OSINT sources into structured outputs including STIX 2.1 bundles, IOCs, and MITRE ATT&CK mappings. Features interactive visualizations (Diamond Model, Attack Flow, STIX Graph), a weekly threat briefing, and an MCP server with 19 tools for LLM integration.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/typedb-osi/typedb-cti" target="_blank">TypeDB CTI</a>
