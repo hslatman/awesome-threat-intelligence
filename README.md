@@ -317,6 +317,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://ipasis.com" target="_blank">IPASIS</a>
+        </td>
+        <td>
+            IPASIS is a real-time bot detection and fraud prevention API that combines IP intelligence, proxy/VPN/Tor detection, and email validation into a single API call. Each request returns an Interaction Trust Score (0-100) with sub-20ms response time. Free tier includes 1,000 requests/day. <a href="https://ipasis.com/docs" target="_blank">API documentation</a> and a <a href="https://ipasis.com/scan" target="_blank">live scanner</a> are available.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt" target="_blank">IPsum</a>
         </td>
         <td>
