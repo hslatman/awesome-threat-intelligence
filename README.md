@@ -883,6 +883,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://platform.dfir-lab.ch" target="_blank">DFIR Platform</a>
+        </td>
+        <td>
+            API-first threat intelligence platform aggregating 14+ sources for IOC enrichment, phishing email analysis, and exposure scanning. Includes AI-powered triage with MITRE ATT&CK mapping and detection rule generation. Free tier available.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.eclecticiq.com/platform" target="_blank">EclecticIQ Platform</a>
         </td>
         <td>
