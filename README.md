@@ -293,6 +293,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.ismalicious.com/" target="_blank">IsMalicious</a>
+        </td>
+        <td>
+            IsMalicious is a cyberthreat reputation tool that provides real-time threat intelligence for IP addresses and domains. It helps security professionals identify malicious activity by checking IPs and domains against multiple threat databases and providing detailed reputation scores and historical data.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://infosec.cert-pa.it" target="_blank">Infosec - CERT-PA</a>
         </td>
         <td>
