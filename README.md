@@ -395,6 +395,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://jordanricky1604-ship-it.github.io/malware-families-catalog/" target="_blank">Malware Families Catalog</a>
+        </td>
+        <td>
+            An open dataset of 246 malware families based on the EMBER 2018 benchmark, with MITRE ATT&CK references and CISA advisory citations. Mirrored on HuggingFace and Kaggle. Apache-2.0 licensed.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://malware-traffic-analysis.net/" target="_blank">Malware-Traffic-Analysis.net</a>
         </td>
         <td>
