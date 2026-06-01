@@ -883,6 +883,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://defend.network" target="_blank">defend.network</a>
+        </td>
+        <td>
+            Free AI-powered cybersecurity intelligence platform publishing daily threat briefings, weekly vulnerability reports with remediation steps, and a curated directory of 59 security tools. Intelligence is structured by threat type, industry, and severity. Sources include CISA advisories, vendor bulletins, and leading cybersecurity publications. RSS feed available at <a href="https://defend.network/feed.xml" target="_blank">defend.network/feed.xml</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.eclecticiq.com/platform" target="_blank">EclecticIQ Platform</a>
         </td>
         <td>
