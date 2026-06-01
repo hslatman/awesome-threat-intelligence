@@ -1268,6 +1268,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/wolffcatskyy/crowdsec-blocklist-import" target="_blank">crowdsec-blocklist-import</a>
+        </td>
+        <td>
+            A daemon that aggregates 36+ free threat intelligence blocklist feeds (including abuse.ch, Spamhaus, Emerging Threats, and others) into CrowdSec decisions. Features daemon mode with configurable intervals, webhook notifications, Prometheus metrics, and customizable feed management.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://cti-transmute.org/" target="_blank">CTI-Transmute</a>
         </td>
         <td>
