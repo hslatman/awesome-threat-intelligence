@@ -370,6 +370,14 @@ Continuously updated and inform your business or clients about risks and implica
         <td>
 The primary goal of Malpedia is to provide a resource for rapid identification and actionable context when investigating malware. Openness to curated contributions shall ensure an accountable level of quality in order to foster meaningful and reproducible research. 
         </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://malpulse.com/" target="_blank">Malpulse</a>
+        </td>
+        <td>
+Proactive & free threat infrastructure monitoring service
+        </td>
     </tr>    
     <tr>
         <td>
