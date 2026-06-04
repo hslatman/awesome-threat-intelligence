@@ -341,6 +341,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://labs.jamessawyer.co.uk/cves/" target="_blank">James Sawyer CVE PoC Search</a>
+        </td>
+        <td>
+            Search public GitHub proof-of-concept repositories by CVE identifier, with more than 30,000 CVEs indexed and daily updates.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://support.kaspersky.com/datafeeds" target="_blank">Kaspersky Threat Data Feeds</a>
         </td>
         <td>
