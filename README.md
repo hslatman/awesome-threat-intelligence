@@ -1284,6 +1284,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://certgrep.sh" target="_blank">certgrep</a>
+        </td>
+        <td>
+            A fast Certificate Transparency Log regex domain lookup tool
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://cybergordon.com/" target="_blank">CyberGordon</a>
         </td>
         <td>
@@ -1336,6 +1344,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
         </td>
         <td>
             GoatRider is a simple tool that will dynamically pull down Artillery Threat Intelligence Feeds, TOR, AlienVaults OTX, and the Alexa top 1 million websites and do a comparison to a hostname file or IP file.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://haveibeensquatted.com" target="_blank">Have I Been Squatted</a>
+        </td>
+        <td>
+            A fast domain typosquatting detection tool
         </td>
     </tr>
     <tr>
