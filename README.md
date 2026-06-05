@@ -189,6 +189,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://oti-labs.com/domain-intelligence-api" target="_blank">Domain Intelligence</a>
+        </td>
+        <td>
+            Single-call REST API aggregating DNS, WHOIS/RDAP, SSL/TLS, subdomain enumeration via Certificate Transparency logs (with DNS bruteforce fallback), and email-security posture (SPF/DMARC). Free tier; MIT-licensed open source.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://feed.ellio.tech" target="_blank">ELLIO: IP Feed (community free version)</a>
         </td>
         <td>
