@@ -347,6 +347,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 Continuously updated and inform your business or clients about risks and implications associated with cyber threats. The real-time data helps you to mitigate threats more effectively and defend against attacks even before they are launched. Demo Data Feeds contain truncated sets of IoCs (up to 1%) compared to the commercial ones
         </td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://leakradar.io/" target="_blank">LeakRadar</a>
+        </td>
+        <td>
+            LeakRadar provides searchable access to over 220 billion credentials from stealer logs, data breaches and dark web sources. It offers domain-level breach reports, continuous monitoring with real-time alerts, and API access for integration into threat intelligence workflows. Useful for identifying compromised employee credentials and assessing organizational exposure.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://majestic.com/reports/majestic-million" target="_blank">Majestic Million</a>
