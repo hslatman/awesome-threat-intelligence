@@ -873,7 +873,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             The Collective Intelligence Framework (CIF) allows you to combine known malicious threat information from many sources and use that information for IR, detection and mitigation. Code available on <a href="https://github.com/csirtgadgets/massive-octo-spice" target="_blank">GitHub</a>.
         </td>
     </tr>
-<tr>
+    <tr>
         <td>
             <a href="https://cyware.com/ctix-stix-taxii-cyber-threat-intelligence-exchange" target="_blank">CTIX</a>
         </td>
@@ -887,6 +887,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
         </td>
         <td>
             EclecticIQ Platform is a STIX/TAXII based Threat Intelligence Platform (TIP) that empowers threat analysts to perform faster, better, and deeper investigations while disseminating intelligence at machine-speed.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.esentire.com/resources/blog/p1?start=156&blogType%5B%5D=Threat%20Response%20Unit" target="_blank">eSentire's Threat Response Unit</a>
+        </td>
+        <td>
+            eSentire's Threat Response Unit (TRU) publishes deep technical content and security advisories on emerging threats.
         </td>
     </tr>
     <tr>
