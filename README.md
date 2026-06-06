@@ -671,6 +671,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
         </td>
         <td>Email addresses used by malware collected by VVestron Phoronix (WSTNPHX)</td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://threatcluster.io">ThreatCluster</a>
+        </td>
+        <td>
+            Free threat intelligence platform aggregating and semantically clustering 5000+ sources. Automatically extracts APT groups, ransomware families, malware, CVEs, MITRE ATT&CK TTPs, and IOCs. Provides web interface with search and filtering, <a href="https://threatcluster.io/digest">daily email digest</a>, RSS feed, and MISP feed integration for programmatic consumption. Free alternative to commercial platforms like Recorded Future and Feedly Threat Intelligence.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://portal.underattack.today/" target="_blank">UnderAttack.today</a>
