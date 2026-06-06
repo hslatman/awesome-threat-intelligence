@@ -843,6 +843,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://beholder.me" target="_blank">Beholder</a>
+        </td>
+        <td>
+            Free real-time global threat intelligence map aggregating 30+ OSINT sources (aircraft, vessels, satellites, earthquakes, conflict, cyber threats) onto an interactive 3D globe.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://community.blueliv.com/" target="_blank">Blueliv Threat Exchange Network</a>
         </td>
         <td>
