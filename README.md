@@ -1572,6 +1572,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/aeriesec/orgforge" target="_blank">OrgForge</a>
+        </td>
+        <td>
+            A deterministic corporate simulator that generates high-fidelity, ground-truth ecosystems including a dedicated Insider Threat Module. It injects realistic adversarial behaviors—such as data exfiltration, host-based data hoarding, and IDP anomalies—into standard enterprise artifacts like Slack, Jira, and Git PRs. The tool exports labeled training corpora in industry-standard formats, including CEF, ECS, and LEEF, specifically designed to train and benchmark detection agents against multi-stage behavioral threats.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/kx499/ostip/wiki" target="_blank">OSTIP</a>
         </td>
         <td>
