@@ -317,6 +317,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://ip-api.io" target="_blank">IP-API.io</a>
+        </td>
+        <td>
+            IP-API.io provides IP intelligence for threat assessment: geolocation, ASN, reverse DNS, VPN, proxy and Tor exit node detection, IP reputation and risk scoring through a JSON API. Free tier of 200 lookups per day.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://ipasis.com" target="_blank">IPASIS</a>
         </td>
         <td>
