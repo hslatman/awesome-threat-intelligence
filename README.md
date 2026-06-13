@@ -1814,6 +1814,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="https://1200km.com/cti-analyst-field-manual/" target="_blank">CTI Analyst Field Manual</a>
+        </td>
+        <td>
+            A practical open-access tradecraft handbook covering the full CTI analyst lifecycle: source reliability assessment using the Admiralty System, structured analytic techniques, adversary profiling, PIR/SIR development, hunting hypothesis writing, and CTI-to-detection handoff. Organized across ten modules with annotated templates, AI-assisted CTI workflow guidance, and a CTI-to-detection pipeline designed for SOC handoff.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://car.mitre.org/wiki/Main_Page" target="_blank">Cyber Analytics Repository by MITRE</a>
         </td>
         <td>
