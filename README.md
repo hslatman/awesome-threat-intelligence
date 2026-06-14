@@ -1179,6 +1179,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/anpa1200/AIDebug" target="_blank">AIDebug</a>
+        </td>
+        <td>
+            AIDebug is an AI-assisted malware reverse-engineering debugger that turns function behavior into ATT&CK mappings, YARA candidates, IOCs, JSON exports and analyst reports.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://bitbucket.org/camp0/aiengine" target="_blank">AIEngine</a>
         </td>
         <td>
