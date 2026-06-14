@@ -1094,6 +1094,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/anpa1200/threatmapper" target="_blank">ThreatMapper</a>
+        </td>
+        <td>
+            ThreatMapper is an open-source CTI-to-detection workbench for mapping threat reports to MITRE ATT&CK, comparing TTP overlap with known groups and campaigns, identifying detection gaps, and exporting analyst-ready outputs.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.threatcrowd.org/" target="_blank">ThreatCrowd</a>
         </td>
         <td>
