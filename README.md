@@ -1276,6 +1276,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/anpa1200/cti-mcp-server" target="_blank">CTI MCP Server</a>
+        </td>
+        <td>
+            CTI MCP Server implements a human-supervised, 15-phase threat intelligence production workflow as a Model Context Protocol server. It provides analyst validation gates, structured evidence management, quality controls, and optional MISP and OpenCTI integrations.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/cuckoosandbox/cuckoo" target="_blank">Cuckoo Sandbox</a>
         </td>
         <td>
