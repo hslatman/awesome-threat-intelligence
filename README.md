@@ -1653,6 +1653,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://superhighway.walls.sh/guides/cybersecurity-research-agent" target="_blank">Superhighway</a>
+        </td>
+        <td>
+            Guide to building a Python threat-intelligence research agent that gathers CVE details, attacker TTPs, and IOCs from live web sources (advisories, NVD/MITRE pages, breach reports) and produces structured JSON reports with severity ratings, mitigation steps, and risk scores. Uses search, scrape, research, and news endpoints. Pay-per-call, no signup.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://stixvalidator.com" target="_blank">Stixvalidator.com</a>
         </td>
         <td>
