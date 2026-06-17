@@ -891,6 +891,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/hookprobe/hookprobe" target="_blank">HookProbe HYDRA</a>
+        </td>
+        <td>
+            Open-source threat intelligence pipeline with feed sync, ML classification, anomaly detection, and predictive alerts. Licensed under AGPL-3.0.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.enisa.europa.eu/topics/csirt-cert-services/community-projects/incident-handling-automation" target="_blank">IntelMQ</a>
         </td>
         <td>
