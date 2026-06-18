@@ -701,6 +701,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://voidly.ai/censorship-index" target="_blank">Voidly Censorship Index</a>
+        </td>
+        <td>
+            Real-time global internet censorship intelligence aggregating 19.6M live OONI samples and 1.6M historical records across 119+ countries. Provides a citable incident database (5,356 incidents, 16,822 evidence items), an ML-based shutdown early-warning feed (Sentinel), ISP-level risk scoring, and a public REST/MCP API for blocking, DNS poisoning, and BGP-level outage signals (CC BY 4.0).
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Yara-Rules/rules" target="_blank">Yara-Rules</a>
         </td>
         <td>
