@@ -213,6 +213,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://evil-db.io/" target="_blank">Evil-DB</a>
+        </td>
+        <td>
+            Evil-DB is a free threat intelligence database and API for malicious IPs, domains, and file hashes. It offers downloadable blocklists in multiple formats (plain, hosts, RPZ, Snort/Suricata), CVE-to-software matching (NVD, EPSS, CISA KEV), and STIX/TAXII feeds, with a generous free tier.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://exonerator.torproject.org/" target="_blank">ExoneraTor</a>
         </td>
         <td>
