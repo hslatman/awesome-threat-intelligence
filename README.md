@@ -827,6 +827,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/anpa1200/adversarygraph" target="_blank">AdversaryGraph</a>
+        </td>
+        <td>
+            AdversaryGraph is a self-hosted CTI-to-detection workbench for mapping reports and IOCs to MITRE ATT&CK, correlating actors, campaigns and TTPs, enriching observables, and generating analyst-reviewed detection rules.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.cisa.gov/ais" target="_blank">AIS</a>
         </td>
         <td>
