@@ -544,6 +544,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             Public access IoCs from technical blogs posts and reports by SecurityScorecard.
         </td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://siberkapan.org" target="_blank">SiberKapan</a>
+        </td>
+        <td>
+            An open-source threat intelligence platform focused on cyber threats targeting Turkish infrastructure. Aggregates data from a custom-built honeypot network, Fail2ban, and FortiGate Security Fabric automation, with bidirectional AbuseIPDB integration, to produce a unified deny-policy feed.
+        </td>
+    </tr>			
     <tr>
         <td>
             <a href="https://www.stixify.com/" target="_blank">Stixify</a>
