@@ -37,6 +37,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://badbot.net/" target="_blank">BadBot</a>
+        </td>
+        <td>
+            BadBot is an IP and domain reputation service using distributed honeypot sensors to score web/API abuse, exploit probes, credential-stuffing bots, and scanning activity. It provides correlation and high-risk feeds in JSON, CSV, and TXT formats.
+        </td>
+    </tr>
+
+	<tr>
+        <td>
             <a href="https://www.binarydefense.com/banlist.txt" target="_blank">Binary Defense IP Banlist</a>
         </td>
         <td>
