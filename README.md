@@ -189,6 +189,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://domainintel.onrender.com" target="_blank">DomainIntel</a>
+        </td>
+        <td>
+            Real-time domain intelligence API providing RDAP, DNS-over-HTTPS, Certificate Transparency (crt.sh), and bulk domain lookups. Free tier: 100 requests/day. Paid tiers on RapidAPI.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://feed.ellio.tech" target="_blank">ELLIO: IP Feed (community free version)</a>
         </td>
         <td>
