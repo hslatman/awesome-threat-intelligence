@@ -1763,6 +1763,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             The Threat Intelligence Quotient (TIQ) Test tool provides visualization and statistical analysis of TI feeds.
         </td>
     </tr>
+	<tr>
+    <td>
+        <a href="https://github.com/KatrielMoses/voidaccess" target="_blank">VoidAccess</a>
+    </td>
+    	<td>
+        VoidAccess is an open source self-hosted dark web OSINT platform for automated threat intelligence collection. Runs a 13-step pipeline over Tor covering query refinement, multi-engine search, entity extraction, relationship graphing, and structured export in STIX 2.1, MISP, Sigma, and CSV.
+    	</td>
+	</tr>
     <tr>
         <td>
             <a href="https://github.com/TAXIIProject/yeti" target="_blank">YETI</a>
