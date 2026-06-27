@@ -830,7 +830,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             <a href="https://github.com/anpa1200/adversarygraph" target="_blank">AdversaryGraph</a>
         </td>
         <td>
-            AdversaryGraph is a self-hosted CTI-to-detection workbench for mapping reports and IOCs to MITRE ATT&CK, correlating actors, campaigns and TTPs, enriching observables, and generating analyst-reviewed detection rules.
+            AdversaryGraph is a self-hosted CTI-to-detection workbench for mapping reports, IOCs, malware-analysis evidence, and operational telemetry to MITRE ATT&CK/ATLAS. It supports actor/campaign/TTP correlation, IOC enrichment, MalwareGraph-backed malware analysis, OpenCTI/STIX workflows, detection-gap review, analyst validation states, exports, and production-hardened Docker deployment.
         </td>
     </tr>
     <tr>
