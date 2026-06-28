@@ -189,6 +189,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://domscan.net" target="_blank">DomScan</a>
+        </td>
+        <td>
+            Domain intelligence for developers and AI agents: DNS, WHOIS/RDAP, SSL/TLS, subdomain enumeration, certificate search, typosquatting and brand monitoring, plus domain valuation and availability. One API and MCP server are available.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://feed.ellio.tech" target="_blank">ELLIO: IP Feed (community free version)</a>
         </td>
         <td>
