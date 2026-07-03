@@ -285,6 +285,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://honeylabs.net/" target="_blank">HoneyLabs</a>
+        </td>
+        <td>
+            HoneyLabs provides free per-IP reports built from a distributed honeypot network: captured payloads, targeted ports and CVE signature matches, JA4/JA4H/HASSH fingerprints, and VirusTotal-verified malware the IP delivered. The data is queryable anonymously on the web, over a JSON API and via an <a href="https://github.com/honeylabshq/honeylabs-mcp" target="_blank">MCP server</a>, with open no-auth IOC feeds of active exploiters and malware infrastructure.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/SupportIntelligence/Icewater" target="_blank">Icewater</a>
         </td>
         <td>
