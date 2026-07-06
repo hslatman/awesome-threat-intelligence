@@ -133,6 +133,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://dnsai.com/dns-tools/" target="_blank">DNSai</a>
+        </td>
+        <td>
+            DNSai provides free, no-signup DNS and email-authentication lookups for assessing a domain's security posture: DNS/WHOIS records, SPF analysis with lookup-limit check, DKIM selector discovery, DMARC policy check, email header analysis and multi-blacklist checks, with plain-English explanations and a free API.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.cybercure.ai/" target="_blank">Cyber Cure free intelligence feeds</a>
         </td>
         <td>
