@@ -1675,6 +1675,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             STIX Visualization Tool.
         </td>
     </tr>
+<tr>
+    <td>
+        <a href="https://github.com/AbdaullahAG/Threat_Intel_Project" target="_blank">ThreatLens</a>
+    </td>
+    <td>
+        ThreatLens is a professional multi-source Threat Intelligence CLI tool to investigate IPs, domains, hashes, and CVEs across 6 free APIs (AbuseIPDB, VirusTotal, AlienVault OTX, Shodan, URLScan.io, NVD) with automated log parsing and color-coded Excel/JSON reports. (Free for Non-commercial use).
+    </td>
+</tr>
     <tr>
         <td>
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
