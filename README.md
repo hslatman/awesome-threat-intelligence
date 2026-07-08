@@ -133,6 +133,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.csirts.com/" target="_blank">CSIRTS.com</a>
+        </td>
+        <td>
+            Free unified feed of official security advisories from 21 national CERTs, vendor PSIRTs and vulnerability databases (CISA, CERT-EU, CERT-Bund, CERT-FR, JPCERT/CC, MSRC, Cisco, Fortinet and more) — normalized into one schema, machine-translated to English, deduplicated and flagged against the CISA KEV catalog and public exploit datasets (Metasploit, Exploit-DB, Nuclei, PoC-in-GitHub). Keyless <a href="https://www.csirts.com/about" target="_blank">JSON API</a>, filterable RSS/Atom feeds, an <a href="https://www.csirts.com/mcp" target="_blank">MCP server</a> for AI agents and a daily email briefing.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.cybercure.ai/" target="_blank">Cyber Cure free intelligence feeds</a>
         </td>
         <td>
