@@ -568,6 +568,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://www.truepositive.app" target="_blank">TruePositive</a>
+        </td>
+        <td>
+            Community ground-truth on CVEs — practitioner verdicts (real vs false positive), real-world severity vs CVSS, exploit availability, and remediation. Free API and badge.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://raw.githubusercontent.com/WSTNPHX/scripts-n-tools/master/malware-email-addresses.txt">WSTNPHX Malware Email Addresses</a>
         </td>
         <td>Email addresses used by malware collected by VVestron Phoronix (WSTNPHX)</td>
