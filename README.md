@@ -1169,6 +1169,9 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
 * [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
 
 
+* [Violin](https://github.com/Strategic-Automation/violin) - AI-native pentest framework and Hermes agent profile/plugin for autonomous, human-in-the-loop offensive security (IDOR/SSRF/XSS triage, multi-stage agentic testing).
+
+
 All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly IOC based.
 
 <table>
