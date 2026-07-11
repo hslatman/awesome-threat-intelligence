@@ -538,6 +538,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://notcve.org/" target="_blank">NotCVE</a>
+        </td>
+        <td>
+            NotCVE is a vulnerability search engine covering CVEs and vendor-refused NotCVEs. Records are enriched with CVSS, EPSS, CISA KEV, SSVC, NIST-repaired affected versions and correlated advisories, exploits and patch intelligence from 80+ sources. Free search, with API and MCP access available.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/securityscorecard/SSC-Threat-Intel-IoCs" target="_blank">SecurityScorecard IoCs</a>
         </td>
         <td>
