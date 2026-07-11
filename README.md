@@ -1572,6 +1572,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/haizen1312/osintpro" target="_blank">OSINTPRO</a>
+        </td>
+        <td>
+            Passive OSINT workspace for collecting public domain, username, repository and wallet evidence into investigation graphs and client-ready reports.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/kx499/ostip/wiki" target="_blank">OSTIP</a>
         </td>
         <td>
