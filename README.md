@@ -37,6 +37,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://www.arachne.digital/" target="_blank">Arachne Digital</a>
+        </td>
+        <td>
+            A commercial and open source cyber threat intelligence platform aimed at threat-informed defence that auto‑maps text to MITRE ATT&CK®. Organisations working in public healthcare, public education and human rights can apply to access the API feed and regular reports free of charge.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.binarydefense.com/banlist.txt" target="_blank">Binary Defense IP Banlist</a>
         </td>
         <td>
@@ -1683,6 +1691,15 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             Allows you to test your TAXII environment by connecting to the provided services and performing the different functions as written in the TAXII specifications.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://app.arachne.digital/thread" target="_blank">Thread</a>
+        </td>
+        <td>
+            An open source web/NLP tool that ingests URLs or text and auto‑maps sentences to MITRE ATT&CK®, letting analysts review, tag, and export STIX/Navigator/PDF outputs for rapid CTI production.
+        </td>
+    </tr>
+    <tr>
     <tr>
         <td>
             <a href="https://github.com/jpsenior/threataggregator" target="_blank">threataggregator</a>
