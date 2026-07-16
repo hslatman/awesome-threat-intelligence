@@ -988,6 +988,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://malwareintel.es" target="_blank">MalwareIntel</a>
+        </td>
+        <td>
+            MalwareIntel is a free threat intelligence platform that aggregates 13 public CTI feeds (Abuse.ch, AlienVault OTX, MITRE ATT&CK, CISA KEV, and more) into a single searchable interface. Features include IOC search across 1.6M+ indicators, malware family explorer with MITRE ATT&CK mapping, Sigma/KQL/SPL detection rule generator, and an interactive Knowledge Graph for visualizing threat relationships.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.fireeye.com/services/freeware.html" target="_blank">OpenIOC</a>
         </td>
         <td>
