@@ -626,6 +626,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://threadlinqs.com/" target="_blank">Threadlinqs</a>
+        </td>
+        <td>
+            Threat-intelligence platform offering a free C2 blocklist plus STIX 2.1, TAXII 2.1 and native MISP feeds, alongside curated threats, detection logic (Sigma/SPL/KQL), IOCs, threat-actor attribution and MITRE ATT&CK coverage. Also exposes a REST API and an MCP server for AI assistants.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://threatfeeds.io" target="_blank">threatfeeds.io</a>
         </td>
         <td>
