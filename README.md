@@ -19,6 +19,14 @@ Some consider these sources as threat intelligence, opinions differ however.
 A certain amount of (domain- or business-specific) analysis is necessary to create true threat intelligence.
 
 <table>
+	<tr>
+        <td>
+            <a href="https://github.com/shlokkokk/kavach" target="_blank">KAVACH</a>
+        </td>
+        <td>
+            Multi-modal fraud defense platform with three real-time shields: deepfake voice detection via 9 spectral features extracted with librosa, live SIM-swap and OTP-hijack telemetry over WebSocket using carrier data from IPQualityScore, and job-scam forensics that checks URLs against 6 parallel threat intel sources (VirusTotal, Google Safe Browsing, URLHaus, AbuseIPDB, SecurityTrails) with dual-LLM scam scoring via NVIDIA NIM and Groq LLaMA 3.3.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
@@ -1169,6 +1177,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
 All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly IOC based.
 
 <table>
+	<tr>
+        <td>
+            <a href="https://github.com/shlokkokk/kavach" target="_blank">KAVACH</a>
+        </td>
+        <td>
+            Multi-modal fraud defense platform with three real-time shields: deepfake voice detection via 9 spectral features extracted with librosa, live SIM-swap and OTP-hijack telemetry over WebSocket using carrier data from IPQualityScore, and job-scam forensics that checks URLs against 6 parallel threat intel sources (VirusTotal, Google Safe Browsing, URLHaus, AbuseIPDB, SecurityTrails) with dual-LLM scam scoring via NVIDIA NIM and Groq LLaMA 3.3.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/jalewis/actortrackr" target="_blank">ActorTrackr</a>
