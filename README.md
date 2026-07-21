@@ -19,6 +19,14 @@ Some consider these sources as threat intelligence, opinions differ however.
 A certain amount of (domain- or business-specific) analysis is necessary to create true threat intelligence.
 
 <table>
+	<tr>
+        <td>
+            <a href="https://github.com/shlokkokk/zerorisk-sentinel" target="_blank">ZeroRisk Sentinel</a>
+        </td>
+        <td>
+            Hybrid threat intelligence platform combining static binary inspection, APK permission forensics, and YARA scanning, with an LLM layer that translates forensic reports into plain-English explanations.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
@@ -1169,6 +1177,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
 All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly IOC based.
 
 <table>
+	<tr>
+        <td>
+            <a href="https://github.com/shlokkokk/zerorisk-sentinel" target="_blank">ZeroRisk Sentinel</a>
+        </td>
+        <td>
+            Hybrid threat intelligence platform combining static binary inspection, APK permission forensics, and YARA scanning, with an LLM layer that translates forensic reports into plain-English explanations.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/jalewis/actortrackr" target="_blank">ActorTrackr</a>
