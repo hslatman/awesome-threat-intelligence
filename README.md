@@ -2009,7 +2009,31 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
 </table>
 
+## Courses
 
+Most of the resources listed below are structured training programs rather than
+reference material, aimed at people learning the discipline rather than looking
+something up. Formats differ widely: self-paced reading, instructor-led classes,
+graded labs and hands-on exercises, with prerequisites ranging from none at all
+to prior SOC or incident response experience.
+
+<table>
+	<tr>
+    	<td>
+        	<a href="https://ctiacademy.io" target="_blank">CTI Academy</a>
+    	</td>
+    	<td>
+        	A self-paced training platform focused on cyber threat intelligence as a
+        	working practice. Material is organised into progressive levels and covers
+        	intelligence fundamentals and the intelligence cycle, OSINT collection and
+        	source verification, the initial access broker and underground ecosystem,
+        	fraud intelligence, and analyst OPSEC. Written lessons are paired with
+        	hands-on challenges and isolated lab environments where the reader works
+        	against simulated sources and real tooling, so no prior SOC background is
+        	assumed. Free and paid tiers are both available.
+    	</td>
+	</tr>
+</table>
 
 ## License
 
