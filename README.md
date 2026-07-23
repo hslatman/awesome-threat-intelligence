@@ -1806,6 +1806,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/mxm0z/awesome-intelligence-writing" target="_blank">Awesome Intelligence Writing</a>
+        </td>
+        <td>
+            A curated collection of manuals, articles, guides, videos, and courses on intelligence writing, helping analysts (including cyber threat intel analysts) write clear, concise, tradecraft-standard reports and assessments.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.activeresponse.org/building-threat-hunting-strategy-with-the-diamond-model/" target="_blank">Building Threat Hunting Strategies with the Diamond Model</a>
         </td>
         <td>
