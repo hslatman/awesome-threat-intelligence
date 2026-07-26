@@ -1572,6 +1572,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/atenreiro/opensquat" target="_blank">openSquat</a>
+        </td>
+        <td>
+            Open source tool to detect cyber squatting threats: phishing, typosquatting, IDN homograph attacks, doppelganger domains and bitsquatting. It searches daily newly registered domain (NRD) feeds for lookalikes of a given keyword list using Levenshtein distance, and can enrich findings with VirusTotal reputation, Quad9 DNS validation, Certificate Transparency logs and phishing databases. Written in Python, with TXT, JSON and CSV output for automation.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/kx499/ostip/wiki" target="_blank">OSTIP</a>
         </td>
         <td>
