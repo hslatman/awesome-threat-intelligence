@@ -1508,6 +1508,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://malwareintel.es" target="_blank">MalwareIntel</a>
+        </td>
+        <td>
+            Free threat intelligence platform with 4,200+ malware families, 351K+ IOCs, MITRE ATT&CK mapping, 3,600+ detection rules (Sigma, YARA, Snort), and browser-based security tools. Aggregates 117+ public feeds.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/silascutler/MalPipe" target="_blank">MalPipe</a>
         </td>
         <td>
