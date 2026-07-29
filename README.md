@@ -157,14 +157,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://pulsefeed.dev/incidents" target="_blank">PulseFeed x402/MCP Security Feed</a>
-        </td>
-        <td>
-            Live security incidents in the x402 agent-payment economy and the MCP server ecosystem: hijacked payment receivers, bait-and-switch pricing, honeypots and unverified receivers, each with an on-chain proof URL. Free JSON (<a href="https://pulsefeed.dev/incidents.json" target="_blank">/incidents.json</a>) and RSS (<a href="https://pulsefeed.dev/incidents.rss" target="_blank">/incidents.rss</a>) feeds from a continuous independent audit; daily-updated dataset on <a href="https://huggingface.co/datasets/Nikolife/pulsefeed-x402-security" target="_blank">Hugging Face</a>.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://focsec.com" target="_blank">Focsec.com</a>
         </td>
         <td>
@@ -503,6 +495,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
         </td>
         <td>
             PickupSTIX is a feed of free, open-source, and non-commercialized cyber threat intelligence. Currently, PickupSTIX uses three public feeds and distributes about 100 new pieces of intelligence each day. PickupSTIX translates the various feeds into STIX, which can communicate with any TAXII server. The data is free to use and is a great way to begin using cyber threat intelligence.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://pulsefeed.dev/incidents" target="_blank">PulseFeed x402/MCP Security Feed</a>
+        </td>
+        <td>
+            Live security incidents in the x402 agent-payment economy and the MCP server ecosystem: hijacked payment receivers, bait-and-switch pricing, honeypots and unverified receivers, each with an on-chain proof URL. Free JSON (<a href="https://pulsefeed.dev/incidents.json" target="_blank">/incidents.json</a>) and RSS (<a href="https://pulsefeed.dev/incidents.rss" target="_blank">/incidents.rss</a>) feeds from a continuous independent audit; daily-updated dataset on <a href="https://huggingface.co/datasets/Nikolife/pulsefeed-x402-security" target="_blank">Hugging Face</a>.
         </td>
     </tr>
     <tr>
