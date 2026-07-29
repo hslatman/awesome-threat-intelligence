@@ -157,6 +157,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://pulsefeed.dev/incidents" target="_blank">PulseFeed x402/MCP Security Feed</a>
+        </td>
+        <td>
+            Live security incidents in the x402 agent-payment economy and the MCP server ecosystem: hijacked payment receivers, bait-and-switch pricing, honeypots and unverified receivers, each with an on-chain proof URL. Free JSON (<a href="https://pulsefeed.dev/incidents.json" target="_blank">/incidents.json</a>) and RSS (<a href="https://pulsefeed.dev/incidents.rss" target="_blank">/incidents.rss</a>) feeds from a continuous independent audit; daily-updated dataset on <a href="https://huggingface.co/datasets/Nikolife/pulsefeed-x402-security" target="_blank">Hugging Face</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://focsec.com" target="_blank">Focsec.com</a>
         </td>
         <td>
