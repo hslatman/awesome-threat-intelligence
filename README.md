@@ -502,7 +502,7 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             <a href="https://pulsefeed.dev/incidents" target="_blank">PulseFeed x402/MCP Security Feed</a>
         </td>
         <td>
-            Live security incidents in the x402 agent-payment economy and the MCP server ecosystem: hijacked payment receivers, bait-and-switch pricing, honeypots and unverified receivers, each with an on-chain proof URL. Free JSON (<a href="https://pulsefeed.dev/incidents.json" target="_blank">/incidents.json</a>) and RSS (<a href="https://pulsefeed.dev/incidents.rss" target="_blank">/incidents.rss</a>) feeds from a continuous independent audit; daily-updated dataset on <a href="https://huggingface.co/datasets/Nikolife/pulsefeed-x402-security" target="_blank">Hugging Face</a>.
+            Anomalies observed in live x402 payment endpoints and MCP servers: receiver-address changes between observations, catalog price vs. challenge price mismatches, invalid receivers, testnet endpoints listed as production and payment schemes outside the x402 spec — each with an on-chain reference. Measurements, not accusations of intent. Free JSON (<a href="https://pulsefeed.dev/incidents.json" target="_blank">/incidents.json</a>) and RSS (<a href="https://pulsefeed.dev/incidents.rss" target="_blank">/incidents.rss</a>) feeds from a continuous independent audit; daily-updated dataset on <a href="https://huggingface.co/datasets/Nikolife/pulsefeed-x402-security" target="_blank">Hugging Face</a>.
         </td>
     </tr>
     <tr>
