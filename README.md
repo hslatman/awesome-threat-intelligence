@@ -701,6 +701,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://whisper.security" target="_blank">Whisper</a>
+        </td>
+        <td>
+            Real-time graph intelligence platform that correlates 45 billion internet infrastructure data points. Built by former ICANN Board Director Kaveh Ranjbar and Soroush Rafiee Rad (double PhD in Math/InfoSec). Free API available at developer.whisper.security.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Yara-Rules/rules" target="_blank">Yara-Rules</a>
         </td>
         <td>
