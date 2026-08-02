@@ -1160,6 +1160,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             The open, distributed, machine and analyst-friendly threat intelligence repository. Made by and for incident responders.
         </td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://leaknix.com/" target="_blank">LeakNix</a>
+        </td>
+        <td>
+            LeakNix is a data breach search engine that aggregates intelligence from over 500 public and dark web sources. It provides real-time monitoring and visual reporting for leaked credentials and compromised emails, useful for initial OSINT reconnaissance and identity protection.
+        </td>
+    </tr>
 </table>
 
 
