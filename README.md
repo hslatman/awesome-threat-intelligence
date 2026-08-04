@@ -349,6 +349,14 @@ Continuously updated and inform your business or clients about risks and implica
     </tr>
     <tr>
         <td>
+            <a href="https://www.layercall.com" target="_blank">LayerCall</a>
+        </td>
+        <td>
+            LayerCall is a trust intelligence API that scores an IP, email, phone, domain or device — or a whole signup in a single call — and returns an allow/review/block verdict together with every signal behind it, rather than a bare number. Signals include VPN, proxy, Tor and datacenter detection, ASN and geolocation, disposable and role-account email, homograph domains, phone line type and carrier, domain age, and device fingerprint reuse across accounts. Confirmed abuse reported by one account feeds a shared reputation network. Free tier includes 1,000 lookups/month across every endpoint, with no daily cap and no card required. <a href="https://www.layercall.com/docs" target="_blank">API documentation</a> and a <a href="https://www.layercall.com/playground" target="_blank">live playground</a> are available.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://majestic.com/reports/majestic-million" target="_blank">Majestic Million</a>
         </td>
         <td>
