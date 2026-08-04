@@ -1102,6 +1102,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/alexlinos/threat-feed-me" target="_blank">Threat Feed Me!</a>
+        </td>
+        <td>
+            Self-hosted, on-prem aggregator that normalizes, deduplicates and confidence-scores free keyless IP blocklists into High/Medium/Low confidence tiers, served as ready-to-poll firewall feed URLs. Runs as a single Docker container (FastAPI + SQLite).
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.threatpipes.com" target="_blank">ThreatPipes</a>
         </td>
         <td>
