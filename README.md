@@ -709,6 +709,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://yasna.io" target="_blank">Yasna</a>
+        </td>
+        <td>
+            Open cybersecurity news aggregator, CVE tracker, and threat intelligence feed offering custom webhooks, topic feeds, and trend tracking.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://IOCFeed.mrlooquer.com/" target="_blank">1st Dual Stack Threat Feed by MrLooquer</a>
         </td>
         <td>
