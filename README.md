@@ -332,6 +332,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
         </td>
     </tr>
     <tr>
+        <td>
+            <a href="https://ipwhois.net/blacklist" target="_blank">IPWhois.net Blacklist</a>
+        </td>
+        <td>
+            A community-driven IP blacklist of over 180,000 reported malicious IP addresses (brute-force, spam, scanning and other abuse), updated continuously from user reports and honeypot sources such as fail2ban. Each IP carries a threat category, confidence score and report count. Lookups and reporting are available through a free API, described in the <a href="https://ipwhois.net/blacklist/docs" target="_blank">API documentation</a>.
+        </td>
+    </tr>
+    <tr>
 	<td>
             <a href="https://jamesbrine.com.au" target="_blank">James Brine Threat Intelligence Feeds</a>
         </td>
