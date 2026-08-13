@@ -1,0 +1,6 @@
+## Add Malware Families Catalog
+
+- **URL:** https://jordanricky1604-ship-it.github.io/malware-families-catalog/
+- **Description:** An expert-curated encyclopedia of 2,899 malware families. Features dynamic MITRE ATT&CK mappings, interactive incident response checklists, actionable IOCs, and is authored by Senior Incident Responders. Datasets available in Parquet/JSONL with a free JSON API.
+- **Mirrors:** [Kaggle](https://www.kaggle.com/datasets/rickyjordan/malware-families-catalog) | [Hugging Face](https://huggingface.co/datasets/Jordan123234/malware-families-catalog)
+- **License:** Apache-2.0
