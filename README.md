@@ -1629,6 +1629,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/hett-patell/ShardLure" target="_blank">ShardLure</a>
+        </td>
+        <td>
+            ShardLure derives attacker identity from Cowrie SSH honeypot telemetry, clustering attackers by HASSH fingerprint, enriching their IPs against threat-intel feeds, and exporting STIX 2.1 IOCs. It shares confirmed payloads and malware URLs back to <a href="https://bazaar.abuse.ch/" target="_blank">MalwareBazaar</a> and <a href="https://urlhaus.abuse.ch/" target="_blank">URLhaus</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/spacepatcher/softrace" target="_blank">Softrace</a>
         </td>
         <td>
