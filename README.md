@@ -634,6 +634,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://threatcluster.io/" target="_blank">ThreatCluster</a>
+        </td>
+        <td>
+            Free platform clustering threat reporting from 17,000+ sources into deduplicated events. Public IOC feed, ransomware victim tracking and RSS.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://threatfox.abuse.ch/" target="_blank">threatfox.abuse.ch</a>
         </td>
         <td>
