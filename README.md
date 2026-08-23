@@ -1653,6 +1653,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://www.stackscan.com/" target="_blank">StackScan</a>
+        </td>
+        <td>
+            Search the web by served asset, technology or keyword. Given a file name, an asset path or the host an asset loads from, returns every site carrying that footprint, which finds exposure that no named detector exists for.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://stixvalidator.com" target="_blank">Stixvalidator.com</a>
         </td>
         <td>
