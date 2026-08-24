@@ -964,6 +964,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://malwareintel.es" target="_blank">MalwareIntel</a>
+        </td>
+        <td>
+            Free CTI platform aggregating 4,300+ malware families and 1.8M+ IOCs from 117 public feeds. Features MITRE ATT&CK mapping with D3FEND mitigations, Sigma/YARA detection rules, interactive Knowledge Graph, and 600+ technical articles in Spanish. No installation required.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/CERT-Polska/n6" target="_blank">n6</a>
         </td>
         <td>
