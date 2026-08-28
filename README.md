@@ -546,6 +546,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://shadowserver.org/" target="_blank">Shadowserver</a>
+        </td>
+        <td>
+            Non-profit source providing free reports to network owners and CSIRTS, for example: exposed/misconfigured/abuseable/compromised service, Malware C2 Sinkhole data, honeypot and sensor telemetry data, DDoS monitoring, malware data, and more.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.stixify.com/" target="_blank">Stixify</a>
         </td>
         <td>
