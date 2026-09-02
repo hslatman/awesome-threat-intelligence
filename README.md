@@ -229,6 +229,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/fabriziosalmi/blacklists" target="_blank">Fabrizio Salmi's Domains Blacklist</a>
+        </td>
+        <td>
+            Daily-updated domain blocklist aggregated and de-duplicated from dozens of curated upstream sources, with per-source attribution and a public false-positive cross-check. Covers malware, phishing, advertising and tracking (and, from some upstream sources, gambling, piracy, streaming and adult domains). Published for Pi-hole, AdGuard, uBlock Origin, Squid, Unbound and RPZ (Bind/PowerDNS).
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://intercept.sh/threatlists/" target="_blank">FastIntercept</a>
         </td>
         <td>
