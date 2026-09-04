@@ -1300,6 +1300,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/cynative/cynative" target="_blank">Cynative</a>
+        </td>
+        <td>
+            Open-source framework for security agents with live, read-only access to your infrastructure (connects to AWS, GCP, Azure, self-managed Kubernetes, GitHub and GitLab).
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Neo23x0/Fenrir" target="_blank">Fenrir</a>
         </td>
         <td>
