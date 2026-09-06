@@ -1516,6 +1516,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://malwagon.com" target="_blank">Malwagon</a>
+        </td>
+        <td>
+            Malwagon is an online malware analysis sandbox that detonates files and URLs on instrumented Windows and Linux virtual machines. It returns process, registry, file and network behaviour, extracted indicators, ATT&amp;CK technique mappings and STIX and MISP exports, and it offers a REST API and a command line client. There is a free community tier to get started.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/MISP/misp-workbench" target="_blank">MISP Workbench</a>
         </td>
         <td>
