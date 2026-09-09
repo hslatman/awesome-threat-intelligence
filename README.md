@@ -2007,6 +2007,14 @@ All kinds of reading material about Threat Intelligence. Includes (scientific) r
             The WOMBAT project aims at providing new means to understand the existing and emerging threats that are targeting the Internet economy and the net citizens. To reach this goal, the proposal includes three key workpackages: (i) real time gathering of a diverse set of security related raw data, (ii) enrichment of this input by means of various analysis techniques, and (iii) root cause identification and understanding of the phenomena under scrutiny.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://traztech.ca/blog" target="_blank">TrazTech Security Research</a>
+        </td>
+        <td>
+            Security research and vulnerability disclosures by Jacob Masse, including 5 published CVEs such as <a href="https://nvd.nist.gov/vuln/detail/CVE-2024-45163" target="_blank">CVE-2024-45163</a> (CVSS 9.1), a kill-switch vulnerability in the Mirai botnet command-and-control infrastructure. Also covers cloud security analysis, compliance threat modeling, and AI/LLM security research.
+        </td>
+    </tr>
 </table>
 
 
