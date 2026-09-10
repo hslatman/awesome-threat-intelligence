@@ -1572,6 +1572,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://optisec-recon-pro.onrender.com" target="_blank">OPTISEC Recon Pro</a>
+        </td>
+        <td>
+            AI-assisted web vulnerability scanner (XSS/SQLi/SSRF/LFI/Open Redirect) with Arabic-language NLP support and Groq/LLaMA-powered analysis.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/kx499/ostip/wiki" target="_blank">OSTIP</a>
         </td>
         <td>
