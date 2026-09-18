@@ -1629,6 +1629,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://sealedrose.com/verify-video" target="_blank">Sealed Rose</a>
+        </td>
+        <td>
+            AI deepfake detection and frame forensics platform for verifying image and video authenticity, analyzing manipulation artifacts, and investigating synthetic impersonation threats.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/spacepatcher/softrace" target="_blank">Softrace</a>
         </td>
         <td>
