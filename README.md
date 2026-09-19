@@ -317,6 +317,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://ip99.com/en/" target="_blank">IP99</a>
+        </td>
+        <td>
+            IP99 is a free IP risk and geolocation lookup: proxy, VPN, dial-up pool, cloud-phone and datacenter detection with the age of the evidence behind each verdict, plus ASN and network usage type. No API key or signup is needed (curl https://ip99.com/v1/ip/&lt;ip&gt;, 1000 lookups per client IP per day); it is also available as a remote MCP server for AI assistants.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://ipasis.com" target="_blank">IPASIS</a>
         </td>
         <td>
