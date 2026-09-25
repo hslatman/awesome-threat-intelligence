@@ -723,6 +723,14 @@ Mrlooquer has created the first threat feed focused on systems with dual stack. 
             Free intelligence source for current and historical DNS information, finding other websites associated with certain IPs, and subdomain knowledge There is a <a href="https://app.validin.com/docs">free API for IP and domain intelligence</a> as well. 
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://whisper.online/docs/graph-api" target="_blank">Whisper Graph</a>
+        </td>
+        <td>
+            A queryable graph of internet infrastructure, joining DNS, routing, hosting, WHOIS, geolocation and threat intelligence, so a domain, IP address or ASN can be resolved to the infrastructure behind it, and a file hash to a reputation verdict. The read verbs answer over HTTP with no account and no API key.
+        </td>
+    </tr>
 </table>
 
 ## Formats
