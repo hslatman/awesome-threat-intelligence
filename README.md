@@ -1165,6 +1165,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
 
 
 ## Tools
+* [CyberCodex](https://github.com/prox0959/CyberCodex) - Zero-dependency Python CLI engine unifying 22 keyless CTI, infostealer (Hudson Rock), EPSS, CISA KEV, Shodan InternetDB, and BGP feeds with Sigma/Wazuh/KQL rule generation.
 
 All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly IOC based.
 
