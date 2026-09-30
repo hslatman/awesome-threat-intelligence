@@ -3,6 +3,7 @@ A curated list of awesome Threat Intelligence resources
 
 A concise definition of Threat Intelligence: *evidence-based knowledge, including context, mechanisms, indicators, implications and actionable advice, about an existing or emerging menace or hazard to assets that can be used to inform decisions regarding the subject’s response to that menace or hazard*.
 
+
 Feel free to [contribute](CONTRIBUTING.md).
 
 - [Sources](#sources)
@@ -112,10 +113,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             <a href="http://s3-us-west-1.amazonaws.com/umbrella-static/index.html" target="_blank">Cisco Umbrella</a>
         </td>
         <td>
-            Probable Whitelist of the top 1 million sites resolved by Cisco Umbrella (was OpenDNS).
-	</td>
-    </tr>
-    <tr>
+            Probable Whitelist of the top 1 million sites resolved by Cisco Umbrella (was OpenDNS).</td></tr><tr><td><a href="https://cl0q.com" target="_blank">cl0q</a></td><td>Open search engine for domain research and OSINT: 38.5M domains scanned, free API tier, no tracking.</td></tr><tr>
         <td>
             <a href="https://cloudmersive.com/virus-api" target="_blank">Cloudmersive Virus Scan</a>
         </td>
