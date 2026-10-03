@@ -309,6 +309,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://internetdata.io/" target="_blank">InternetData</a>
+        </td>
+        <td>
+            IP and ASN databases you download and query yourself: VPN, residential, datacenter and mobile proxy, Tor and hosting IPs, plus geolocation, AS ownership, WHOIS and BGP routes. Useful for enriching an indicator with what kind of network it comes from and who runs it.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.iblocklist.com/lists" target="_blank">I-Blocklist</a>
         </td>
         <td>
