@@ -1775,6 +1775,8 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
 
 
 
+* [LvxCloud](https://lvxcloudevs.me/) - Free FOFA-style search for exposed internet assets, open ports and CVEs. No signup.
+
 ## <a name="research"></a>Research, Standards & Books
 
 All kinds of reading material about Threat Intelligence. Includes (scientific) research and whitepapers.
