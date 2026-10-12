@@ -325,6 +325,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://ipscanner.io" target="_blank">IPScanner</a>
+        </td>
+        <td>
+            IPScanner returns the network class of an IP address (residential, mobile, hosting/datacenter, VPN, residential proxy or Tor) with a confidence score, and its Agentscan check flags AI crawlers and other bots. The free plan includes 30,000 requests a month. <a href="https://ipscanner.io/api-documentation" target="_blank">API documentation</a> and a keyless <a href="https://ipscanner.io/v1/demo/8.8.8.8" target="_blank">demo endpoint</a> are available.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt" target="_blank">IPsum</a>
         </td>
         <td>
