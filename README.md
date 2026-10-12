@@ -317,6 +317,18 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://ip99.com" target="_blank">IP99</a>
+        </td>
+        <td>
+            IP risk score and geolocation for IPv4 and IPv6 addresses: proxy, VPN,
+            dial-up pool and datacenter signals, ASN and usage type, each verdict
+            carrying the age of the evidence behind it. No API key for the first
+            500 lookups a day, so a suspicious address can be pivoted on without
+            signing up.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://ipasis.com" target="_blank">IPASIS</a>
         </td>
         <td>
