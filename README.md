@@ -293,6 +293,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://ichi.global/" target="_blank">ICHI – Internet Cyber Health Index</a>
+        </td>
+        <td>
+            A free, public-source outside-in view of internet cyber pressure and triage evidence. Aggregates vulnerability, exploitation, DDoS, ransomware, threat-actor, and supply-chain signals with linked source evidence, role-specific views (SOC, vulnerability management, threat intelligence, executive), and a searchable CVE/incident record. The pressure index is a directional signal, not an organizational risk score or deterministic forecast.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://infosec.cert-pa.it" target="_blank">Infosec - CERT-PA</a>
         </td>
         <td>
