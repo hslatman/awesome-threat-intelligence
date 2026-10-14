@@ -435,6 +435,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             MetaDefender Cloud Threat Intelligence Feeds contains top new malware hash signatures, including MD5, SHA1, and SHA256. These new malicious hashes have been spotted by MetaDefender Cloud within the last 24 hours. The feeds are updated daily with newly detected and reported malware to provide actionable and timely threat intelligence.
         </td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://www.networkdatalabs.com/" target="_blank">Network Data Labs</a>
+        </td>
+        <td>
+            IP intelligence API that returns geolocation, timezone and ASN for an IP address, plus risk flags for known VPN networks, Tor exit nodes, privacy relays and hosting/datacenter ranges. Free tier available. <a href="https://www.networkdatalabs.com/docs" target="_blank">API documentation</a>.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="http://www.nothink.org">NoThink!</a>
