@@ -29,14 +29,6 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
-            <a href="https://jordanricky1604-ship-it.github.io/malware-families-catalog/" target="_blank">Malware Families Catalog</a>
-        </td>
-        <td>
-            Open dataset of 2,899 malware families derived from EMBER 2018 with per-family MITRE ATT&CK techniques, IOCs, detection guidance, and incident response playbooks. Available as Parquet, JSONL, and a free JSON API. Apache-2.0 licensed.
-        </td>
-    </tr>
-    <tr>
-        <td>
             <a href="https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml" target="_blank">APT Groups and Operations</a>
         </td>
         <td>
@@ -409,6 +401,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
         </td>
         <td>
             A searchable list of malicious domains that also performs reverse lookups and lists registrants, focused on phishing, trojans, and exploit kits.
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://malware-families-catalog.systemhelpdesk.com/" target="_blank">Malware Families Catalog</a>
+        </td>
+        <td>
+            Open dataset and encyclopedia of 2,903 malware families derived from EMBER 2018 with per-family MITRE ATT&CK techniques, detection queries (YARA, Sigma, Suricata), and incident response playbooks. Available as Parquet, JSONL, and a free JSON API. Apache-2.0 licensed.
         </td>
     </tr>
     <tr>
