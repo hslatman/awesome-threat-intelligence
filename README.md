@@ -405,6 +405,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://malware-families-catalog.systemhelpdesk.com/" target="_blank">Malware Families Catalog</a>
+        </td>
+        <td>
+            Open dataset and encyclopedia of 2,903 malware families derived from EMBER 2018 with per-family MITRE ATT&CK techniques, detection queries (YARA, Sigma, Suricata), and incident response playbooks. Available as Parquet, JSONL, and a free JSON API. Apache-2.0 licensed.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.malwarepatrol.net/" target="_blank">Malware Patrol</a>
         </td>
         <td>
