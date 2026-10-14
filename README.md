@@ -1763,6 +1763,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             The Threat Intelligence Quotient (TIQ) Test tool provides visualization and statistical analysis of TI feeds.
         </td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://whoisfreaks.com/products/threat-intelligence-feed">WhoisFreaks Threat Intelligence Feeds</a>
+        </td>
+        <td>
+            Daily CSV feeds of phishing, malware and spam domains, plus VPN, proxy, Tor, bot and C2 IP addresses. Each feed page has a free sample download that needs no account. The full feeds are commercial.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://github.com/TAXIIProject/yeti" target="_blank">YETI</a>
