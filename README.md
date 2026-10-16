@@ -437,6 +437,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://netapi.com/compromised-urls/" target="_blank">NetAPI Compromised Domains and IPs</a>
+        </td>
+        <td>
+            Free daily lists of domains and IP addresses seen in public threat feeds within the last 24 hours, as plain-text feeds (one entry per line, no account needed, CC BY 4.0). Run by NetAPI, a registered-domain database covering 380M+ active domains across 1,500+ TLDs.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.nothink.org">NoThink!</a>
         </td>
         <td>SNMP, SSH, Telnet Blacklisted IPs from Matteo Cantoni's Honeypots</td>
