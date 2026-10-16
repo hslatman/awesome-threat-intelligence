@@ -1056,6 +1056,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
             The open, distributed, machine and analyst-friendly threat intelligence repository. Made by and for incident responders.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://zsazsa-project.org/" target="_blank">Zsazsa</a>
+        </td>
+        <td>
+            zsazsa is a CTI program management and production platform built around MISP. It links collection, triage, analyst workflows, requirement management, publishing and stakeholder delivery in one place, rather than as loose documents and disconnected scripts.
+        </td>
+    </tr>	
 </table>
 
 
