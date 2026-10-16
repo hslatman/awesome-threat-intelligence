@@ -538,6 +538,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://cti.securitycyber.uk/taxii2/" target="_blank">SecurityCyber CTI Feed</a>
+        </td>
+        <td>
+            Free TAXII 2.1 / STIX 2.1 feed of first-party honeypot and verified indicators (IPs, URLs, domains, file hashes). Anonymous, no paywall, refreshed daily.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/securityscorecard/SSC-Threat-Intel-IoCs" target="_blank">SecurityScorecard IoCs</a>
         </td>
         <td>
