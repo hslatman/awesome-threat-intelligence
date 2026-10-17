@@ -1765,6 +1765,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/corifeo/VulnState" target="_blank">VulnState</a>
+        </td>
+        <td>
+            VulnState is a Python library that models each CVE as a Coordinated Vulnerability Disclosure state machine (SEI/CMU model). It combines NVD, EPSS and CISA KEV data to flag zero-days, exploitation before a fix was available, and patch-priority tiers across large CVE sets.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/TAXIIProject/yeti" target="_blank">YETI</a>
         </td>
         <td>
