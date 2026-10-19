@@ -93,6 +93,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://certstream.dev/free-certstream-api.html" target="_blank">CertStream API</a>
+        </td>
+        <td>
+            Free hosted, CertStream-compatible WebSocket stream of newly issued certificates and their domain names from Certificate Transparency logs. No API key required.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.ccssforum.org/malware-certificates.php" target="_blank">CCSS Forum Malware Certificates</a>
         </td>
         <td>
