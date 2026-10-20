@@ -726,6 +726,7 @@ Mrlooquer has created the first threat feed focused on systems with dual stack. 
 </table>
 
 ## Formats
+* [Utilvo EdgeShield Cloud Scraper CIDR Feed](https://utilvo.com/edge-shield) - Machine-readable IPv4 CIDR & BGP ASN threat feed (`AS132203`, `AS45102`, `AS136907`, `AS396982`) for edge firewall and GA4 bot mitigation ([Live Feed](https://utilvo.com/api/edge-shield/threats?format=cidr)).
 
 Standardized formats for sharing Threat Intelligence (mostly IOCs).
 
