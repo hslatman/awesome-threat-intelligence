@@ -349,6 +349,14 @@ Continuously updated and inform your business or clients about risks and implica
     </tr>
     <tr>
         <td>
+            <a href="https://kev.bitsnprints.com/" target="_blank">KEV Watch</a>
+        </td>
+        <td>
+            Free weekly email digest of new CISA Known Exploited Vulnerabilities (KEV) catalog entries, filtered to the vendors you choose. Built on CISA's public KEV feed; not affiliated with CISA.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://majestic.com/reports/majestic-million" target="_blank">Majestic Million</a>
         </td>
         <td>
