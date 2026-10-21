@@ -1259,6 +1259,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/kushvinth/crowbar" target="_blank">crowbar</a>
+        </td>
+        <td>
+            Builds an offline SQLite index of NVD, CISA KEV, EPSS, SSVC, CVE List v5, Exploit-DB, Nuclei and Metasploit, and answers CVE, product/version and exploit-availability questions from a CLI, read-only SQL, or an MCP server.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/CrowdStrike/CrowdFMS" target="_blank">CrowdFMS</a>
         </td>
         <td>
