@@ -1677,6 +1677,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://www.subdomainwatch.com" target="_blank">SubdomainWatch</a>
+        </td>
+        <td>
+            Attack surface management platform combining Certificate Transparency streaming with recursive multi-cloud CNAME takeover verification and SSL expiry countdowns.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://test.taxiistand.com/" target="_blank">TAXII Test Server</a>
         </td>
         <td>
