@@ -29,6 +29,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://apiverve.com" target="_blank">APIVerve</a>
+        </td>
+        <td>
+            APIVerve is a REST API catalog with IP and domain reputation endpoints under one API key: IP Blacklist Lookup, Tor Node Detector, VPN Proxy Detector, Phishing Domain Checker, Domain Age, WHOIS Lookup and DNS Lookup. Free plan available, no card required. Also available as a hosted MCP server for AI agents.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml" target="_blank">APT Groups and Operations</a>
         </td>
         <td>
