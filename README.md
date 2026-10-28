@@ -546,6 +546,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://shieldlabs.ai/" target="_blank">ShieldLabs</a>
+        </td>
+        <td>
+            ShieldLabs provides device identification and browser/network risk signals for fraud and abuse prevention, including VPN, proxy, Tor and bot detection. Results are available through SDKs, API and webhooks. <a href="https://docs.shieldlabs.ai/" target="_blank">Documentation</a> and a free <a href="https://demo.shieldlabs.ai/anonymity-checker" target="_blank">Anonymity Checker</a> for the current browser visit are available.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.stixify.com/" target="_blank">Stixify</a>
         </td>
         <td>
