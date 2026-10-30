@@ -157,6 +157,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://defencelevel.com/index" target="_blank">DefenceLevel Index</a>
+        </td>
+        <td>
+            A daily cyber threat level on the DEFCON scale (5 to 1), computed with a public, versioned method from hundreds of public sources (government catalogs, CERTs, vendor advisories, research labs). Free JSON and CSV <a href="https://defencelevel.com/index/api" target="_blank">API</a> with no key, Atom feed and embeddable badge, licensed CC BY 4.0.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://focsec.com" target="_blank">Focsec.com</a>
         </td>
         <td>
