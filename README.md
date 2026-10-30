@@ -1308,6 +1308,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/ABTdomain/domainkits-sdk-js" target="_blank">domainkits-sdk-js</a>
+        </td>
+        <td>
+            TypeScript client for the DomainKits REST API. Searches newly registered, expired and deleted domains, and covers WHOIS and DNS lookups, typosquat scanning, reverse nameserver lookups and certificate transparency queries. Requires an API key from a paid account.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/Neo23x0/Fenrir" target="_blank">Fenrir</a>
         </td>
         <td>
