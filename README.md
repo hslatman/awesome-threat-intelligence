@@ -139,6 +139,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             Cyber Cure offers free cyber threat intelligence feeds with lists of IP addresses that are currently infected and attacking on the internet. There are list of urls used by malware and list of hash files of known malware that is currently spreading. CyberCure is using sensors to collect intelligence with a very low false positive rate. Detailed <a href="https://docs.cybercure.ai" target="_blank">documentation</a> is available as well.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://cyberworldops.eu/en/cve/analysis" target="_blank">CyberWorldOps Disclosure-to-Exploitation Dataset</a>
+        </td>
+        <td>
+            Free JSON dataset (CC BY 4.0) pairing CISA Known Exploited Vulnerabilities additions with NVD publication dates for 3,400+ CVEs: days from public disclosure to KEV listing, ransomware-flagged entries, monthly counts and top vendors, plus a <a href="https://cyberworldops.eu/data/observatory.json" target="_blank">30-day KEV observatory</a>. Built from CISA KEV, NVD and VulnCheck KEV data; methodology and caveats are on the <a href="https://cyberworldops.eu/en/cve/analysis" target="_blank">analysis page</a>, raw data at <a href="https://cyberworldops.eu/data/exploitation.json" target="_blank">/data/exploitation.json</a>.
+        </td>
+    </tr>
 <tr>
         <td>
             <a href="https://cyware.com/community/ctix-feeds" target="_blank">Cyware Threat Intelligence Feeds</a>
