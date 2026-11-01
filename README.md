@@ -1725,6 +1725,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://threathive.ai/tools/ioc-extractor/" target="_blank">ThreatHive IOC Extractor</a>
+        </td>
+        <td>
+            A free browser-based extractor that pulls IPs, domains, URLs, hashes and CVE IDs out of pasted reports, with defanging and refanging. Nothing pasted is sent to a server, and no account is needed.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/InQuest/ThreatIngestor" target="_blank">ThreatIngestor</a>
         </td>
         <td>
