@@ -1773,6 +1773,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://varaxontech.com/cve-checker" target="_blank">Varaxon CVE Checker</a>
+        </td>
+        <td>
+            Free web lookup that shows, for a single CVE, whether it is in the CISA Known Exploited Vulnerabilities (KEV) catalog, its current FIRST EPSS score and percentile, and its CVSS base score from NVD. No account required.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/TAXIIProject/yeti" target="_blank">YETI</a>
         </td>
         <td>
