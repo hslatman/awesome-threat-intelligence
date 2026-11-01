@@ -69,6 +69,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://breachdetect.net/domain-breach-check" target="_blank">BreachDetect</a>
+        </td>
+        <td>
+            BreachDetect is a stealer-log and data breach search engine for companies. It indexes over 44 billion stealer-log records from 37 million infected machines and 16.3 billion records from 808 breached databases, collected mostly from Telegram channels and bots. A free domain check, with no signup, shows how many of a company's logins have leaked, which of its own sign-in pages they belong to and a masked sample. Full results and API access are paid and sold to businesses only.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://danger.rulez.sk/index.php/bruteforceblocker/download/" target="_blank">BruteForceBlocker</a>
         </td>
         <td>
