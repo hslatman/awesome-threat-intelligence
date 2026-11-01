@@ -666,6 +666,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://threathive.ai/kev/" target="_blank">ThreatHive KEV Board</a>
+        </td>
+        <td>
+            The CISA Known Exploited Vulnerabilities catalog with EPSS scores, known ransomware use and a page for every CVE, refreshed daily. Free and without an account.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.threatminer.org/" target="_blank">ThreatMiner</a>
         </td>
         <td>
