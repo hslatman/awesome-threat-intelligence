@@ -675,6 +675,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://tifon.dev/" target="_blank">Tifon</a>
+        </td>
+        <td>
+            Tifon is a free threat intelligence news aggregator. It reads 69 RSS/Atom feeds directly from research labs, government advisories and the security press, and uses an LLM to turn each article into a structured report (summary, CVEs, IOCs, MITRE ATT&CK techniques, affected products, threat actors, victim sectors and criticality), grouping the articles about the same incident into a single case. Cases can be searched with Elasticsearch query syntax and facets, CVEs are matched against Exploit-DB, and the data is available over a public read-only <a href="https://tifon.dev/api/news" target="_blank">JSON API</a>. The interface is in Portuguese; each report can be read in English or Portuguese.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://raw.githubusercontent.com/WSTNPHX/scripts-n-tools/master/malware-email-addresses.txt">WSTNPHX Malware Email Addresses</a>
         </td>
         <td>Email addresses used by malware collected by VVestron Phoronix (WSTNPHX)</td>
