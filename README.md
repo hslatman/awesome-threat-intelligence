@@ -373,6 +373,15 @@ Continuously updated and inform your business or clients about risks and implica
     </tr>
     <tr>
         <td>
+            <a href="https://mallory.ai/" target="_blank">Mallory</a>
+        </td>
+        <td>
+            Mallory correlates intelligence from thousands of sources. Its collection combines structured feeds, extraction from security reports and advisories, social and dark-web monitoring, and Mallory's own malware sandboxing and internet scanning. The Intelligence Graph connects IOCs, vulnerabilities, threat actors, malware, exploits, breaches, and affected products, resolving entities across sources and retaining source-attributed IOC verdicts. Public <a href="https://www.mallory.ai/intelligence" target="_blank">news and intelligence pages</a> provide continuously updated security stories with links to supporting evidence. A <a href="https://docs.mallory.ai/api-reference/introduction" target="_blank">REST API</a> and <a href="https://docs.mallory.ai/integrations/mallory-mcp" target="_blank">remote MCP server</a> make the intelligence available to analyst workflows and AI agents.
+            <p>A <a href="https://mallory.ai/pricing" target="_blank">free community tier</a> is available; API access requires an account and key, with limits that vary by tier. <a href="https://app.mallory.ai/sign-up" target="_blank">Sign up</a>: Start a free trial, which automatically converts to the free community tier unless you upgrade.</p>
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://malpedia.caad.fkie.fraunhofer.de/" target="_blank">Malpedia</a>
         </td>
         <td>
