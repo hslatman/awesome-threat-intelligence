@@ -213,6 +213,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://apify.com/itulo/enisa-euvd-vulnerabilities" target="_blank">ENISA EUVD Feed (Apify)</a>
+        </td>
+        <td>
+            Records from the <a href="https://euvd.enisa.europa.eu/" target="_blank">ENISA European Vulnerability Database (EUVD)</a> as JSON: exploited vulnerabilities, critical CVSS advisories, latest publications, vendor/product/EPSS search and CVE or EUVD ID lookups, with aliases, affected products and references. Paid per use (pay-per-event Apify Actor; Apify free monthly credits cover a trial), MIT-licensed <a href="https://github.com/itulo/eu-nordic-open-data-mcp/tree/main/tools/enisa-euvd-vulnerabilities" target="_blank">source</a>. The EUVD itself is free to query directly.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://exonerator.torproject.org/" target="_blank">ExoneraTor</a>
         </td>
         <td>
