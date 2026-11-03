@@ -1474,6 +1474,15 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             Threat intelligence fusion and analysis tool that integrates threat data feeds with SIEM solutions. Users can immediately leverage threat intelligence for security monitoring and incident report (IR) activities in the workflow of their existing security operations.
         </td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://kev-explained.pages.dev/" target="_blank">KEV Explained</a>a>
+		</td>td>
+        <td>
+            Plain-English pages for every CVE in the CISA Known Exploited Vulnerabilities (KEV) catalog, with required action, due date, ransomware-use flag and source links. Rebuilt from the public-domain CISA feed; browsable by vendor and by month.
+		</td>td>
+	</tr>tr></td></td>
+
     <tr>
         <td>
             <a href="https://github.com/KasperskyLab/klara" target="_blank">KLara</a>
