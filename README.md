@@ -1420,6 +1420,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/kazisohan-cyber/soclens" target="_blank">IOC Triage</a>
+        </td>
+        <td>
+            Free, open-source browser extension (Chrome, Edge) for SOC analysts. Right-click any IP, domain, URL, file hash or CVE for an explainable verdict from 15 threat-intel sources (VirusTotal, AbuseIPDB, GreyNoise, abuse.ch, CISA KEV and more), with ticket notes, hunt queries and email header analysis. Runs locally; only the indicator is sent to each source.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/armbues/ioc_parser" target="_blank">ioc_parser</a>
         </td>
         <td>
