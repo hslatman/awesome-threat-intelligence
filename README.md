@@ -29,6 +29,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://abusetrack.io/" target="_blank">AbuseTrack</a>
+        </td>
+        <td>
+            Community IP blocklist fed by fail2ban, CrowdSec and firewall sensors. Plain-text feed that works without an API key, an AbuseIPDB-compatible API and public per-IP report pages. Data licensed under CC BY 4.0.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml" target="_blank">APT Groups and Operations</a>
         </td>
         <td>
