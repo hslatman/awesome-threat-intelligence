@@ -1524,6 +1524,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://maxintel.org/ioc-extractor.html" target="_blank">Max Intel IOC Extractor</a>
+        </td>
+        <td>
+            Max Intel IOC Extractor is a free, browser-based tool that pulls IPs, domains, URLs, file hashes, emails, CVEs and ASNs out of reports or logs. It refangs them, sets private and reserved addresses aside, runs optional keyless checks (Shodan InternetDB, Team Cymru) and exports Markdown, CSV, JSON or STIX 2.1.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/MISP/misp-workbench" target="_blank">MISP Workbench</a>
         </td>
         <td>
