@@ -437,10 +437,10 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
-            <a href="https://netapi.com/compromised-urls/" target="_blank">NetAPI Compromised Domains and IPs</a>
+            <a href="https://netapi.com/compromised-ips/" target="_blank">NetAPI Compromised IPs and Domains</a>
         </td>
         <td>
-            Free daily lists of domains and IP addresses seen in public threat feeds within the last 24 hours, as plain-text feeds (one entry per line, no account needed, CC BY 4.0). Run by NetAPI, a registered-domain database covering 380M+ active domains across 1,500+ TLDs.
+            Compromised IPs: NetAPI's own feed, the IPv4 addresses that attacked the sensors of NetAPI Nightwatch, its honeypot network, within the last 48 hours. Updated every hour.<br>Compromised domains: domains seen in public threat feeds within the last 24 hours. Updated daily.<br>Free plain-text feeds, one entry per line, no account needed, CC BY 4.0.
         </td>
     </tr>
     <tr>
