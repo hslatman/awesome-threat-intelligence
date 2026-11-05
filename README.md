@@ -552,6 +552,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             Public access IoCs from technical blogs posts and reports by SecurityScorecard.
         </td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://github.com/SOCRadarSTRU/STRU-threat-intel" target="_blank">SOCRadar STRU Threat Intel</a>
+        </td>
+        <td>
+            Public IoCs (domains, IPs, URLs, hashes) from research published by SOCRadar's Threat Research Unit (STRU), one file per investigation with a link to the full analysis.
+        </td>
+    </tr>
     <tr>
         <td>
             <a href="https://www.stixify.com/" target="_blank">Stixify</a>
