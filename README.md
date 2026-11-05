@@ -1219,6 +1219,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://bluebench.dev" target="_blank">Bluebench</a>
+        </td>
+        <td>
+            Bluebench is a free, open-source web toolkit for checking indicators. Look up IPs, domains, URLs and hashes against URLhaus, ThreatFox, MalwareBazaar and Google Safe Browsing (plus VirusTotal, AbuseIPDB, OTX and GreyNoise with your own keys), extract IOCs from text with CSV and STIX 2.1 export, and browse CISA KEV with EPSS scores. Extraction runs in the browser and nothing pasted is logged. Source available on <a href="https://github.com/ag3ntsc4rn/bluebench" target="_blank">GitHub</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/svdwi/BlueBox" target="_blank">BlueBox</a>
         </td>
         <td>
