@@ -261,6 +261,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://freezeradar.com/" target="_blank">FreezeRadar</a>
+        </td>
+        <td>
+            FreezeRadar tracks stablecoin issuer freeze and blacklist events (USDT, USDC, PAXG, XAUt) across major chains and lets you look up any wallet address for blacklist status, sanctions exposure and freeze/release history. Free public lookups; API and alerts available.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://greynoise.io/" target="_blank">GreyNoise</a>
         </td>
         <td>
