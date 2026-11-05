@@ -731,6 +731,14 @@ Mrlooquer has created the first threat feed focused on systems with dual stack. 
             Free intelligence source for current and historical DNS information, finding other websites associated with certain IPs, and subdomain knowledge There is a <a href="https://app.validin.com/docs">free API for IP and domain intelligence</a> as well. 
         </td>
     </tr>
+        <tr>
+            <td>
+                <a href="https://dctify.com/" target="_blank">Security Observer (Dctify)</a>
+            </td>
+            <td>
+                Independent vulnerability intelligence publication tracking the CISA Known Exploited Vulnerabilities (KEV) catalog with per-CVE remediation guidance, in-depth CVE analyses, and an MCP &amp; agent security hub. Bilingual (English/中文); provides an RSS feed.
+            </td>
+        </tr>
 </table>
 
 ## Formats
