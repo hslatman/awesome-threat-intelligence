@@ -69,6 +69,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/BRANDEFENSE/threat-actor-dataset" target="_blank">Brandefense Threat Actor Dataset</a>
+        </td>
+        <td>
+            Open dataset of APT groups, ransomware groups, malware families and MITRE ATT&amp;CK techniques with aliases, attribution, targets and source links for each entry. Available as JSON, CSV and STIX 2.1 under CC BY 4.0.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://danger.rulez.sk/index.php/bruteforceblocker/download/" target="_blank">BruteForceBlocker</a>
         </td>
         <td>
