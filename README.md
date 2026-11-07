@@ -1725,6 +1725,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://threatfilter.dev/guides/" target="_blank">ThreatFilter</a>
+        </td>
+        <td>
+            Public analyst workflows for IOC validation, STIX/MISP exports and ATT&amp;CK group triage, with downloadable checklists and links to the underlying tools. No signup required.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/InQuest/ThreatIngestor" target="_blank">ThreatIngestor</a>
         </td>
         <td>
