@@ -155,6 +155,16 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             C1fApp is a threat feed aggregation application, providing a single feed, both Open Source and private. Provides statistics dashboard, open API for search and is been running for a few years now. Searches are on historical data.
         </td>
     </tr>
+	 <tr>
+          <td>
+              <a href="https://ctiforecast.com/en/" target="_blank">CTI Forecast</a>
+          </td>
+          <td>
+              Sourced and scored IOC feed (IPs, domains, URLs, file hashes, CVEs) extracted from 300+ security research sources and curated feeds, each indicator linked to the article that cites it, with time-decaying confidence. Includes
+  a CVE exploitation forecast whose backtest is published. Free public blocklists (no key), REST API, STIX 2.1 and a TAXII 2.1 server.
+          </td>
+      </tr>
+
     <tr>
         <td>
             <a href="https://www.cybercure.ai/" target="_blank">Cyber Cure free intelligence feeds</a>
