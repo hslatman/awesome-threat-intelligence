@@ -237,6 +237,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://whatoblock.com/" target="_blank">Whatoblock</a>
+        </td>
+        <td>
+            Whatoblock runs a network of honeypot sensors that record unsolicited connections and classify source IPs as scanners, botnet C2 servers, abusive proxies, Tor exit nodes and DDoS sources. Data can be explored by port, protocol, ASN and country and exported as firewall-ready IP blocklists (TXT, CSV, JSON). A free account includes a sample blocklist.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://feodotracker.abuse.ch/" target="_blank">ZeuS Tracker</a>
         </td>
         <td>
