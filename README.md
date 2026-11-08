@@ -481,6 +481,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             OpenPhish receives URLs from multiple streams and analyzes them using its proprietary phishing detection algorithms. There are free and commercial offerings available.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://notebooks.opteryx.app/demo/cve" target="_blank">Opteryx CVE Lookup</a>
+        </td>
+        <td>
+            Free, no-account lookup of any CVE that joins its NVD record, EPSS exploit probability, CISA KEV status, public exploits from Exploit-DB and CWE weakness chain on one page. The underlying feeds are also queryable anonymously over an OData API.
+        </td>
+    </tr>
         <tr>
         <td>
             <a href="https://feed.seguranca-informatica.pt/index.php" target="_blank">0xSI_f33d</a>
