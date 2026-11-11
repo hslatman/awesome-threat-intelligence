@@ -277,6 +277,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://haveibeenransom.com/" target="_blank">Have I Been Ransomed?</a>
+        </td>
+        <td>
+            Have I Been Ransomed? searches email addresses, phone numbers and company domains across ransomware leak-site posts, stealer logs and data breaches. Lookups are available on the web and through an API.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://honeydb.io/" target="_blank">HoneyDB</a>
         </td> 
         <td>
