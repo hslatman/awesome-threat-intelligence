@@ -69,6 +69,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://breach.house/" target="_blank">Breach House</a>
+        </td>
+        <td>
+            Breach House is a threat intelligence search engine for ransomware and breach listings that shows the source and discovery date of each listing. It has a token-based API.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://danger.rulez.sk/index.php/bruteforceblocker/download/" target="_blank">BruteForceBlocker</a>
         </td>
         <td>
