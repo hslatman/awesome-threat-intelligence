@@ -1524,6 +1524,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Data-Unix/MCP-MALTEGO" target="_blank">mcp-maltego</a>
+        </td>
+        <td>
+            Open source Model Context Protocol (MCP) server that lets AI agents run Maltego-style OSINT and threat intelligence workflows: keyless transforms (DNS over HTTPS, RDAP/WHOIS, crt.sh, ASN, CISA KEV, URLhaus, AlienVault OTX), automated reconnaissance Machines, IOC link graphs with provenance, OFAC SDN crypto sanctions screening and native .mtgx export/import for Maltego. Source available on <a href="https://github.com/Data-Unix/MCP-MALTEGO" target="_blank">GitHub</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/MISP/misp-workbench" target="_blank">MISP Workbench</a>
         </td>
         <td>
