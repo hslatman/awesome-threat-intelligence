@@ -1241,6 +1241,16 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             Script for generating Bro intel files from pdf or html reports.
         </td>
     </tr>
+	<tr>
+        <td>
+            <a href="https://bulkiplab.com/" target="_blank">BulkIPLab</a>
+        </td>
+        <td>
+            BulkIPLab is a web-based tool for checking IPv4 reputation in bulk, with network details, filtering, and CSV export.
+        </td>
+    </tr>
+
+	
     <tr>
         <td>
             <a href="https://github.com/EclecticIQ/cabby" target="_blank">cabby</a>
