@@ -245,6 +245,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://namak7678.github.io/n3mak-radar/" target="_blank">N3mak Exposure Index</a>
+        </td>
+        <td>
+            A free, automatically rebuilt index of companies that ransomware groups have published, counted per country and refreshed every six hours. Ships with a public JSON endpoint and an embeddable per-country badge, so the numbers can be cited without an account.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://iplists.firehol.org/" target="_blank">FireHOL IP Lists</a>
         </td>
         <td>
