@@ -475,6 +475,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://feeds.offseq.com/" target="_blank">OffSeq Mirage Feed</a>
+        </td>
+        <td>
+            Free daily threat intelligence from the OffSeq Mirage honeypot fleet: handshake-verified attacker IPs, exploited CVEs with attempt counts, malware payload URLs and client fingerprints (HASSH, user agents). Published as plain lists, CSV, STIX 2.1, a native MISP feed and ready-made firewall, Suricata, nftables, MikroTik, CrowdSec and Defender formats, under CC BY 4.0 with no account or key.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://openphish.com/phishing_feeds.html" target="_blank">OpenPhish Feeds</a>
         </td>
         <td>
