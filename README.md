@@ -578,6 +578,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://smet.cz/nrd/" target="_blank">smet.cz Newly Registered Domains</a>
+        </td>
+        <td>
+            Free feed of newly registered domains seen across 1,600+ TLDs, updated several times a day. Lists for today, the last 7 days, the last 30 days and any single day from the past 90 are plain HTTPS downloads in TXT, JSON and gzip, with no account or API key. Useful for phishing detection, typosquatting and brand monitoring. Published under CC BY 4.0. <a href="https://smet.cz/docs/nrd/" target="_blank">API documentation</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.sophos.com/intelix" target="_blank">SophosLabs Intelix</a>
         </td>
         <td>
