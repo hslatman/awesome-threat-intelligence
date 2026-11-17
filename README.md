@@ -133,6 +133,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://cve.tools/" target="_blank">CVE Tools</a>
+        </td>
+        <td>
+            CVE database enriched with CVSS, EPSS, CISA KEV status and public exploit links, with trend reports. Free to browse without an account; REST API, CLI and MCP server available.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.cybercure.ai/" target="_blank">Cyber Cure free intelligence feeds</a>
         </td>
         <td>
