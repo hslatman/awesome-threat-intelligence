@@ -445,6 +445,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://www.midkernel.com/security/threat-intel" target="_blank">Midkernel Threat Intel</a>
+        </td>
+        <td>
+            Public-source threat intelligence from CISA KEV, EPSS, exploit frameworks and scanner templates, and Web3 incident reports, shown as daily, weekly and monthly class views. Free read-only MCP connector with no account or API key at https://www.midkernel.com/security/app/mcp/threat-intel. It is not an indicator feed.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.nothink.org">NoThink!</a>
         </td>
         <td>SNMP, SSH, Telnet Blacklisted IPs from Matteo Cantoni's Honeypots</td>
