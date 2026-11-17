@@ -923,6 +923,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/anonghosty/looking-glass" target="_blank">Looking Glass</a>
+        </td>
+        <td>
+            An open-source platform for national CSIRTs that turns Shadowserver's daily reports into a replayed picture of the country: infected devices calling sinkholes, exposed and vulnerable services, the indicators they share across reports, and advisories to the affected organisations.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/byt3smith/malstrom" target="_blank">Malstrom</a>
         </td>
         <td>
