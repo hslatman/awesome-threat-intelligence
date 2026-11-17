@@ -149,6 +149,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/moonetix/datacenter-ip-ranges" target="_blank">Datacenter IP Ranges</a>
+        </td>
+        <td>
+            IP ranges of cloud, hosting and CDN providers (AWS, Google Cloud, Oracle Cloud, DigitalOcean, Akamai Cloud/Linode, Vultr, Cloudflare, Fastly, GitHub), rebuilt daily from the feeds each provider publishes, with Tor exit nodes, iCloud Private Relay and published search and AI crawler ranges in separate lists. CIDR text, JSON and CSV files with the source URL of every range, plus Node.js, PHP and Python lookup helpers. Code is MIT; the data follows each provider's terms.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://dataplane.org/" target="_blank">DataPlane.org</a>
         </td>
         <td>
