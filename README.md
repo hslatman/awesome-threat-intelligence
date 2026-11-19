@@ -37,6 +37,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/trilwu/apttrail" target="_blank">APTtrail</a>
+        </td>
+        <td>
+            Hourly feed of ~167,000 APT indicators where every indicator carries the actor it belongs to, its MITRE ATT&CK group id, the date it first appeared and the report that published it. Available as a MISP feed, STIX 2.1, Suricata rules, Sigma, CSV and JSON.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.binarydefense.com/banlist.txt" target="_blank">Binary Defense IP Banlist</a>
         </td>
         <td>
