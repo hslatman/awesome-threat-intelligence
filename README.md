@@ -133,6 +133,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://cyberbriefing.info" target="_blank">CyberBriefing</a>
+        </td>
+        <td>
+            CyberBriefing provides an API for accessing 2.7M+ historical cybersecurity articles spanning 2007–2023, with full-text search, CVE/CVSS context, and AI-generated threat briefings. Free tier available; paid plans for higher rate limits and briefing generation.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.cybercure.ai/" target="_blank">Cyber Cure free intelligence feeds</a>
         </td>
         <td>
