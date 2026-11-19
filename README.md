@@ -139,6 +139,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             Cyber Cure offers free cyber threat intelligence feeds with lists of IP addresses that are currently infected and attacking on the internet. There are list of urls used by malware and list of hash files of known malware that is currently spreading. CyberCure is using sensors to collect intelligence with a very low false positive rate. Detailed <a href="https://docs.cybercure.ai" target="_blank">documentation</a> is available as well.
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://github.com/cystack/stealer-fingerprints" target="_blank">CyStack Stealer Fingerprints</a>
+        </td>
+        <td>
+            Public catalog of infostealer log fingerprints maintained by CyStack. Covers 30+ stealer families (RedLine, Vidar, Lumma, StealC and others) with banner strings, field signatures, sanitized samples, and YARA rules.
+        </td>
+    </tr>
 <tr>
         <td>
             <a href="https://cyware.com/community/ctix-feeds" target="_blank">Cyware Threat Intelligence Feeds</a>
