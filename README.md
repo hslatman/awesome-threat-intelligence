@@ -117,6 +117,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://clankerusecase.com/" target="_blank">Clankerusecase</a>
+        </td>
+        <td>
+            Free machine-readable IOC feeds (CSV, JSON, STIX 2.1, RSS) extracted from public threat-intel reporting, alongside 7,800+ MITRE ATT&amp;CK-mapped SIEM detections generated from the same intel. MIT-licensed, no registration required.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://cloudmersive.com/virus-api" target="_blank">Cloudmersive Virus Scan</a>
         </td>
         <td>
