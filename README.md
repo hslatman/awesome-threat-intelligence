@@ -21,6 +21,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
 <table>
     <tr>
         <td>
+            <a href="https://whiteintel.io/" target="_blank">WhiteIntel</a>
+        </td>
+        <td>
+             WhiteIntel assists companies in identifying compromised credentials through malware campaigns. 
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
         </td>
         <td>
