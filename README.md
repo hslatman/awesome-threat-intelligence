@@ -19,6 +19,17 @@ Some consider these sources as threat intelligence, opinions differ however.
 A certain amount of (domain- or business-specific) analysis is necessary to create true threat intelligence.
 
 <table>
+	<tr>
+            <td>
+                <a href="https://subdomainwatch.
+  com/?utm_source=awesome_threat_intelligence&utm_medium=directory&utm_campaign=launch_q4"
+  target="_blank">SubdomainWatch</a>
+            </td>
+            <td>
+                Automated external attack surface monitoring sentinel auditing dangling DNS, TLS
+  expiry, and cloud provider perimeter drift with shift-left IaC guard.
+            </td>
+        </tr>
     <tr>
         <td>
             <a href="https://www.abuseipdb.com/" target="_blank">AbuseIPDB</a>
