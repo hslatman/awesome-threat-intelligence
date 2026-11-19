@@ -1516,6 +1516,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/debugactiveprocess/MaldocTrace" target="_blank">MaldocTrace</a>
+        </td>
+        <td>
+            MaldocTrace extracts IOCs (URLs, domains, IPs, file paths, hashes) and the commands a malicious document would run from Office files, RTF, OneNote sections and email attachments, by parsing and emulating their macros and scripts without executing them. It outputs a JSON report with a verdict and risk score for triage pipelines.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/silascutler/MalPipe" target="_blank">MalPipe</a>
         </td>
         <td>
