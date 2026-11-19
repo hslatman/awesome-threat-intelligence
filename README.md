@@ -35,7 +35,15 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
             A spreadsheet containing information and intelligence about APT groups, operations and tactics.
         </td>
     </tr>
-    <tr>
+           <tr>
+            <td>
+                <a href="https://asiafraudinfo.com/" target="_blank">Asia Fraud Info</a>
+            </td>
+            <td>
+                Asia Fraud Info delivers a searchable database of Asia-Pacific impersonation platforms — fake exchanges, fake brokers, romance-scam apps, and fake government portals — currently tracking 44+ platforms across 10 countries, with 31,000+ verified victim cases compiled from regulatory enforcement actions. The dataset is available with schema.org Dataset markup and 6 download distributions in 5 languages (EN/简体/繁體/日本語/한국어).
+            </td>
+        </tr>
+	<tr>
         <td>
             <a href="https://www.binarydefense.com/banlist.txt" target="_blank">Binary Defense IP Banlist</a>
         </td>
