@@ -149,6 +149,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://darkfield.orizon.one" target="_blank">Darkfield</a>
+        </td>
+        <td>
+            A free public observatory of ransomware operators and their leak-site victim disclosures, blacklisted wallets, leaked credentials and dark web chatter. Every operator and victim has a permanent URL, and the collection methodology and limitations are documented publicly.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://dataplane.org/" target="_blank">DataPlane.org</a>
         </td>
         <td>
