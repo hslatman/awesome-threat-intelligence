@@ -709,6 +709,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://vulert.com">Vulert</a>
+        </td>
+        <td>
+            Vulert secures your software supply chain by detecting and continuously monitoring vulnerabilities and malicious open-source dependencies — without accessing your source code or installing agents. It helps developers identify, prioritize, and fix vulnerabilities quickly and efficiently. Supports JavaScript, PHP, Java, Python, Go, Rust, and more.
+        </td>
+    </tr>	
+	<tr>
+        <td>
             <a href="https://github.com/Yara-Rules/rules" target="_blank">Yara-Rules</a>
         </td>
         <td>
