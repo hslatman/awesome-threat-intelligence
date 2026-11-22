@@ -29,6 +29,14 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/ThreatDefence/agentic-attack-detections" target="_blank">Agentic Attack Detections</a>
+        </td>
+        <td>
+            Indicators for AI agent attack frameworks (ARTEX, Cairn, PentAGI, CyberStrikeAI, Strix, Hermes Agent) taken from public reports, each with its source and a review date. Published as plain text feeds, a CSV and a STIX 2.1 bundle, next to Suricata, Sigma, YARA and KQL detection rules for the same frameworks.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml" target="_blank">APT Groups and Operations</a>
         </td>
         <td>
