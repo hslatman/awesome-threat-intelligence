@@ -996,6 +996,14 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/V1n1v131r4/OpenInvestigation" target="_blank">OpenInvestigation</a>
+        </td>
+        <td>
+            Self-hosted threat investigation workspace that correlates public evidence (IOCs, CVEs, actor names) across 30+ sources into a relationship graph and a cited, confidence-scored case assessment. Supports MISP event import and STIX 2.1 export, and runs on Docker.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.fireeye.com/services/freeware.html" target="_blank">OpenIOC</a>
         </td>
         <td>
