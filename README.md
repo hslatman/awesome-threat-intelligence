@@ -160,7 +160,7 @@ A certain amount of (domain- or business-specific) analysis is necessary to crea
               <a href="https://ctiforecast.com/en/" target="_blank">CTI Forecast</a>
           </td>
           <td>
-              Sourced and scored IOC feed (IPs, domains, URLs, file hashes, CVEs) extracted from 300+ security research sources and curated feeds, each indicator linked to the article that cites it, with time-decaying confidence. Includes
+              Sourced and scored IOC feed (IPs, domains, URLs, file hashes, CVEs) extracted from 400+ security research sources and curated feeds, each indicator linked to the article that cites it, with time-decaying confidence. Includes
   a CVE exploitation forecast whose backtest is published. Free public blocklists (no key), REST API, STIX 2.1 and a TAXII 2.1 server.
           </td>
       </tr>
