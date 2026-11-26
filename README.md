@@ -1637,6 +1637,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/Hormerty/SecDailyBrief" target="_blank">SecDailyBrief</a>
+        </td>
+        <td>
+            A daily security brief by e-mail: reads 124 public feeds — including 20 national CERTs — translates foreign advisory titles to English, ranks them against the reader's own stack, and enriches the highest-scoring CVEs with CISA's KEV deadline and SSVC decision. Windows and Linux; alerts can also go to Slack, Discord or Telegram.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/spacepatcher/softrace" target="_blank">Softrace</a>
         </td>
         <td>
