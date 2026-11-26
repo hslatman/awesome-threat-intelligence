@@ -1235,7 +1235,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
-            <a href="https://brand-checker.appwrite.network" target="_blank">BrandShield</a>
+            <a href="https://brand.shipbastion.com" target="_blank">BrandShield</a>
         </td>
         <td>
             BrandShield is a free, no-auth domain and brand-impersonation intelligence scanner that queries 78 TLDs concurrently over DNS, RDAP, and authoritative nameserver records to identify lookalike registrations, parked aftermarket infrastructure, and USPTO trademark collisions. Queryable on the web, via a remote MCP server, or through the open-source CLI on <a href="https://github.com/zColdWater/brandshield-cli" target="_blank">GitHub</a>.
