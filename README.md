@@ -1235,6 +1235,14 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
     </tr>
     <tr>
         <td>
+            <a href="https://github.com/shujaSN/BreachMap" target="_blank">Breachmap</a>
+        </td>
+        <td>
+            Turns a security incident into a sourced, interactive attack map: each step mapped to MITRE ATT&CK with a cited source, plus the defenses that address it. Live gallery: <a href="https://shujasn.github.io/BreachMap/" target="_blank">shujasn.github.io/BreachMap</a>. Source available on <a href="https://github.com/shujaSN/BreachMap" target="_blank">GitHub</a>.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://github.com/exp0se/bro-intel-generator" target="_blank">bro-intel-generator</a>
         </td>
         <td>
