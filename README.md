@@ -1635,7 +1635,7 @@ All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly
             Real Intelligence Threat Analytics (RITA) is intended to help in the search for indicators of compromise in enterprise networks of varying size.
         </td>
     </tr>
-	<tr>
+    <tr>
         <td>
             <a href="https://github.com/Hormerty/SecDailyBrief" target="_blank">SecDailyBrief</a>
         </td>
