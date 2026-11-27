@@ -413,6 +413,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://malware-families-catalog.systemhelpdesk.com/" target="_blank">Malware Families Catalog</a>
+        </td>
+        <td>
+            Reference catalog of malware families and vendor detection labels with JSONL, CSV and Parquet exports. Documents which profiles have public-source reviews and where legacy counts remain unverified; generated detection examples are experimental.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="https://www.malwarepatrol.net/" target="_blank">Malware Patrol</a>
         </td>
         <td>
