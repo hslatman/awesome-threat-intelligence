@@ -445,6 +445,14 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
     </tr>
     <tr>
         <td>
+            <a href="https://netapi.com/compromised-ips/" target="_blank">NetAPI Compromised IPs and Domains</a>
+        </td>
+        <td>
+            Compromised IPs: NetAPI's own feed, the IPv4 addresses that attacked the sensors of NetAPI Nightwatch, its honeypot network, within the last 48 hours. Updated every hour.<br>Compromised domains: NetAPI's own detection (malware domains held by sinkhole name servers, domains related to confirmed phishing) plus CERT Polska's phishing list, listed for 48 hours. Updated every hour.<br>Free plain-text feeds, one entry per line, no account needed, CC BY 4.0.
+        </td>
+    </tr>
+    <tr>
+        <td>
             <a href="http://www.nothink.org">NoThink!</a>
         </td>
         <td>SNMP, SSH, Telnet Blacklisted IPs from Matteo Cantoni's Honeypots</td>
