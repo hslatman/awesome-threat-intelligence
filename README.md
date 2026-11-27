@@ -408,7 +408,7 @@ The primary goal of Malpedia is to provide a resource for rapid identification a
             <a href="https://malware-families-catalog.systemhelpdesk.com/" target="_blank">Malware Families Catalog</a>
         </td>
         <td>
-            Open dataset and encyclopedia of 2,903 malware families derived from EMBER 2018 with per-family MITRE ATT&CK techniques, detection queries (YARA, Sigma, Suricata), and incident response playbooks. Available as Parquet, JSONL, and a free JSON API. Apache-2.0 licensed.
+            Reference catalog of malware families and vendor detection labels with JSONL, CSV and Parquet exports. Documents which profiles have public-source reviews and where legacy counts remain unverified; generated detection examples are experimental.
         </td>
     </tr>
     <tr>
