@@ -1173,6 +1173,7 @@ Frameworks, platforms and services for collecting, analyzing, creating and shari
 
 
 ## Tools
+- [Insomnia Security MCP](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp) - Unified offensive security & AppSec MCP server for AI agents (160 tools: multi-language SAST/taint, live secret validation, Web DAST, 21,100+ 1-Day CVE verification, 29-protocol enumeration, OSINT, Cloud/AD audit, Scope Firewall; Streamable HTTP & local CLI).
 
 All kinds of tools for parsing, creating and editing Threat Intelligence. Mostly IOC based.
 
